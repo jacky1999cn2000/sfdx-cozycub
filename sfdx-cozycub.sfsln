@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{0158AF0B-92B7-42F8-9665-B7A370B0398D}") = "sfdx-cozycub", "sfdx-cozycub.dxproj", "{709DE1B7-323D-4578-882F-E77479546926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709DE1B7-323D-4578-882F-E77479546926}.Debug|x86.ActiveCfg = Debug|x86
+		{709DE1B7-323D-4578-882F-E77479546926}.Debug|x86.Build.0 = Debug|x86
+		{709DE1B7-323D-4578-882F-E77479546926}.Release|x86.ActiveCfg = Debug|x86
+		{709DE1B7-323D-4578-882F-E77479546926}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+EndGlobal
