@@ -38,3 +38,6 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+
+# sfdx & welkin settings
+settings.sfprojsettings
