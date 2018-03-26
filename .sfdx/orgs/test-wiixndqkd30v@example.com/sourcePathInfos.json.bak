@@ -5,8 +5,8 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app",
             "isDirectory": true,
             "size": 102,
-            "modifiedTime": 1521881134000,
-            "changeTime": 1521881134000,
+            "modifiedTime": 1522036763000,
+            "changeTime": 1522036763000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
             "state": "u",
@@ -39,7 +39,39 @@
             "changeTime": 1522026990000,
             "contentHash": "3c02844b0e6cfd8604cff0a8979c9391eb8ed906",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "930bc864b0a779ab1739959d015c4c9614eefa09",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications/Cozy_Cub.app-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications/Cozy_Cub.app-meta.xml",
+            "isDirectory": false,
+            "size": 531,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "90de0879051b8766d905b603dcea95fe50e555c3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -63,8 +95,8 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer",
             "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1522030691000,
-            "changeTime": 1521881481000,
+            "modifiedTime": 1522033328000,
+            "changeTime": 1522033328000,
             "contentHash": "7e0889d136be78d3ce6cf1878a771a3f5eb41b7c",
             "isMetadataFile": false,
             "state": "u",
@@ -90,15 +122,15 @@
     [
         "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
             "isDirectory": false,
-            "size": 468,
-            "modifiedTime": 1522030532000,
-            "changeTime": 1522030035000,
-            "contentHash": "737bd71c09404abdbc6f54e6dc459c65b1dbf679",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 379,
+            "modifiedTime": 1522037788000,
+            "changeTime": 1522037788000,
+            "isWorkspace": false,
+            "contentHash": "68afe8d496176deca474ec11be7db94f91877e13"
         }
     ],
     [
@@ -106,10 +138,10 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp-meta.xml",
             "isDirectory": false,
-            "size": 250,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "47174a927d7a7793427601399472ce11c4dc0a13",
+            "size": 228,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -119,15 +151,16 @@
     [
         "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
         {
-            "state": "u",
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 53,
-            "modifiedTime": 1522030691000,
-            "changeTime": 1522030691000,
+            "modifiedTime": 1522035995000,
+            "changeTime": 1522035995000,
+            "contentHash": "628ba90951de962f0fa28702a46a9c0686a54e32",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "f7e1dbf6e0b035c0f3d0db39fc8c7e7c3aa0d4c1"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -165,10 +198,10 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 64,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -180,10 +213,10 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "size": 44,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -195,236 +228,14 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerRenderer.js",
             "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "size": 49,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1522030508000,
-            "changeTime": 1522030508000,
-            "isWorkspace": true,
-            "contentHash": "d81c143de69567f476ca10f3299e4dd60cf93e4a"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Cozy_Cub_UtilityBar.flexipage-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Cozy_Cub_UtilityBar.flexipage-meta.xml",
-            "isDirectory": false,
-            "size": 382,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "4b97e627726494099d8c3be5a8cca9f22fec7403",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Let_s_gamify.flexipage-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Let_s_gamify.flexipage-meta.xml",
-            "isDirectory": false,
-            "size": 489,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "f1d23298009786ffa017942df6e927d2ff786a7a",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs/Let_s_gamify.tab-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs/Let_s_gamify.tab-meta.xml",
-            "isDirectory": false,
-            "size": 318,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "1782c2737cc7f53f710b45fa4961be005a43ee4e",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications/Cozy_Cub.app-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications/Cozy_Cub.app-meta.xml",
-            "isDirectory": false,
-            "size": 531,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "90de0879051b8766d905b603dcea95fe50e555c3",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 4616,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "edac2d3eda4ee8f097e6bf863697724f66da588c",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 4616,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "edac2d3eda4ee8f097e6bf863697724f66da588c",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 4954,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "92cb8d660b4552b3dc1e0286f5ef31205818e135",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Admin.profile-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Admin.profile-meta.xml",
-            "isDirectory": false,
-            "size": 17671,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "2f22fc28d1415191ff8c7bb77631ccbf06b75983",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets/CozyCub_Admin.permissionset-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets/CozyCub_Admin.permissionset-meta.xml",
-            "isDirectory": false,
-            "size": 347,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "ac9152a4148813673e8223376874086e1e4d5e61",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset-meta.xml",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset-meta.xml",
-            "isDirectory": false,
-            "size": 464,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "786e9950760250c04c061c7d00a765911e34f310",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset",
-            "isDirectory": false,
-            "size": 139513,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "da0319651fbb8779e2fcf528455f97f181c811dd",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages",
-            "isDirectory": true,
-            "size": 136,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "8528fb58c2228bcb97dd72ac16577cf87b241833",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs",
-            "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "97d68731c82e47d8112889de2d3e699b73f6d43c",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/applications",
-            "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "930bc864b0a779ab1739959d015c4c9614eefa09",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles",
-            "isDirectory": true,
-            "size": 204,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets",
-            "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "1c35a9770538a381b86a7a91ad4252f3507c92e9",
-            "isMetadataFile": false,
-            "state": "u"
         }
     ],
     [
@@ -437,33 +248,189 @@
             "changeTime": 1521881766000,
             "contentHash": "a4ec67b977f69573c8864d69ecc6d8b31e307a3b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.resource-meta.xml",
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset",
         {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.resource-meta.xml",
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset",
             "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1522026990000,
-            "changeTime": 1522026990000,
-            "contentHash": "c5ae89a08d0469ad1b16ff5ef26d4cf4b7ffe209",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.js",
-        {
-            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.js",
-            "isDirectory": false,
-            "size": 2245,
-            "modifiedTime": 1522026990000,
-            "changeTime": 1522026990000,
-            "contentHash": "bbcdbe81e286b6c9f3dbc19f1232547089fcb376",
+            "size": 139513,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "da0319651fbb8779e2fcf528455f97f181c811dd",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/contentassets/CozyCub.asset-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "786e9950760250c04c061c7d00a765911e34f310",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "8528fb58c2228bcb97dd72ac16577cf87b241833",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Cozy_Cub_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Cozy_Cub_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "4b97e627726494099d8c3be5a8cca9f22fec7403",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Let_s_gamify.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/flexipages/Let_s_gamify.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 489,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "f1d23298009786ffa017942df6e927d2ff786a7a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "1c35a9770538a381b86a7a91ad4252f3507c92e9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets/CozyCub_Admin.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/permissionsets/CozyCub_Admin.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "ac9152a4148813673e8223376874086e1e4d5e61",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17671,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "2f22fc28d1415191ff8c7bb77631ccbf06b75983",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4616,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "edac2d3eda4ee8f097e6bf863697724f66da588c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4616,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "edac2d3eda4ee8f097e6bf863697724f66da588c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4954,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "92cb8d660b4552b3dc1e0286f5ef31205818e135",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -476,7 +443,83 @@
             "changeTime": 1522026990000,
             "contentHash": "92eb8dc4bb7eee420916745ec3358dbb4e8f1c43",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.js",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.js",
+            "isDirectory": false,
+            "size": 2245,
+            "modifiedTime": 1522026990000,
+            "changeTime": 1522026990000,
+            "contentHash": "bbcdbe81e286b6c9f3dbc19f1232547089fcb376",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.resource-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1522026990000,
+            "changeTime": 1522026990000,
+            "contentHash": "c5ae89a08d0469ad1b16ff5ef26d4cf4b7ffe209",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "97d68731c82e47d8112889de2d3e699b73f6d43c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs/Let_s_gamify.tab-meta.xml",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs/Let_s_gamify.tab-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1521881766000,
+            "changeTime": 1521881766000,
+            "contentHash": "1782c2737cc7f53f710b45fa4961be005a43ee4e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub",
+        {
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub",
+            "isDirectory": true,
+            "size": 510,
+            "modifiedTime": 1522036943000,
+            "changeTime": 1522036943000,
+            "contentHash": "481b830970b1559d02fad8fa73840d4f3572e4e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ]
 ]

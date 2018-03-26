@@ -7,8 +7,8 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 102,
-            "modifiedTime": 1521881134000,
-            "changeTime": 1521881134000,
+            "modifiedTime": 1522036763000,
+            "changeTime": 1522036763000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isWorkspace": false,
             "isArtifactRoot": true
@@ -36,10 +36,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 306,
-            "modifiedTime": 1521881766000,
-            "changeTime": 1521881766000,
-            "contentHash": "a89d0e53cc673a75ba3d9e951c9d03d80622fb04",
+            "size": 340,
+            "modifiedTime": 1522026990000,
+            "changeTime": 1522026990000,
+            "contentHash": "3c02844b0e6cfd8604cff0a8979c9391eb8ed906",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -97,8 +97,8 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 374,
-            "modifiedTime": 1521881481000,
-            "changeTime": 1521881481000,
+            "modifiedTime": 1522033328000,
+            "changeTime": 1522033328000,
             "contentHash": "7e0889d136be78d3ce6cf1878a771a3f5eb41b7c",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -126,10 +126,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 156,
-            "modifiedTime": 1521881481000,
-            "changeTime": 1521881481000,
-            "contentHash": "58f4bf942e3bd320635075252a57eec43c08cdbe",
+            "size": 383,
+            "modifiedTime": 1522037835000,
+            "changeTime": 1522037835000,
+            "contentHash": "974ddd465f98e74c8e7ddcea2fbea475650d7a0b",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -141,10 +141,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 250,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "47174a927d7a7793427601399472ce11c4dc0a13",
+            "size": 228,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -156,10 +156,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 10,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "size": 53,
+            "modifiedTime": 1522035995000,
+            "changeTime": 1522035995000,
+            "contentHash": "628ba90951de962f0fa28702a46a9c0686a54e32",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -201,10 +201,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 64,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -216,10 +216,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "size": 44,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -231,10 +231,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "size": 49,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -435,6 +435,51 @@
         }
     ],
     [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1522026990000,
+            "changeTime": 1522026990000,
+            "contentHash": "92eb8dc4bb7eee420916745ec3358dbb4e8f1c43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2245,
+            "modifiedTime": 1522026990000,
+            "changeTime": 1522026990000,
+            "contentHash": "bbcdbe81e286b6c9f3dbc19f1232547089fcb376",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/staticresources/AuraPromise.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1522026990000,
+            "changeTime": 1522026990000,
+            "contentHash": "c5ae89a08d0469ad1b16ff5ef26d4cf4b7ffe209",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/tabs",
         {
             "state": "n",
@@ -471,10 +516,10 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 476,
-            "modifiedTime": 1521881500000,
-            "changeTime": 1521881500000,
-            "contentHash": "d1dafffd7362d8b034064b044332d4e68e3a9959",
+            "size": 510,
+            "modifiedTime": 1522036943000,
+            "changeTime": 1522036943000,
+            "contentHash": "481b830970b1559d02fad8fa73840d4f3572e4e1",
             "isWorkspace": true,
             "isArtifactRoot": false
         }

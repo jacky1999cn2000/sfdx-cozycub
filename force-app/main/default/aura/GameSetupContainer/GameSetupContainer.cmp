@@ -2,7 +2,7 @@
 	
     <lightning:tabset variant="scoped">
         <lightning:tab label="Challenges">
-            Challenges
+            Challenges~~~!!!
         </lightning:tab>
         <lightning:tab label="Actions">
             Actions

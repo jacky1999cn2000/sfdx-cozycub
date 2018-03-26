@@ -1,0 +1,28 @@
+{
+  "name": "sfdx-cozycub",
+  "version": "1.0.0",
+  "description": "## Dev, Build and Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacky1999cn2000/sfdx-cozycub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacky1999cn2000/sfdx-cozycub/issues"
+  },
+  "homepage": "https://github.com/jacky1999cn2000/sfdx-cozycub#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "nodemonConfig": {
+    "watch": ["force-app"],
+    "exec": "sfdx force:source:push -f",
+    "ext": "cls,xml,json,js,trigger,cmp,css,design,svg",
+    "delay": "2500"
+  }
+}
