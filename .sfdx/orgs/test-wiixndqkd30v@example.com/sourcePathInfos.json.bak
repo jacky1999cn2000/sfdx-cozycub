@@ -63,7 +63,7 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer",
             "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1522027992000,
+            "modifiedTime": 1522030691000,
             "changeTime": 1521881481000,
             "contentHash": "7e0889d136be78d3ce6cf1878a771a3f5eb41b7c",
             "isMetadataFile": false,
@@ -90,15 +90,15 @@
     [
         "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
             "isDirectory": false,
+            "size": 468,
+            "modifiedTime": 1522030532000,
+            "changeTime": 1522030035000,
+            "contentHash": "737bd71c09404abdbc6f54e6dc459c65b1dbf679",
             "isMetadataFile": false,
-            "size": 375,
-            "modifiedTime": 1522027992000,
-            "changeTime": 1522027992000,
-            "isWorkspace": false,
-            "contentHash": "77dfea1c3e2899380967de4a679624ca00f45e4c"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -119,16 +119,15 @@
     [
         "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
         {
+            "state": "u",
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 53,
+            "modifiedTime": 1522030691000,
+            "changeTime": 1522030691000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "f7e1dbf6e0b035c0f3d0db39fc8c7e7c3aa0d4c1"
         }
     ],
     [
@@ -213,11 +212,11 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 510,
-            "modifiedTime": 1521883129000,
-            "changeTime": 1521883129000,
+            "size": 544,
+            "modifiedTime": 1522030508000,
+            "changeTime": 1522030508000,
             "isWorkspace": true,
-            "contentHash": "8daec072ee90a348892e4f00e01fc6db19852648"
+            "contentHash": "d81c143de69567f476ca10f3299e4dd60cf93e4a"
         }
     ],
     [

@@ -63,7 +63,7 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer",
             "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1522028777000,
+            "modifiedTime": 1522030731000,
             "changeTime": 1521881481000,
             "contentHash": "7e0889d136be78d3ce6cf1878a771a3f5eb41b7c",
             "isMetadataFile": false,
@@ -92,10 +92,10 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
             "isDirectory": false,
-            "size": 375,
-            "modifiedTime": 1522027992000,
-            "changeTime": 1522027992000,
-            "contentHash": "77dfea1c3e2899380967de4a679624ca00f45e4c",
+            "size": 468,
+            "modifiedTime": 1522030532000,
+            "changeTime": 1522030035000,
+            "contentHash": "737bd71c09404abdbc6f54e6dc459c65b1dbf679",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -123,11 +123,11 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 28,
-            "modifiedTime": 1522028777000,
-            "changeTime": 1522028777000,
+            "size": 53,
+            "modifiedTime": 1522030731000,
+            "changeTime": 1522030731000,
             "isWorkspace": false,
-            "contentHash": "343dcea02198fbc1dc0defa3702840a4ab1a3594"
+            "contentHash": "33167a70bec21a9f26e9707b4751f8b1fff11f49"
         }
     ],
     [
@@ -210,10 +210,10 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub",
             "isDirectory": true,
-            "size": 510,
-            "modifiedTime": 1521883129000,
-            "changeTime": 1521883129000,
-            "contentHash": "8daec072ee90a348892e4f00e01fc6db19852648",
+            "size": 544,
+            "modifiedTime": 1522030508000,
+            "changeTime": 1522030508000,
+            "contentHash": "d81c143de69567f476ca10f3299e4dd60cf93e4a",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
