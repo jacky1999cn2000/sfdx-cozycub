@@ -63,7 +63,7 @@
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer",
             "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1522030731000,
+            "modifiedTime": 1522033292000,
             "changeTime": 1521881481000,
             "contentHash": "7e0889d136be78d3ce6cf1878a771a3f5eb41b7c",
             "isMetadataFile": false,
@@ -90,15 +90,14 @@
     [
         "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp",
             "isDirectory": false,
-            "size": 468,
-            "modifiedTime": 1522030532000,
-            "changeTime": 1522030035000,
-            "contentHash": "737bd71c09404abdbc6f54e6dc459c65b1dbf679",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 377,
+            "modifiedTime": 1522033328000,
+            "changeTime": 1522033328000,
+            "contentHash": "043af0e7c82c57bd6ecb4070a5db3dd2fe9b61d1"
         }
     ],
     [
@@ -106,28 +105,25 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.cmp-meta.xml",
             "isDirectory": false,
-            "size": 250,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "47174a927d7a7793427601399472ce11c4dc0a13",
+            "size": 228,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
         {
-            "state": "u",
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainer.css",
             "isDirectory": false,
+            "size": 31,
+            "modifiedTime": 1522033292000,
+            "changeTime": 1522033292000,
+            "contentHash": "5e26747fc94977e923853d589046be660606ad0e",
             "isMetadataFile": false,
-            "size": 53,
-            "modifiedTime": 1522030731000,
-            "changeTime": 1522030731000,
-            "isWorkspace": false,
-            "contentHash": "33167a70bec21a9f26e9707b4751f8b1fff11f49"
+            "state": "u"
         }
     ],
     [
@@ -165,14 +161,12 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 64,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -180,14 +174,12 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "size": 44,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -195,14 +187,12 @@
         {
             "sourcePath": "/Users/jackyzhao/Documents/projects/sfdc/sfdx-cozycub/force-app/main/default/aura/GameSetupContainer/GameSetupContainerRenderer.js",
             "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1521881450000,
-            "changeTime": 1521881450000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "size": 49,
+            "modifiedTime": 1522031486000,
+            "changeTime": 1522031486000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
