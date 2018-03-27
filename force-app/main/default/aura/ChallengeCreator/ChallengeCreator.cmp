@@ -16,8 +16,19 @@
                 ad veniam nulla aute est. Labore esse esse cupidatat amet velit id elit consequat minim ullamco mollit enim excepteur ea.</p>        
             </div>
             <footer class="slds-modal__footer">
-              <button class="slds-button slds-button_neutral" onclick="{!c.close}">Cancel</button>
-              <button class="slds-button slds-button_brand">Save</button>
+                <lightning:layout horizontalAlign="space">
+                  <div>
+                      <lightning:layout>
+                          <button class="slds-button slds-button_success" onclick="{!c.close}">Back</button>
+                          <button class="slds-button slds-button_success" onclick="{!c.close}">Next</button>
+                      </lightning:layout>
+                  </div>
+                  <div>
+                      <lightning:layout horizontalAlign="end">
+                          <button class="slds-button slds-button_destructive" onclick="{!c.close}">Cancel</button>
+                      </lightning:layout>
+                  </div>
+                </lightning:layout>
             </footer>
           </div>
         </section>
