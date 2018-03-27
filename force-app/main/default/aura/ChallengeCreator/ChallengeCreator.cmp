@@ -3,6 +3,8 @@
     <aura:method name="open" action="{!c.open}" access="public"></aura:method>
     <aura:method name="close" action="{!c.close}" access="public"></aura:method>
 
+    <aura:attribute name="step" type="Integer" default="0" access="private"/>
+
     <div class="demo-only" style="height: 640px;">
         <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal" aura:id="modalbox">
           <div class="slds-modal__container">
@@ -19,8 +21,12 @@
                 <lightning:layout horizontalAlign="space">
                   <div>
                       <lightning:layout>
-                          <button class="slds-button slds-button_success" onclick="{!c.close}">Back</button>
-                          <button class="slds-button slds-button_success" onclick="{!c.close}">Next</button>
+                          <aura:if isTrue="{!v.step!=0}">
+                              <button class="slds-button slds-button_success" onclick="{!c.back}">Back</button>
+                          </aura:if>
+                          <aura:if isTrue="{!v.step!=4}">
+                              <button class="slds-button slds-button_success" onclick="{!c.next}">Next</button>
+                          </aura:if>
                       </lightning:layout>
                   </div>
                   <div>
