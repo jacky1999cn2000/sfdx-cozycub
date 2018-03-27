@@ -21,12 +21,8 @@
                 <lightning:layout horizontalAlign="space">
                   <div>
                       <lightning:layout>
-                          <aura:if isTrue="{!v.step!=0}">
-                              <button class="slds-button slds-button_success" onclick="{!c.back}">Back</button>
-                          </aura:if>
-                          <aura:if isTrue="{!v.step!=4}">
-                              <button class="slds-button slds-button_success" onclick="{!c.next}">Next</button>
-                          </aura:if>
+                          <lightning:button variant="success" label="Back" onclick="{!c.back}" aura:id="backbtn" class="hidden"/>
+                          <lightning:button variant="success" label="Next" onclick="{!c.next}" aura:id="nextbtn"/>
                       </lightning:layout>
                   </div>
                   <div>
