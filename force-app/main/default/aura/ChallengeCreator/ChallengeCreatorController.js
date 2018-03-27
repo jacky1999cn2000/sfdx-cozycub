@@ -18,6 +18,9 @@
         if(component.get('v.step') < 4){
             var nextbtn = component.find('nextbtn');
             $A.util.removeClass(nextbtn, 'hidden');
+
+            var savebtn = component.find('savebtn');
+            $A.util.addClass(savebtn, 'hidden');
         }
         if(component.get('v.step') == 0){
             var backbtn = component.find('backbtn');
@@ -34,6 +37,9 @@
         if(component.get('v.step') == 4){
             var nextbtn = component.find('nextbtn');
             $A.util.addClass(nextbtn, 'hidden');
+
+            var savebtn = component.find('savebtn');
+            $A.util.removeClass(savebtn, 'hidden');
         }
     }
 })
