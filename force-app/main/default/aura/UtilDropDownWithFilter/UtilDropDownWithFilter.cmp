@@ -1,12 +1,40 @@
 <aura:component>
-    <lightning:input name="myname" />
-    <div id="myDropdown" class="dropdown-content">
-        <a onclick="{!c.optionClicked}" name="About">About</a>
-        <a onclick="{!c.optionClicked}" name="Base">Base</a>
-        <a onclick="{!c.optionClicked}" name="Blog">Blog</a>
-        <a onclick="{!c.optionClicked}" name="Contact">Contact</a>
-        <a onclick="{!c.optionClicked}" name="Custom">Custom</a>
-        <a onclick="{!c.optionClicked}" name="Support">Support</a>
-        <a onclick="{!c.optionClicked}" name="Tools">Tools</a>
+
+    <!-- <aura:attribute name="labels" type="List" default="['apple','apricot','banana','blue','cricket','car','dough','darling']" access="private" />
+    <aura:attribute name="values" type="List" default="['apple__c','apricot__c','banana__c','blue__c','cricket__c','car__c','dough__c','darling__c']" access="private" /> -->
+
+    <aura:attribute name="options" type="Object[]" default="[{'label':'apple','value':'apple__c'},{'label':'apricot','value':'apricot__c'},{'label':'banana','value':'banana__c'},{'label':'blue','value':'blue__c'},{'label':'cricket','value':'cricket__c'},{'label':'car','value':'car__c'}]" access="private" />
+
+    <div style="height: 14rem;">
+        <div class="slds-form-element">
+            <div class="slds-form-element__control">
+                <div class="slds-combobox_container slds-size_small">
+                    <div class="slds-combobox slds-dropdown-trigger slds-dropdown-trigger_click slds-combobox-picklist slds-is-open" aria-expanded="true" aria-haspopup="listbox" role="combobox">
+                        <div class="slds-combobox__form-element slds-input-has-icon slds-input-has-icon_right" role="none">
+                            <input type="text" class="slds-input slds-combobox__input" aria-controls="listbox-unique-id" autocomplete="off" role="textbox" placeholder="Select an Option" readonly="" />
+                            <span class="slds-icon_container slds-icon-utility-down slds-input__icon slds-input__icon_right">
+                                <lightning:icon iconName="utility:down" size="x-small" />
+                            </span>
+                        </div>
+                        <div role="listbox">
+                            <ul class="slds-listbox slds-listbox_vertical slds-dropdown slds-dropdown_fluid" role="presentation">
+                                <aura:iteration items="{!v.options}" var="option" indexVar="index">
+                                    <li role="presentation" class="slds-listbox__item">
+                                            <div class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
+                                                <span class="slds-media__figure">
+                                                    <lightning:icon iconName="utility:check" size="x-small" />
+                                                </span>
+                                                <span class="slds-media__body">
+                                                    <span class="slds-truncate" title="test">{!option.label} {!option.value}</span>
+                                                </span>
+                                            </div>
+                                        </li>
+                                </aura:iteration>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</aura:component>	
+</aura:component>
