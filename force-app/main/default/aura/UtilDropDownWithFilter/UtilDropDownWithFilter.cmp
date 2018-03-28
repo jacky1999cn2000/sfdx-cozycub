@@ -1,14 +1,12 @@
 <aura:component>
-    <div class="dropdown">
-        <lightning:input name="myname" />
-        <div id="myDropdown" class="dropdown-content">
-            <a onclick="{!c.optionClicked}" name="About">About</a>
-            <a onclick="{!c.optionClicked}" name="Base">Base</a>
-            <a onclick="{!c.optionClicked}" name="Blog">Blog</a>
-            <a onclick="{!c.optionClicked}" name="Contact">Contact</a>
-            <a onclick="{!c.optionClicked}" name="Custom">Custom</a>
-            <a onclick="{!c.optionClicked}" name="Support">Support</a>
-            <a onclick="{!c.optionClicked}" name="Tools">Tools</a>
-        </div>
+    <lightning:input name="myname" />
+    <div id="myDropdown" class="dropdown-content">
+        <a onclick="{!c.optionClicked}" name="About">About</a>
+        <a onclick="{!c.optionClicked}" name="Base">Base</a>
+        <a onclick="{!c.optionClicked}" name="Blog">Blog</a>
+        <a onclick="{!c.optionClicked}" name="Contact">Contact</a>
+        <a onclick="{!c.optionClicked}" name="Custom">Custom</a>
+        <a onclick="{!c.optionClicked}" name="Support">Support</a>
+        <a onclick="{!c.optionClicked}" name="Tools">Tools</a>
     </div>
 </aura:component>	
