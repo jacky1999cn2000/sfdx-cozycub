@@ -2,9 +2,10 @@
 	
     <lightning:tabset variant="scoped">
         <lightning:tab label="Challenges">
-            Challenges~~~!!!
-            <lightning:button variant="brand" label="New Challenge" onclick="{!c.newChallenge}" />
-            <c:ChallengeCreator aura:id="challengecreator"/>
+            Challenges~~~ come one!!!
+            <!-- <lightning:button variant="brand" label="New Challenge" onclick="{!c.newChallenge}" />
+            <c:ChallengeCreator aura:id="challengecreator"/> -->
+            <c:UtilDropDownWithFilter/>
         </lightning:tab>
         <lightning:tab label="Actions">
             Actions
