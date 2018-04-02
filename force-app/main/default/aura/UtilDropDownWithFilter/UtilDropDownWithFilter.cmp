@@ -1,8 +1,5 @@
 <aura:component>
 
-    <!-- <aura:attribute name="labels" type="List" default="['apple','apricot','banana','blue','cricket','car','dough','darling']" access="private" />
-    <aura:attribute name="values" type="List" default="['apple__c','apricot__c','banana__c','blue__c','cricket__c','car__c','dough__c','darling__c']" access="private" /> -->
-
     <aura:attribute name="options" type="Object[]" default="[{'label':'apple','value':'apple__c'},{'label':'apricot','value':'apricot__c'},{'label':'banana','value':'banana__c'},{'label':'blue','value':'blue__c'},{'label':'cricket','value':'cricket__c'},{'label':'car','value':'car__c'}]" access="private" />
 
     <div style="height: 14rem;">
@@ -25,7 +22,7 @@
                                                     <lightning:icon iconName="utility:check" size="x-small" />
                                                 </span>
                                                 <span class="slds-media__body">
-                                                    <span class="slds-truncate" title="test">{!option.label} {!option.value}</span>
+                                                    <span class="slds-truncate" value="{!option.value}">{!option.label}</span>
                                                 </span>
                                             </div>
                                         </li>
