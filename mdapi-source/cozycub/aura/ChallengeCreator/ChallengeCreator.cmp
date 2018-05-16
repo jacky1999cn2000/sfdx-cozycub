@@ -1,4 +1,4 @@
-<aura:component implements="flexipage:availableForAllPageTypes" access="public" controller="GameSetupController">
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" controller="GameSetupController">
 
     <aura:method name="open" action="{!c.open}" access="public"></aura:method>
     <aura:method name="close" action="{!c.close}" access="public"></aura:method>

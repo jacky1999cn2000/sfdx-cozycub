@@ -13,6 +13,7 @@
   <types>
     <name>ApexClass</name>
     <members>GameSetupController</members>
+    <members>TestGameSetupController</members>
   </types>
   <types>
     <name>ContentAsset</name>
