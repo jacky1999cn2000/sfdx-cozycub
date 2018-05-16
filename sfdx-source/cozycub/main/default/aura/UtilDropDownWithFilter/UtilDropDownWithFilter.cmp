@@ -1,0 +1,45 @@
+<aura:component>
+
+    <aura:attribute name="originalOptions" type="Object[]" default="[{'label':'apple','value':'apple__c'},{'label':'apricot','value':'apricot__c'},{'label':'banana','value':'banana__c'},{'label':'blue','value':'blue__c'},{'label':'cricket','value':'cricket__c'},{'label':'car','value':'car__c'},{'label':'apple','value':'apple__c'},{'label':'apricot','value':'apricot__c'},{'label':'banana','value':'banana__c'},{'label':'blue','value':'blue__c'},{'label':'cricket','value':'cricket__c'},{'label':'car','value':'car__c'},{'label':'apple','value':'apple__c'},{'label':'apricot','value':'apricot__c'},{'label':'banana','value':'banana__c'},{'label':'blue','value':'blue__c'},{'label':'cricket','value':'cricket__c'},{'label':'car','value':'car__c'}]" access="private" />
+    <aura:attribute name="options" type="Object[]" access="private" />
+
+    <aura:attribute name="selectedLabel" type="String" default="" access="private"/>
+    <aura:attribute name="selectedValue" type="String" default="" access="private"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+
+    <div style="height: 14rem;">
+        <div class="slds-form-element">
+            <div class="slds-form-element__control">
+                <div class="slds-combobox_container slds-size_small">
+                    <div class="slds-combobox slds-dropdown-trigger slds-dropdown-trigger_click slds-combobox-picklist" aria-expanded="false" aria-haspopup="listbox" role="combobox" onclick="{!c.toggle}">
+                        <div class="slds-combobox__form-element slds-input-has-icon slds-input-has-icon_right" role="none">
+                            <input type="text" class="slds-input slds-combobox__input" aria-controls="listbox-unique-id" autocomplete="off" role="textbox" placeholder="Select an Option" readonly="" value="{!v.selectedLabel}" onkeyup="{!c.onkeydown}" onblur="{!c.onblur}"/>
+                            <span class="slds-icon_container slds-icon-utility-down slds-input__icon slds-input__icon_right">
+                                <lightning:icon iconName="utility:down" size="x-small" />
+                            </span>
+                        </div>
+                        <div role="listbox">
+                            <ul class="slds-listbox slds-listbox_vertical slds-dropdown slds-dropdown_fluid" role="presentation">
+                                <div class="slds-scrollable" style="height:10rem;"> 
+                                <aura:iteration items="{!v.options}" var="option" indexVar="index">
+                                    <li role="presentation" class="slds-listbox__item">
+                                            <div class="{!v.selectedValue == option.value ? 'slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center slds-is-selected slds-has-focus' : 'slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center'}" role="option" data-label="{!option.label}" data-value="{!option.value}" onmousedown="{!c.optionClicked}">
+                                                <span class="{!v.selectedValue == option.value ? 'slds-media__figure' : 'hidden'}">
+                                                    <lightning:icon iconName="utility:check" size="x-small" />
+                                                </span>
+                                                <span class="slds-media__body">
+                                                    <span class="slds-truncate">{!option.label}</span>
+                                                </span>
+                                            </div>
+                                        </li>
+                                </aura:iteration>
+                                 </div>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</aura:component>

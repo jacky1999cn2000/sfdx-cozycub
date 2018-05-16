@@ -1,11 +1,10 @@
 {
   "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
+    { "path": "sfdx-source/cozycub", "default": true },
+    { "path": "sfdx-source/unpackaged"},
+    { "path": "sfdx-source/untracked"}
   ],
-  "namespace": "",
+  "namespace": "cozycub",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "42.0"
 }

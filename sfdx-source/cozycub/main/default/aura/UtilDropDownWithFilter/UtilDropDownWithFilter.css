@@ -1,0 +1,11 @@
+.THIS{
+    width: 20%
+}
+
+.THIS .hidden{
+    visibility: hidden;
+}
+
+.THIS .slds-media__body{
+    padding-left: 15px;
+}
