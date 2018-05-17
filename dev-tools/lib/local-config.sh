@@ -34,17 +34,20 @@ DEV_HUB_ALIAS=DevHub
 # Alias for the primary Scratch Org used by this project.
 SCRATCH_ORG_ALIAS=CozyCubDev
 
+# Alias for the subscriber dev org used to test managed-beta package installs.
+TEST_ORG_ALIAS=cozycub-TEST
+
 # Alias for the packaging org for this project.
 PACKAGING_ORG_ALIAS=cozycub-PACKAGING
 
 # Alias for the subscriber sandbox org used to test managed-beta package installs.
-SUBSCRIBER_SANDBOX_ALIAS=CozyCubTest
+# SUBSCRIBER_SANDBOX_ALIAS=
 
 # Metadata Package ID.  Refers to the metadata package as a whole.  Must begin with "033".
 METADATA_PACKAGE_ID=033f4000000AOjQ
 
 # Package Version ID. Refers to a specific, installable version of a package. Must begin with "04t".
-PACKAGE_VERSION_ID=04t000000000000
+PACKAGE_VERSION_ID=04tf4000003OIRI
 
 # Location of the scratch-def.json that should be used when using various dev-tools scripts.
 SCRATCH_ORG_CONFIG=$PROJECT_ROOT/config/project-scratch-def.json
@@ -69,8 +72,8 @@ if [ "$ECHO_LOCAL_CONFIG_VARS" = "true" ]; then
   echo "`tput setaf 7`PACKAGE_NAME -------------->`tput sgr0` " $PACKAGE_NAME
   echo "`tput setaf 7`DEV_HUB_ALIAS ------------->`tput sgr0` " $DEV_HUB_ALIAS
   echo "`tput setaf 7`SCRATCH_ORG_ALIAS --------->`tput sgr0` " $SCRATCH_ORG_ALIAS
+  echo "`tput setaf 7`TEST_ORG_ALIAS ------------>`tput sgr0` " $TEST_ORG_ALIAS
   echo "`tput setaf 7`PACKAGING_ORG_ALIAS ------->`tput sgr0` " $PACKAGING_ORG_ALIAS
-  echo "`tput setaf 7`SUBSCRIBER_SANDBOX_ALIAS -->`tput sgr0` " $SUBSCRIBER_SANDBOX_ALIAS
   echo "`tput setaf 7`METADATA_PACKAGE_ID ------->`tput sgr0` " $METADATA_PACKAGE_ID
   echo "`tput setaf 7`PACKAGE_VERSION_ID -------->`tput sgr0` " $PACKAGE_VERSION_ID
   echo "`tput setaf 7`SCRATCH_ORG_CONFIG -------->`tput sgr0` " $SCRATCH_ORG_CONFIG
