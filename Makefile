@@ -15,6 +15,9 @@ pushToTest:
 	
 # for shell scripts to work, remember to run "chmod +x the_file_name", such as "chmod +x ./dev-tools/deploy-mdapi-source.sh"
 
+rebuildDev:
+	./dev-tools/rebuild-scratch-org.sh
+
 pushToPackaging:
 	./dev-tools/deploy-mdapi-source.sh
 

@@ -6,4 +6,8 @@
     </applicationVisibilities>
     <hasActivationRequired>false</hasActivationRequired>
     <label>CozyCub Admin</label>
+    <tabSettings>
+        <tab>Let_s_gamify</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
