@@ -25,6 +25,12 @@ pull:
 rebuild:
 	./dev-tools/rebuild-scratch-org.sh
 
+# run all tests
+
+runtest:
+	./dev-tools/run-all-tests.sh
+
+
 # deploy metadata to packaging org and create beta
 
 deploy:
