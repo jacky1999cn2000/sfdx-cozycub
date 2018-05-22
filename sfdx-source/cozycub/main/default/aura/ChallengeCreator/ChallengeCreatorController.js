@@ -15,7 +15,7 @@
 
     back : function(component, event, helper) {
         component.set('v.step', component.get('v.step') - 1);
-        if(component.get('v.step') < 4){
+        if(component.get('v.step') < 3){
             var nextbtn = component.find('nextbtn');
             $A.util.removeClass(nextbtn, 'hidden');
 
@@ -34,7 +34,7 @@
             var backbtn = component.find('backbtn');
             $A.util.removeClass(backbtn, 'hidden');
         }
-        if(component.get('v.step') == 4){
+        if(component.get('v.step') == 3){
             var nextbtn = component.find('nextbtn');
             $A.util.addClass(nextbtn, 'hidden');
 
