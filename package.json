@@ -20,7 +20,7 @@
     "nodemon": "^1.17.2"
   },
   "nodemonConfig": {
-    "watch": ["force-app"],
+    "watch": ["sfdx-source"],
     "exec": "sfdx force:source:push -f",
     "ext": "cls,xml,json,js,trigger,cmp,css,design,svg",
     "delay": "2500"
