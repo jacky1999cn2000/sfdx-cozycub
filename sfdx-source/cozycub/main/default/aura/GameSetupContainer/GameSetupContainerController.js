@@ -1,8 +1,8 @@
 ({
-    newChallenge : function(component, event, helper) {
-        var challengecreator = component.find('challengecreator');
-        if (challengecreator) {
-            challengecreator.open();
+    newGame : function(component, event, helper) {
+        var gamecreator = component.find('gamecreator');
+        if (gamecreator) {
+            gamecreator.open();
         }
     }
 })

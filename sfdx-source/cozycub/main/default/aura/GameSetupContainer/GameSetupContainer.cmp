@@ -2,9 +2,9 @@
 	
     <lightning:tabset variant="scoped">
         <lightning:tab label="Game Room">
-            <lightning:button variant="brand" label="New Challenge" onclick="{!c.newChallenge}" />
+            <lightning:button variant="brand" label="New Game" onclick="{!c.newGame}" />
             <c:UtilDropDownWithFilter/>
-            <c:ChallengeCreator aura:id="challengecreator"/>
+            <c:ChallengeCreator aura:id="gamecreator"/>
             
         </lightning:tab>
         <lightning:tab label="Dashboard">
