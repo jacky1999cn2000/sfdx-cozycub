@@ -24,7 +24,7 @@
                       </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                      <lightning:input label="Game Name" name="name" value="{!v.name}" />
+                      <lightning:input label="Name" name="name" value="{!v.name}" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 1}">
@@ -39,7 +39,7 @@
                       </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                      <lightning:input label="Round" name="name" type="number" min="1" max="10" value="{!v.round}" />
+                      <lightning:input label="Round" name="round" type="number" min="1" max="10" value="{!v.round}" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 2}">
@@ -54,15 +54,45 @@
                       </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                      <lightning:input label="Bet" name="name" value="{!v.bet}" />
+                     <lightning:input label="Bet" name="bet" type="number" min="0.00" max="50.00" step="0.01" value="{!v.bet}" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 3}">
                 <header class="slds-modal__header">
-                    <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Review</h2>
+                    <lightning:layout horizontalAlign="center">
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <lightning:icon iconName="custom:custom10" variant="error"/>
+                        </lightning:layoutItem>
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Review</h2>
+                        </lightning:layoutItem>
+                      </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                    <p>Step 4.</p>   
+                        <lightning:layout horizontalAlign="space">
+                            <lightning:layoutItem size="6" padding="around-small">
+                                <div class="label">Name: </div>
+                            </lightning:layoutItem>
+                            <lightning:layoutItem size="6" padding="around-small">
+                                <div class="value">{!v.name}</div>
+                            </lightning:layoutItem>
+                        </lightning:layout>
+                        <lightning:layout horizontalAlign="space">
+                            <lightning:layoutItem size="6" padding="around-small">
+                                <div class="label">Round: </div>
+                            </lightning:layoutItem>
+                            <lightning:layoutItem size="6" padding="around-small">
+                                <div class="value">{!v.round}</div>
+                            </lightning:layoutItem>
+                        </lightning:layout>
+                        <lightning:layout horizontalAlign="space">
+                            <lightning:layoutItem size="6" padding="around-small">
+                                <div class="label">Bet: </div>
+                            </lightning:layoutItem>
+                            <lightning:layoutItem size="6" padding="around-small">
+                                <div class="value">{!v.bet}</div>
+                            </lightning:layoutItem>
+                        </lightning:layout>                       
                   </div>
             </aura:if>
             

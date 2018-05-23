@@ -1,3 +1,11 @@
 .THIS .hidden{
     visibility: hidden;
 }
+
+.THIS .label{
+    text-align: center;
+}
+
+.THIS .value{
+    text-align: center;
+}
