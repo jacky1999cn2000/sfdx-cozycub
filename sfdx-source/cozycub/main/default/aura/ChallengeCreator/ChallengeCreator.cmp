@@ -5,36 +5,61 @@
 
     <aura:attribute name="step" type="Integer" default="0" access="private"/>
 
+    <aura:attribute name="name" type="String" default="" access="private"/>
+    <aura:attribute name="round" type="Integer" default="" access="private"/>
+    <aura:attribute name="bet" type="Decimal" default="" access="private"/>
+
     <div class="demo-only" style="height: 640px;">
         <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal" aura:id="modalbox">
           <div class="slds-modal__container">
             <aura:if isTrue="{!v.step == 0}">
                 <header class="slds-modal__header">
-                    <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Step 1</h2>
+                    <lightning:layout horizontalAlign="center">
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <lightning:icon iconName="custom:custom16" variant="error"/>
+                        </lightning:layoutItem>
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">What's the game name?</h2>
+                        </lightning:layoutItem>
+                      </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                    <p>Step 1.</p>   
+                      <lightning:input label="Game Name" name="name" value="{!v.name}" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 1}">
                 <header class="slds-modal__header">
-                    <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Step 2</h2>
+                    <lightning:layout horizontalAlign="center">
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <lightning:icon iconName="custom:custom5" variant="error"/>
+                        </lightning:layoutItem>
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">How many rounds?</h2>
+                        </lightning:layoutItem>
+                      </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                    <p>Step 2.</p>   
+                      <lightning:input label="Round" name="name" type="number" min="1" max="10" value="{!v.round}" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 2}">
                 <header class="slds-modal__header">
-                    <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Step 3</h2>
+                    <lightning:layout horizontalAlign="center">
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <lightning:icon iconName="custom:custom17" variant="error"/>
+                        </lightning:layoutItem>
+                        <lightning:layoutItem flexibility="auto" padding="around-small">
+                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">What's the bet?</h2>
+                        </lightning:layoutItem>
+                      </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                    <p>Step 3.</p>   
+                      <lightning:input label="Bet" name="name" value="{!v.bet}" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 3}">
                 <header class="slds-modal__header">
-                    <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Step 4</h2>
+                    <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Review</h2>
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
                     <p>Step 4.</p>   
