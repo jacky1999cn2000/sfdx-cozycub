@@ -7,6 +7,19 @@
     },
 
     close : function(component, event, helper) {
+        // set to initial status
+        component.set('v.step', 0);
+        component.set('v.name', '');
+        component.set('v.round', '');
+        component.set('v.bet', '');
+        var nextbtn = component.find('nextbtn');
+        $A.util.removeClass(nextbtn, 'hidden');
+        var savebtn = component.find('backbtn');
+        $A.util.addClass(savebtn, 'hidden');
+        var savebtn = component.find('savebtn');
+        $A.util.addClass(savebtn, 'hidden');
+
+
         var modalbox = component.find('modalbox');
         var modalbackdrop = component.find('modalbackdrop');
         $A.util.removeClass(modalbox, 'slds-fade-in-open'); 
