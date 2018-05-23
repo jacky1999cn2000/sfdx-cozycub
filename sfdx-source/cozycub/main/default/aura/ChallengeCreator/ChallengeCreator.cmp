@@ -24,7 +24,7 @@
                       </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                      <lightning:input label="Name" name="name" value="{!v.name}" />
+                      <lightning:input aura:id="name" label="Name" name="name" value="{!v.name}" required="true" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 1}">
@@ -39,7 +39,7 @@
                       </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                      <lightning:input label="Round" name="round" type="number" min="1" max="10" value="{!v.round}" />
+                      <lightning:input aura:id="round" label="Round (between 1 to 10)" name="round" type="number" min="1" max="10" value="{!v.round}" required="true" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 2}">
@@ -54,7 +54,7 @@
                       </lightning:layout>  
                   </header>
                   <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                     <lightning:input label="Bet" name="bet" type="number" min="0.00" max="50.00" step="0.01" value="{!v.bet}" />
+                     <lightning:input aura:id="bet" label="Bet (between $1.00 to $50.00)" name="bet" type="number" formatter="currency" min="1.00" max="50.00" step="0.01" value="{!v.bet}" required="true" />
                   </div>
             </aura:if>
             <aura:if isTrue="{!v.step == 3}">
@@ -90,7 +90,9 @@
                                 <div class="label">Bet: </div>
                             </lightning:layoutItem>
                             <lightning:layoutItem size="6" padding="around-small">
-                                <div class="value">{!v.bet}</div>
+                                <div class="value">
+                                    <ui:outputCurrency value="{!v.bet}"/>
+                                </div>
                             </lightning:layoutItem>
                         </lightning:layout>                       
                   </div>

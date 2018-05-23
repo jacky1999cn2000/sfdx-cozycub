@@ -42,6 +42,22 @@
     },
 
     next : function(component, event, helper) {
+        // perform validation 
+        var field;
+        if(component.get('v.step') == 0){
+            field = component.find('name');
+            field.showHelpMessageIfInvalid();
+        }else if(component.get('v.step') == 1){
+            field = component.find('round');
+            field.showHelpMessageIfInvalid();
+        }else if(component.get('v.step') == 2){
+            field = component.find('bet');
+            field.showHelpMessageIfInvalid();
+        }
+        if(!field.get('v.validity').valid){
+            return;
+        }
+
         component.set('v.step', component.get('v.step') + 1);
         if(component.get('v.step') > 0){
             var backbtn = component.find('backbtn');
