@@ -4,3 +4,4 @@
 
 * [Platform Events and Lightning Components](https://andyinthecloud.com/2017/11/12/platform-events-and-lightning-components/)
 * [Build an Instant Notification App](https://trailhead.salesforce.com/projects/workshop-platform-events)
+* [How to Use Custom Font In Lightning Component Using Static Resource](http://sfdcmonkey.com/2017/06/22/custom-font-lightning-component-static-resource/)

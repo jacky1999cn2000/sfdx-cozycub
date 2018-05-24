@@ -1,8 +1,39 @@
 <aura:component description="Game Setup Container" implements="flexipage:availableForAllPageTypes" access="global">
-	
+    
+    <aura:attribute name="gameon" type="Boolean" default="false" access="private"/>
+
     <lightning:tabset variant="scoped">
         <lightning:tab label="Game Room">
-            <lightning:button variant="brand" label="New Game" onclick="{!c.newGame}" />
+
+            <div class="slds-grid slds-grid_vertical">
+
+                <div class="slds-col slds-p-bottom_small slds-border_bottom">   
+                    <div class="slds-grid slds-grid_align-space">
+                        <aura:if isTrue="{!v.gameon == true}">
+                            <div class="slds-col">
+                                <lightning:button variant="brand" label="New Game" onclick="{!c.newGame}" />
+                            </div>
+                        </aura:if>
+                        
+                        <div class="slds-col">
+                            <div class="info">Game Name: Something</div>
+                        </div>
+                        <div class="slds-col">
+                            <div class="info">Rounds: 2</div>
+                        </div>
+                        <div class="slds-col">
+                            <div class="info">Bet: $3.00</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="slds-col">
+                    <span>2</span>
+                </div>
+
+            </div>
+
+            
             <!-- <c:UtilDropDownWithFilter/> -->
             <c:ChallengeCreator aura:id="gamecreator"/>
             

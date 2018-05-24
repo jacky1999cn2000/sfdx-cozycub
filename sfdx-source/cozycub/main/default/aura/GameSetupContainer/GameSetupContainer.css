@@ -1,2 +1,9 @@
-.THIS{
+.THIS .info {
+    font-family: 'customFont';
+    font-size: 40px;
+}
+
+@font-face {
+    font-family: 'customFont';
+    src: url(/resource/customFont);
 }
