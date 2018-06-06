@@ -44,7 +44,7 @@
                             <div class="slds-grid slds-grid_vertical slds-grid_vertical-align-center" style="height: 100%;">
 
                                 <div class="slds-col">
-                                    <div class="slds-grid slds-grid_vertical content">
+                                    <div class="content">
                                         <img src="https://api.adorable.io/avatars/150/abott@adorable.io.png" alt="abott"/>
                                         <div class="content-info">name: Abbot</div>
                                         <div class="content-info">money: $34</div>
@@ -58,12 +58,12 @@
                                                 <span class="dot-won"></span>
                                                 <span class="dot-won"></span>
                                             </lightning:layout>
-                                        </div>    
-                                    </div>
+                                        </div> 
+                                    </div>  
                                 </div>
 
                                 <div class="slds-col">
-                                    <img src="https://api.adorable.io/avatars/150/abott@adorable.io.png" alt="abott"/>
+                                    <c:PlayerInfo name="Abbot" money="42" iconURL="https://api.adorable.io/avatars/150/abott@adorable.io.png"/>
                                 </div>
                                 <div class="slds-col">
                                     <img src="https://api.adorable.io/avatars/150/abott@adorable.io.png" alt="abott"/>

@@ -1,0 +1,25 @@
+<aura:component description="Player Info" implements="flexipage:availableForAllPageTypes" access="global">
+
+    <aura:attribute name="name" type="String" />
+    <aura:attribute name="iconURL" type="String" />
+    <aura:attribute name="money" type="Integer" />
+    <aura:attribute name="rounds" type="Integer[]" />
+
+    <div class="content">
+        <img src="{!v.iconURL}" alt="abott"/>
+        <div class="content-info">name: {v.name}</div>
+        <div class="content-info">money: ${v.money}</div>
+        <div class="rounds">
+            <lightning:layout horizontalAlign="center">
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot-won"></span>
+                <span class="dot-lost"></span>
+                <span class="dot-won"></span>
+                <span class="dot-won"></span>
+                <span class="dot-won"></span>
+            </lightning:layout>
+        </div> 
+    </div> 
+
+</aura:component>	
