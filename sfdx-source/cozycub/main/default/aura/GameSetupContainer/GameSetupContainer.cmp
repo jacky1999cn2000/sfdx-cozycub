@@ -43,34 +43,26 @@
 
                             <div class="slds-grid slds-grid_vertical slds-grid_vertical-align-center" style="height: 100%;">
 
-                                <div class="slds-col">
-                                    <div class="content">
-                                        <img src="https://api.adorable.io/avatars/150/abott@adorable.io.png" alt="abott"/>
-                                        <div class="content-info">name: Abbot</div>
-                                        <div class="content-info">money: $34</div>
-                                        <div class="rounds">
-                                            <lightning:layout horizontalAlign="center">
-                                                <span class="dot"></span>
-                                                <span class="dot"></span>
-                                                <span class="dot-won"></span>
-                                                <span class="dot-lost"></span>
-                                                <span class="dot-won"></span>
-                                                <span class="dot-won"></span>
-                                                <span class="dot-won"></span>
-                                            </lightning:layout>
-                                        </div> 
-                                    </div>  
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Abbot" money="42" emotion ="calm" calm="abottt" happy="abotttttt" sad="abott"/>
                                 </div>
 
-                                <div class="slds-col">
-                                    <c:PlayerInfo name="Abbot" money="42" iconURL="https://api.adorable.io/avatars/150/abott@adorable.io.png"/>
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Jack" money="42" emotion ="happy" calm="jackttt" happy="jackt" sad="jackttttt"/>
                                 </div>
-                                <div class="slds-col">
-                                    <img src="https://api.adorable.io/avatars/150/abott@adorable.io.png" alt="abott"/>
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Sam" money="42" emotion ="happy" calm="samtt" happy="samt" sad="samtttt"/>
                                 </div>
-                                <div class="slds-col">
-                                    <img src="https://api.adorable.io/avatars/150/abott@adorable.io.png" alt="abott"/>
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Helen" money="42" emotion ="sad" calm="helenttttttt" happy="helent" sad="helenttttt"/>
                                 </div>
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Abbot" money="42" emotion ="sad" calm="kevintt" happy="kevinttttt" sad="kevintttttttt"/>
+                                </div>
+
                             </div>
 
                         </div>
@@ -80,7 +72,31 @@
                         </div>
 
                         <div class="slds-col slds-size_4-of-12">
-                            <span>3</span>
+                        
+                            <div class="slds-grid slds-grid_vertical slds-grid_vertical-align-center" style="height: 100%;">
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Agata" money="42" emotion ="calm" calm="agtttt" happy="agtttttt" sad="agtt"/>
+                                </div>
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Grace" money="42" emotion ="happy" calm="gawettt" happy="gawetttttt" sad="gawett"/>
+                                </div>
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="William" money="42" emotion ="happy" calm="gwe" happy="gwettt" sad="gwetttttt"/>
+                                </div>
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Sharif" money="42" emotion ="sad" calm="sfaaf" happy="sfaafttt" sad="sfaaftttttt"/>
+                                </div>
+
+                                <div class="slds-col player">
+                                    <c:PlayerInfo name="Olivia" money="42" emotion ="sad" calm="qett" happy="qetttt" sad="qe"/>
+                                </div>
+
+                            </div>
+
                         </div>
 
                     </div>

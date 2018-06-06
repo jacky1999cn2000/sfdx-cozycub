@@ -7,3 +7,7 @@
     font-family: 'customFont';
     src: url(/resource/customFont);
 }
+
+.THIS .player{
+    margin-bottom: 5%;
+}
