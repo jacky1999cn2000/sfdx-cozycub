@@ -35,64 +35,64 @@
                 </div>
 
                 <!-- content -->
-                <div class="slds-col slds-p-top_small">
+                <div class="slds-col slds-p-top_medium">
                     
-                    <div class="slds-grid">
+                    <div class="slds-grid slds-grid_vertical">
 
-                        <div class="slds-col slds-size_4-of-12">
+                        <div class="slds-col">
 
-                            <div class="slds-grid slds-grid_vertical slds-grid_vertical-align-center" style="height: 100%;">
+                            <div class="slds-grid slds-grid-align-center" style="height: 100%;">
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Abbot" money="42" emotion ="calm" calm="abottt" happy="abotttttt" sad="abott"/>
+                                    <c:PlayerInfo name="Abbot J" money="42" emotion ="calm" calm="abottt" happy="abotttttt" sad="abott"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Jack" money="42" emotion ="happy" calm="jackttt" happy="jackt" sad="jackttttt"/>
+                                    <c:PlayerInfo name="Jack L" money="42" emotion ="happy" calm="jackttt" happy="jackt" sad="jackttttt"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Sam" money="42" emotion ="happy" calm="samtt" happy="samt" sad="samtttt"/>
+                                    <c:PlayerInfo name="Sam S" money="42" emotion ="happy" calm="samtt" happy="samt" sad="samtttt"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Helen" money="42" emotion ="sad" calm="helenttttttt" happy="helent" sad="helenttttt"/>
+                                    <c:PlayerInfo name="Helen W" money="42" emotion ="sad" calm="helenttttttt" happy="helent" sad="helenttttt"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Abbot" money="42" emotion ="sad" calm="kevintt" happy="kevinttttt" sad="kevintttttttt"/>
+                                    <c:PlayerInfo name="Kevin D" money="42" emotion ="sad" calm="kevintt" happy="kevinttttt" sad="kevintttttttt"/>
                                 </div>
 
                             </div>
 
                         </div>
 
-                        <div class="slds-col slds-size_4-of-12">
+                        <div class="slds-col">
                             <span>2</span>
                         </div>
 
-                        <div class="slds-col slds-size_4-of-12">
+                        <div class="slds-col">
                         
-                            <div class="slds-grid slds-grid_vertical slds-grid_vertical-align-center" style="height: 100%;">
+                            <div class="slds-grid slds-grid-align-center" style="height: 100%;">
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Agata" money="42" emotion ="calm" calm="agtttt" happy="agtttttt" sad="agtt"/>
+                                    <c:PlayerInfo name="Agata L" money="42" emotion ="calm" calm="agtttt" happy="agtttttt" sad="agtt"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Grace" money="42" emotion ="happy" calm="gawettt" happy="gawetttttt" sad="gawett"/>
+                                    <c:PlayerInfo name="Grace E" money="42" emotion ="happy" calm="gawettt" happy="gawetttttt" sad="gawett"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="William" money="42" emotion ="happy" calm="gwe" happy="gwettt" sad="gwetttttt"/>
+                                    <c:PlayerInfo name="William P" money="42" emotion ="happy" calm="gwe" happy="gwettt" sad="gwetttttt"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Sharif" money="42" emotion ="sad" calm="sfaaf" happy="sfaafttt" sad="sfaaftttttt"/>
+                                    <c:PlayerInfo name="Sharif O" money="42" emotion ="sad" calm="sfaaf" happy="sfaafttt" sad="sfaaftttttt"/>
                                 </div>
 
                                 <div class="slds-col player">
-                                    <c:PlayerInfo name="Olivia" money="42" emotion ="sad" calm="qett" happy="qetttt" sad="qe"/>
+                                    <c:PlayerInfo name="Olivia Z" money="42" emotion ="sad" calm="qett" happy="qetttt" sad="qe"/>
                                 </div>
 
                             </div>

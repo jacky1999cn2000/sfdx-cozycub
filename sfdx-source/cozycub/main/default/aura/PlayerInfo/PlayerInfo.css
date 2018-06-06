@@ -1,7 +1,7 @@
 .THIS .content-info {
     font-family: 'customFont';
     font-size: 18px;
-    color: slategray;
+    color: black;
     text-align: center;
 }
 
@@ -15,7 +15,7 @@
     margin-bottom: 2%;
 }
 
-.THIS .rounds{
+.THIS .container{
     margin-top: 6px;
 }
 

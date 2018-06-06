@@ -1,6 +1,6 @@
 <aura:component description="Player Info" implements="flexipage:availableForAllPageTypes" access="global">
 
-    <aura:attribute name="prefix" type="String" default='https://api.adorable.io/avatars/150/'/>
+    <aura:attribute name="prefix" type="String" default='https://api.adorable.io/avatars/120/'/>
     <aura:attribute name="suffix" type="String" default='@adorable.io.png'/>
     <aura:attribute name="avatar" type="String" />
 
@@ -17,7 +17,9 @@
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
 
     <div>
-        <img src="{!v.prefix + v.avatar + v.suffix}" alt="abott"/>
+        <lightning:layout horizontalAlign="center">
+            <img src="{!v.prefix + v.avatar + v.suffix}" alt="abott"/>
+        </lightning:layout>
         <div class="content-info">name: {!v.name}</div>
         <div class="content-info">money: ${!v.money}</div>
         <div class="rounds">
