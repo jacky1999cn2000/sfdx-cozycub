@@ -41,7 +41,7 @@
 
                         <div class="slds-col">
 
-                            <div class="slds-grid slds-grid-align-center" style="height: 100%;">
+                            <div class="slds-grid slds-grid_vertical-align-center">
 
                                 <div class="slds-col player">
                                     <c:PlayerInfo name="Abbot J" money="42" emotion ="calm" calm="abottt" happy="abotttttt" sad="abott"/>
@@ -68,12 +68,76 @@
                         </div>
 
                         <div class="slds-col">
-                            <span>2</span>
+
+                            <div class="slds-grid slds-grid_vertical" style="height: 100%;">
+
+                                <div class="slds-col">
+                                    <div class="slds-grid" style="height: 100%;">
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                1
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                1
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                1
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                1
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                1
+                                            </lightning:layout>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="slds-col">
+                                    <div class="slds-grid" style="height: 100%;">
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                2
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                2
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                2
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                2
+                                            </lightning:layout>
+                                        </div>
+                                        <div class="slds-col">
+                                            <lightning:layout horizontalAlign="center">
+                                                2
+                                            </lightning:layout>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
                         </div>
 
                         <div class="slds-col">
                         
-                            <div class="slds-grid slds-grid-align-center" style="height: 100%;">
+                            <div class="slds-grid slds-grid_vertical-align-center" style="height: 100%;">
 
                                 <div class="slds-col player">
                                     <c:PlayerInfo name="Agata L" money="42" emotion ="calm" calm="agtttt" happy="agtttttt" sad="agtt"/>
