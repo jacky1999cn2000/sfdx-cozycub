@@ -75,27 +75,27 @@
                                     <div class="slds-grid" style="height: 100%;">
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                1
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                1
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                1
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                1
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                1
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                     </div>
@@ -105,27 +105,27 @@
                                     <div class="slds-grid" style="height: 100%;">
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                2
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                2
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                2
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                2
+                                                <c:Dice/>   
                                             </lightning:layout>
                                         </div>
                                         <div class="slds-col">
                                             <lightning:layout horizontalAlign="center">
-                                                2
+                                                <c:Dice/>
                                             </lightning:layout>
                                         </div>
                                     </div>

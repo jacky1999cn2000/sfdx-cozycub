@@ -1,0 +1,7 @@
+<aura:component>
+
+    <div>
+        hooray!
+    </div>
+    
+</aura:component>	
