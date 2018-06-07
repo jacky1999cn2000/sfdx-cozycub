@@ -21,3 +21,18 @@
 * tips
     * [use nodemon to auto save/push](https://ntotten.com/2018/01/17/using-nodemon-to-autopush-sfdx-project-changes/)
     * [remove already added hidden directory from git](https://stackoverflow.com/questions/35026376/git-to-ignore-a-hidden-directory-in-the-local-repo)
+
+* resources
+    ​* sfdx-falcon:
+        * [sfdx-falcon-template](https://github.com/sfdx-isv/sfdx-falcon-template)
+        * [sfdx-falcon-demo](https://github.com/sfdx-isv/sfdx-falcon-demo)
+        * [SFDriveWealth_SFDX](https://github.com/jrattanpal/SFDriveWealth_SFDX)
+
+    * sfdx project explain:
+        * [two-sfdx-project-folder-structure-questions](https://salesforce.stackexchange.com/questions/204998/two-sfdx-project-folder-structure-questions)
+        * [how-to-use-sfdx-forcesourcepull-with-folders-other-than-main-default](https://salesforce.stackexchange.com/questions/206847/how-to-use-sfdx-forcesourcepull-with-folders-other-than-main-default-where)
+
+    * youtube:
+        * [Salesforce DX 201 - Advanced Implementation for ISVs](https://www.youtube.com/watch?v=xLjY-j5pf6c)
+        * [ISVs Adopting Salesforce DX with Managed Packages](https://www.youtube.com/watch?v=lTTbymAAtAg)
+        * [How Everyone Can Leverage Salesforce DX Packaging](https://www.youtube.com/watch?v=Prlurg2ORnU)
