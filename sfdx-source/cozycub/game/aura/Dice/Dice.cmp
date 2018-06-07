@@ -2,12 +2,12 @@
 
     <div id="stage" style="width: 60px; height: 60px;">
         <div class="spinner">
-            <div class="face1">1</div>
-            <div class="face2">2</div>
-            <div class="face3">3</div>
-            <div class="face4">4</div>
-            <div class="face5">5</div>
-            <div class="face6">6</div>
+            <div class="face1"><img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/></div>
+            <div class="face2"><img src="{!$Resource.cozycub__dice + '/dice-2.png'}" alt=""/></div>
+            <div class="face3"><img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/></div>
+            <div class="face4"><img src="{!$Resource.cozycub__dice + '/dice-4.png'}" alt=""/></div>
+            <div class="face5"><img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/></div>
+            <div class="face6"><img src="{!$Resource.cozycub__dice + '/dice-6.png'}" alt=""/></div>
         </div>
     </div>
     

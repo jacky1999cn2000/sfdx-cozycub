@@ -105,7 +105,7 @@
 
                                 
                                     
-                                
+                                <!-- <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/> -->
 
                                 <!-- <div class="slds-col">
                                     <div class="slds-grid" style="height: 100%;">
