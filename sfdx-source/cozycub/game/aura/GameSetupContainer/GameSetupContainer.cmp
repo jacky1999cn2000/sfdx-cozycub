@@ -146,7 +146,7 @@
                                     </div>
 
                                     <div class="slds-col">
-                                        <div class="slds-grid" style="height: 100px;">
+                                        <div class="slds-grid">
                                             <div class="slds-col">
                                                 <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
                                                     <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
