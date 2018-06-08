@@ -16,3 +16,8 @@
 .THIS .dice{
     margin-top: 40px;
 }
+
+.THIS .dices img{
+    height: 25px;
+    width: 25px;
+}

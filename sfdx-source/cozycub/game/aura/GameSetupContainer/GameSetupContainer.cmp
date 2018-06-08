@@ -71,10 +71,9 @@
                         <!-- dice table -->
                         <div class="slds-col">
 
-                            <div class="slds-grid slds-grid_vertical" style="height: 200px;">
-                                
-                                <div class="slds-grid slds-grid_vertical-align-center">
-
+                            <!-- dice -->
+                            <aura:if isTrue="{!v.gameon == false}">
+                                <div class="slds-grid slds-grid_vertical-align-start" style="height: 200px;">
                                     <div class="slds-col dice">
                                         <lightning:layout horizontalAlign="center">
                                             <c:Dice/>   
@@ -99,76 +98,94 @@
                                         <lightning:layout horizontalAlign="center">
                                             <c:Dice/>   
                                         </lightning:layout>
-                                    </div>
-
-                                </div>
-
-                                
-                                    
-                                <!-- <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/> -->
-
-                                <!-- <div class="slds-col">
-                                    <div class="slds-grid" style="height: 100%;">
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                1
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                1
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                1
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                1
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                1
-                                            </lightning:layout>
-                                        </div>
                                     </div>
                                 </div>
-
-                                <div class="slds-col">
-                                    <div class="slds-grid" style="height: 100%;">
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                2
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                2
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                2
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                2 
-                                            </lightning:layout>
-                                        </div>
-                                        <div class="slds-col">
-                                            <lightning:layout horizontalAlign="center">
-                                                2
-                                            </lightning:layout>
+                            </aura:if>
+                            
+                            <!-- cards -->
+                            <aura:if isTrue="{!v.gameon == true}">
+                                <div class="slds-grid slds-grid_vertical" style="height: 200px;">
+                                    <div class="slds-col">
+                                        <div class="slds-grid">
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                </div> -->
 
-                            </div>
-
+                                    <div class="slds-col">
+                                        <div class="slds-grid" style="height: 100px;">
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                            <div class="slds-col">
+                                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </aura:if>
                         </div>
 
                         <!-- lower players -->
