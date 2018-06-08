@@ -9,111 +9,122 @@
     <aura:attribute name="round" type="Integer" default="" access="private"/>
     <aura:attribute name="bet" type="Decimal" default="" access="private"/>
 
-    <div class="demo-only" style="height: 640px;">
-        <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal" aura:id="modalbox">
-          <div class="slds-modal__container">
-            <aura:if isTrue="{!v.step == 0}">
-                <header class="slds-modal__header">
-                    <lightning:layout horizontalAlign="center">
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <lightning:icon iconName="custom:custom16" variant="error"/>
-                        </lightning:layoutItem>
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">What's the game name?</h2>
-                        </lightning:layoutItem>
-                      </lightning:layout>  
-                  </header>
-                  <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                      <lightning:input aura:id="name" label="Name" name="name" value="{!v.name}" required="true" />
-                  </div>
-            </aura:if>
-            <aura:if isTrue="{!v.step == 1}">
-                <header class="slds-modal__header">
-                    <lightning:layout horizontalAlign="center">
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <lightning:icon iconName="custom:custom5" variant="error"/>
-                        </lightning:layoutItem>
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">How many rounds?</h2>
-                        </lightning:layoutItem>
-                      </lightning:layout>  
-                  </header>
-                  <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                      <lightning:input aura:id="round" label="Round (between 1 to 10)" name="round" type="number" min="1" max="10" value="{!v.round}" required="true" />
-                  </div>
-            </aura:if>
-            <aura:if isTrue="{!v.step == 2}">
-                <header class="slds-modal__header">
-                    <lightning:layout horizontalAlign="center">
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <lightning:icon iconName="custom:custom17" variant="error"/>
-                        </lightning:layoutItem>
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">What's the bet?</h2>
-                        </lightning:layoutItem>
-                      </lightning:layout>  
-                  </header>
-                  <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                     <lightning:input aura:id="bet" label="Bet (between $1.00 to $50.00)" name="bet" type="number" formatter="currency" min="1.00" max="50.00" step="0.01" value="{!v.bet}" required="true" />
-                  </div>
-            </aura:if>
-            <aura:if isTrue="{!v.step == 3}">
-                <header class="slds-modal__header">
-                    <lightning:layout horizontalAlign="center">
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <lightning:icon iconName="custom:custom10" variant="error"/>
-                        </lightning:layoutItem>
-                        <lightning:layoutItem flexibility="auto" padding="around-small">
-                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Review</h2>
-                        </lightning:layoutItem>
-                      </lightning:layout>  
-                  </header>
-                  <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-                        <lightning:layout horizontalAlign="space">
-                            <lightning:layoutItem size="6" padding="around-small">
-                                <div class="label">Name: </div>
+    <aura:attribute name="showAds" type="Boolean" default="true" access="private"/>
+    
+    <!-- modal -->
+    <aura:if isTrue="{!!v.showAds}">
+        <div class="demo-only" style="height: 640px;">
+            <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal" aura:id="modalbox">
+                <div class="slds-modal__container">
+                <aura:if isTrue="{!v.step == 0}">
+                    <header class="slds-modal__header">
+                        <lightning:layout horizontalAlign="center">
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <lightning:icon iconName="custom:custom16" variant="error"/>
                             </lightning:layoutItem>
-                            <lightning:layoutItem size="6" padding="around-small">
-                                <div class="value">{!v.name}</div>
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">What's the game name?</h2>
                             </lightning:layoutItem>
-                        </lightning:layout>
-                        <lightning:layout horizontalAlign="space">
-                            <lightning:layoutItem size="6" padding="around-small">
-                                <div class="label">Round: </div>
+                            </lightning:layout>  
+                        </header>
+                        <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+                            <lightning:input aura:id="name" label="Name" name="name" value="{!v.name}" required="true" />
+                        </div>
+                </aura:if>
+                <aura:if isTrue="{!v.step == 1}">
+                    <header class="slds-modal__header">
+                        <lightning:layout horizontalAlign="center">
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <lightning:icon iconName="custom:custom5" variant="error"/>
                             </lightning:layoutItem>
-                            <lightning:layoutItem size="6" padding="around-small">
-                                <div class="value">{!v.round}</div>
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">How many rounds?</h2>
                             </lightning:layoutItem>
-                        </lightning:layout>
-                        <lightning:layout horizontalAlign="space">
-                            <lightning:layoutItem size="6" padding="around-small">
-                                <div class="label">Bet: </div>
+                            </lightning:layout>  
+                        </header>
+                        <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+                            <lightning:input aura:id="round" label="Round (between 1 to 10)" name="round" type="number" min="1" max="10" value="{!v.round}" required="true" />
+                        </div>
+                </aura:if>
+                <aura:if isTrue="{!v.step == 2}">
+                    <header class="slds-modal__header">
+                        <lightning:layout horizontalAlign="center">
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <lightning:icon iconName="custom:custom17" variant="error"/>
                             </lightning:layoutItem>
-                            <lightning:layoutItem size="6" padding="around-small">
-                                <div class="value">
-                                    <ui:outputCurrency value="{!v.bet}"/>
-                                </div>
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">What's the bet?</h2>
                             </lightning:layoutItem>
-                        </lightning:layout>                       
-                  </div>
-            </aura:if>
-            
-            <footer class="slds-modal__footer">
-                <lightning:layout horizontalAlign="space">
-                    <lightning:layoutItem padding="around-small">
-                        <lightning:button variant="brand" label="Back" onclick="{!c.back}" aura:id="backbtn" class="hidden"/>
-                        <lightning:button variant="brand" label="Next" onclick="{!c.next}" aura:id="nextbtn"/>
-                    </lightning:layoutItem>
+                            </lightning:layout>  
+                        </header>
+                        <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+                            <lightning:input aura:id="bet" label="Bet (between $1.00 to $50.00)" name="bet" type="number" formatter="currency" min="1.00" max="50.00" step="0.01" value="{!v.bet}" required="true" />
+                        </div>
+                </aura:if>
+                <aura:if isTrue="{!v.step == 3}">
+                    <header class="slds-modal__header">
+                        <lightning:layout horizontalAlign="center">
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <lightning:icon iconName="custom:custom10" variant="error"/>
+                            </lightning:layoutItem>
+                            <lightning:layoutItem flexibility="auto" padding="around-small">
+                                <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Review</h2>
+                            </lightning:layoutItem>
+                            </lightning:layout>  
+                        </header>
+                        <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+                            <lightning:layout horizontalAlign="space">
+                                <lightning:layoutItem size="6" padding="around-small">
+                                    <div class="label">Name: </div>
+                                </lightning:layoutItem>
+                                <lightning:layoutItem size="6" padding="around-small">
+                                    <div class="value">{!v.name}</div>
+                                </lightning:layoutItem>
+                            </lightning:layout>
+                            <lightning:layout horizontalAlign="space">
+                                <lightning:layoutItem size="6" padding="around-small">
+                                    <div class="label">Round: </div>
+                                </lightning:layoutItem>
+                                <lightning:layoutItem size="6" padding="around-small">
+                                    <div class="value">{!v.round}</div>
+                                </lightning:layoutItem>
+                            </lightning:layout>
+                            <lightning:layout horizontalAlign="space">
+                                <lightning:layoutItem size="6" padding="around-small">
+                                    <div class="label">Bet: </div>
+                                </lightning:layoutItem>
+                                <lightning:layoutItem size="6" padding="around-small">
+                                    <div class="value">
+                                        <ui:outputCurrency value="{!v.bet}"/>
+                                    </div>
+                                </lightning:layoutItem>
+                            </lightning:layout>                       
+                        </div>
+                </aura:if>
+                
+                <footer class="slds-modal__footer">
+                    <lightning:layout horizontalAlign="space">
+                        <lightning:layoutItem padding="around-small">
+                            <lightning:button variant="brand" label="Back" onclick="{!c.back}" aura:id="backbtn" class="hidden"/>
+                            <lightning:button variant="brand" label="Next" onclick="{!c.next}" aura:id="nextbtn"/>
+                        </lightning:layoutItem>
+    
+                        <lightning:layoutItem padding="around-small">
+                            <lightning:button variant="success" label="Save Game" onclick="{!c.close}" aura:id="savebtn" class="hidden"/>
+                            <lightning:button variant="destructive" label="Cancel" onclick="{!c.close}" aura:id="cancelbtn"/>
+                        </lightning:layoutItem>
+                    </lightning:layout>
+                </footer>
+                </div>
+            </section>
+            <div class="slds-backdrop" aura:id="modalbackdrop"></div>
+        </div>
+    </aura:if>
+    
 
-                    <lightning:layoutItem padding="around-small">
-                        <lightning:button variant="success" label="Save Game" onclick="{!c.close}" aura:id="savebtn" class="hidden"/>
-                        <lightning:button variant="destructive" label="Cancel" onclick="{!c.close}" aura:id="cancelbtn"/>
-                    </lightning:layoutItem>
-                </lightning:layout>
-            </footer>
-          </div>
-        </section>
-        <div class="slds-backdrop" aura:id="modalbackdrop"></div>
-      </div>
+      <!-- ads -->
+      <aura:if isTrue="{!v.showAds}">
+        hello~~~~
+      </aura:if>
 
 </aura:component>	

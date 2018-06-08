@@ -1,5 +1,6 @@
 ({
     open : function(component, event, helper) {
+        component.set('v.showAds', false);
         var modalbox = component.find('modalbox');
         var modalbackdrop = component.find('modalbackdrop');
         $A.util.addClass(modalbox, 'slds-fade-in-open'); 
@@ -8,6 +9,7 @@
 
     close : function(component, event, helper) {
         // set to initial status
+        component.set('v.showAds', true);
         component.set('v.step', 0);
         component.set('v.name', '');
         component.set('v.round', '');

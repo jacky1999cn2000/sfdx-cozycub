@@ -1,0 +1,39 @@
+<aura:component description="Game Setup Container" implements="flexipage:availableForAllPageTypes" access="global">
+
+        <aura:attribute name="gameon" type="Boolean" default="false"/>
+        <aura:attribute name="name" type="String"/>
+        <aura:attribute name="currentRound" type="Integer"/>
+        <aura:attribute name="totalRounds" type="Integer"/>
+        <aura:attribute name="bet" type="Decimal"/>
+
+        <div class="slds-col slds-p-bottom_small slds-border_bottom"> 
+
+            <div class="slds-grid slds-grid_align-space">
+
+                <aura:if isTrue="{!v.gameon == false}">
+                    <div class="slds-col">
+                        <lightning:button variant="brand" label="New Game" onclick="{!c.newGame}" />
+                    </div>
+                </aura:if>
+
+                <aura:if isTrue="{!v.gameon == true}">
+                    <div class="slds-col">
+                        <div class="header-info">Game Name: {!v.game}</div>
+                    </div>
+                    <div class="slds-col">
+                        <div class="header-info">Round: {!v.currentRound} out of {!v.totalRounds}</div>
+                    </div>
+                    <div class="slds-col">
+                        <div class="header-info">Bet: ${!v.bet}</div>
+                    </div>
+                </aura:if>
+
+            </div>
+
+        </div>
+
+        <aura:if isTrue="{!v.gameon == false}">
+            <c:ChallengeCreator aura:id="gamecreator"/>
+        </aura:if>
+
+</aura:component>	

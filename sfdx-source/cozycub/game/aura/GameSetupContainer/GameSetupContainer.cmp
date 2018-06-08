@@ -8,31 +8,7 @@
             <div class="slds-grid slds-grid_vertical">
 
                 <!-- header -->
-                <div class="slds-col slds-p-bottom_small slds-border_bottom"> 
-
-                    <div class="slds-grid slds-grid_align-space">
-
-                        <aura:if isTrue="{!v.gameon == false}">
-                            <div class="slds-col">
-                                <lightning:button variant="brand" label="New Game" onclick="{!c.newGame}" />
-                            </div>
-                        </aura:if>
-
-                        <aura:if isTrue="{!v.gameon == true}">
-                            <div class="slds-col">
-                                <div class="header-info">Game Name: Something</div>
-                            </div>
-                            <div class="slds-col">
-                                <div class="header-info">Round: 2 out of 3</div>
-                            </div>
-                            <div class="slds-col">
-                                <div class="header-info">Bet: $3.00</div>
-                            </div>
-                        </aura:if>
-
-                    </div>
-
-                </div>
+                <c:GameHeader gameon="false" name="Something" currentRound="2" totalRounds="4" bet="34.00"/>
 
                 <!-- content -->
                 <div class="slds-col slds-p-top_medium">
@@ -225,7 +201,7 @@
 
             
             <!-- <c:UtilDropDownWithFilter/> -->
-            <c:ChallengeCreator aura:id="gamecreator"/>
+            <!-- <c:ChallengeCreator aura:id="gamecreator"/> -->
             
         </lightning:tab>
         <lightning:tab label="Dashboard">
