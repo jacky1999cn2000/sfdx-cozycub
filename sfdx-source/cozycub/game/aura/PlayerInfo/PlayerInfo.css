@@ -5,11 +5,6 @@
     text-align: center;
 }
 
-@font-face {
-    font-family: 'customFont';
-    src: url(/resource/customFont);
-}
-
 .THIS img {
     border-radius: 50%;
     margin-bottom: 2%;

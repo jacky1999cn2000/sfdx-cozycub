@@ -1,6 +1,6 @@
 <aura:component description="Game Setup Container" implements="flexipage:availableForAllPageTypes" access="global">
     
-    <ltng:require scripts="{!join(',', $Resource.AuraPromise, $Resource.Lodash)}" afterScriptsLoaded="{!c.init}" />
+    <ltng:require scripts="{!$Resource.AuraPromise}" afterScriptsLoaded="{!c.init}" />
 
     <aura:attribute name="gameon" type="Boolean"/>
     <aura:attribute name="players" type="String"/>
