@@ -1,27 +1,170 @@
 <aura:component description="Players" implements="flexipage:availableForAllPageTypes" access="global">
+    
+    <aura:attribute name="gameon" type="Boolean"/>
+    <aura:attribute name="players" type="String"/>
 
-    <div class="slds-grid slds-grid_vertical-align-center">
+    <aura:attribute name="upperPlayers" type="List"/>
+    <aura:attribute name="lowerPlayers" type="List"/>
 
-        <div class="slds-col player">
-            <c:PlayerInfo name="Abbot J" money="42" emotion ="calm" calm="abottt" happy="abotttttt" sad="abott"/>
+    <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+
+    <div class="slds-grid slds-grid_vertical">
+
+        <!-- upper players -->
+        <div class="slds-col">
+            
+            <div class="slds-grid slds-grid_vertical-align-center">
+
+                <aura:iteration items="{!v.upperPlayers}" var="item">
+                    <div class="slds-col player">
+                        <c:PlayerInfo name="{item.name}" money="{item.money}" emotion ="{!item.emotion}" calm="{!item.calm}" happy="{!item.happy}" sad="{!item.sad}"/>
+                    </div>  
+                </aura:iteration>
+
+            </div>
+
         </div>
 
-        <div class="slds-col player">
-            <c:PlayerInfo name="Jack L" money="42" emotion ="happy" calm="jackttt" happy="jackt" sad="jackttttt"/>
+        <!-- dice table -->
+        <div class="slds-col">
+
+            <!-- dice -->
+            <aura:if isTrue="{!v.gameon == false}">
+                <div class="slds-grid slds-grid_vertical-align-start" style="height: 200px;">
+                    <aura:iteration items="{!v.upperPlayers}" var="item">
+                        <div class="slds-col player">
+                            <c:PlayerInfo name="{item.name}" money="{item.money}" emotion ="{!item.emotion}" calm="{!item.calm}" happy="{!item.happy}" sad="{!item.sad}"/>
+                        </div>  
+                    </aura:iteration>
+                    <div class="slds-col dice">
+                        <lightning:layout horizontalAlign="center">
+                            <c:Dice/>   
+                        </lightning:layout>
+                    </div>
+                    <div class="slds-col dice">
+                        <lightning:layout horizontalAlign="center">
+                            <c:Dice/>   
+                        </lightning:layout>
+                    </div>
+                    <div class="slds-col dice">
+                        <lightning:layout horizontalAlign="center">
+                            <c:Dice/>   
+                        </lightning:layout>
+                    </div>
+                    <div class="slds-col dice">
+                        <lightning:layout horizontalAlign="center">
+                            <c:Dice/>   
+                        </lightning:layout>
+                    </div>
+                    <div class="slds-col dice">
+                        <lightning:layout horizontalAlign="center">
+                            <c:Dice/>   
+                        </lightning:layout>
+                    </div>
+                </div>
+            </aura:if>
+                
+            <!-- cards -->
+            <aura:if isTrue="{!v.gameon == true}">
+                <div class="slds-grid slds-grid_vertical" style="height: 200px;">
+                    <div class="slds-col">
+                        <div class="slds-grid">
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slds-col">
+                        <div class="slds-grid">
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                            <div class="slds-col">
+                                <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                    <img src="{!$Resource.cozycub__dice + '/dice-3.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/>
+                                    <img src="{!$Resource.cozycub__dice + '/dice-5.png'}" alt=""/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aura:if>
         </div>
 
-        <div class="slds-col player">
-            <c:PlayerInfo name="Sam S" money="42" emotion ="happy" calm="samtt" happy="samt" sad="samtttt"/>
-        </div>
+        <!-- lower players -->
+        <div class="slds-col">
+        
+            <div class="slds-grid slds-grid_vertical-align-center" style="height: 100%;">
 
-        <div class="slds-col player">
-            <c:PlayerInfo name="Helen W" money="42" emotion ="sad" calm="helenttttttt" happy="helent" sad="helenttttt"/>
-        </div>
+                <aura:iteration items="{!v.lowerPlayers}" var="item">
+                    <div class="slds-col player">
+                        <c:PlayerInfo name="{item.name}" money="{item.money}" emotion ="{!item.emotion}" calm="{!item.calm}" happy="{!item.happy}" sad="{!item.sad}"/>
+                    </div>  
+                </aura:iteration>
 
-        <div class="slds-col player">
-            <c:PlayerInfo name="Kevin D" money="42" emotion ="sad" calm="kevintt" happy="kevinttttt" sad="kevintttttttt"/>
+            </div>
+
         </div>
 
     </div>
-    
+
 </aura:component>	
