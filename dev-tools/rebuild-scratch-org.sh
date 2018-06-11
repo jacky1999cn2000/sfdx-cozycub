@@ -33,8 +33,8 @@ confirmScriptExecution "Do you want to rebuild your scratch org?"
 #
 #### SCRATCH ORG SETUP (DELETE/CREATE/PUSH) ########################################################
 #
-# 0. Reset the Step Message counter and set the TOTAL STEPS to 4.
-resetStepMsgCounter 4
+# 0. Reset the Step Message counter and set the TOTAL STEPS to 5.
+resetStepMsgCounter 5
 
 # 1. Delete the current scratch org.
 echoStepMsg "Delete the $SCRATCH_ORG_ALIAS scratch org"
