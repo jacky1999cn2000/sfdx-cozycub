@@ -6,6 +6,7 @@
     <aura:attribute name="players" type="String"/>
 
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+    <aura:handler name="GameEvent" event="c:GameEvent" action="{!c.handleEvent}"/>
 
     <lightning:tabset variant="scoped">
         <lightning:tab label="Game Room">
