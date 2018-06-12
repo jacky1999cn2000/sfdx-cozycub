@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "cozycub__Player__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "data-cozycub__Player__cs.json"
+        ]
+    }
+]

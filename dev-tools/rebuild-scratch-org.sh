@@ -34,7 +34,7 @@ confirmScriptExecution "Do you want to rebuild your scratch org?"
 #### SCRATCH ORG SETUP (DELETE/CREATE/PUSH) ########################################################
 #
 # 0. Reset the Step Message counter and set the TOTAL STEPS to 5.
-resetStepMsgCounter 5
+resetStepMsgCounter 6
 
 # 1. Delete the current scratch org.
 echoStepMsg "Delete the $SCRATCH_ORG_ALIAS scratch org"
@@ -83,20 +83,20 @@ fi
 
 #### Uncomment and modify if you need to setup data in your scratch org.
 # 6. Setup development data
-#echoStepMsg "Setup/import data needed for development"
-#echo \
-#"Executing force:data:tree:import \\
-#            --plan ./data/dataplan.json \\
-#            --targetusername $SCRATCH_ORG_ALIAS \\
-#            --loglevel error)\n"
-#(cd $PROJECT_ROOT && exec sfdx force:data:tree:import \
-#                                --plan ./data/dataplan.json \
-#                                --targetusername $SCRATCH_ORG_ALIAS \
-#                                --loglevel error)
-#if [ $? -ne 0 ]; then
-#  echoErrorMsg "Development data could not be imported into the scratch org. Aborting Script."
-#  exit 1
-#fi
+echoStepMsg "Setup/import data needed for development"
+echo \
+"Executing force:data:tree:import \\
+           --plan ./data/data-cozycub__Player__c.json \\
+           --targetusername $SCRATCH_ORG_ALIAS \\
+           --loglevel error)\n"
+(cd $PROJECT_ROOT && exec sfdx force:data:tree:import \
+                               --plan ./data/data-cozycub__Player__c-plan.json \
+                               --targetusername $SCRATCH_ORG_ALIAS \
+                               --loglevel error)
+if [ $? -ne 0 ]; then
+ echoErrorMsg "Development data could not be imported into the scratch org. Aborting Script."
+ exit 1
+fi
 #
 #
 #### ECHO CLOSING MESSAGE ##########################################################################
