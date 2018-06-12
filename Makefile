@@ -12,6 +12,13 @@ openTEST:
 openPackaging:
 	sfdx force:org:open -u cozycub-PACKAGING
 
+# scratch org password 
+generatePassword:
+	sfdx force:user:password:generate -u CozyCubDev
+
+displayPassword:
+	sfdx force:user:display -u CozyCubDev
+
 # push & pull for development
 
 push:
