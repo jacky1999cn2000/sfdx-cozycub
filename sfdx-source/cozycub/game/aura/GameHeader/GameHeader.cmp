@@ -6,6 +6,8 @@
         <aura:attribute name="totalRounds" type="Integer"/>
         <aura:attribute name="bet" type="Decimal"/>
 
+        <aura:handler name="GameEvent" event="c:GameEvent" action="{!c.handleEvent}"/>
+
         <div class="slds-grid slds-grid_align-space">
 
             <aura:if isTrue="{!v.gameon == false}">

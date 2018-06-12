@@ -2,6 +2,7 @@
 
     <aura:method name="open" action="{!c.open}" access="public"></aura:method>
     <aura:method name="close" action="{!c.close}" access="public"></aura:method>
+    <aura:method name="save" action="{!c.save}" access="public"></aura:method>
 
     <aura:attribute name="step" type="Integer" default="0" access="private"/>
 
@@ -10,6 +11,8 @@
     <aura:attribute name="bet" type="Decimal" default="" access="private"/>
 
     <aura:attribute name="showModal" type="Boolean" default="false" access="private"/>
+
+    <aura:registerEvent name="GameEvent" type="c:GameEvent"/>
     
     <!-- modal -->
     <aura:if isTrue="{!v.showModal}">
@@ -110,7 +113,7 @@
                         </lightning:layoutItem>
     
                         <lightning:layoutItem padding="around-small">
-                            <lightning:button variant="success" label="Save Game" onclick="{!c.close}" aura:id="savebtn" class="hidden"/>
+                            <lightning:button variant="success" label="Save Game" onclick="{!c.save}" aura:id="savebtn" class="hidden"/>
                             <lightning:button variant="destructive" label="Cancel" onclick="{!c.close}" aura:id="cancelbtn"/>
                         </lightning:layoutItem>
                     </lightning:layout>
