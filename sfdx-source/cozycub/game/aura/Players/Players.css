@@ -11,3 +11,11 @@
     height: 25px;
     width: 25px;
 }
+
+.THIS .slogan {
+    font-family: 'customFont';
+    font-size: 22px;
+    color:goldenrod;
+    text-align: center;
+    margin-bottom: 15px;
+}

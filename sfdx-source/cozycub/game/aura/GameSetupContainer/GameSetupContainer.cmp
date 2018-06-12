@@ -14,12 +14,12 @@
 
                 <!-- header -->
                 <div class="slds-col slds-p-bottom_small slds-border_bottom"> 
-                    <c:GameHeader gameon="true" name="Something" currentRound="2" totalRounds="4" bet="34.00"/>
+                    <c:GameHeader gameon="false" name="Something" currentRound="2" totalRounds="4" bet="34.00"/>
                 </div>
 
                 <!-- content -->
                 <div class="slds-col slds-p-top_medium">
-                    <c:Players gameon="true" players="{!v.players}"/>
+                    <c:Players gameon="false" players="{!v.players}"/>
                 </div>
 
             </div>

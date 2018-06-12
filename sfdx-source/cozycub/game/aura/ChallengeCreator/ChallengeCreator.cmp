@@ -9,10 +9,10 @@
     <aura:attribute name="round" type="Integer" default="" access="private"/>
     <aura:attribute name="bet" type="Decimal" default="" access="private"/>
 
-    <aura:attribute name="showAds" type="Boolean" default="true" access="private"/>
+    <aura:attribute name="showModal" type="Boolean" default="false" access="private"/>
     
     <!-- modal -->
-    <aura:if isTrue="{!!v.showAds}">
+    <aura:if isTrue="{!v.showModal}">
         <div class="demo-only" style="height: 640px;">
             <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal" aura:id="modalbox">
                 <div class="slds-modal__container">
@@ -120,11 +120,4 @@
             <div class="slds-backdrop" aura:id="modalbackdrop"></div>
         </div>
     </aura:if>
-    
-
-      <!-- ads -->
-      <aura:if isTrue="{!v.showAds}">
-        hello~~~~
-      </aura:if>
-
 </aura:component>	
