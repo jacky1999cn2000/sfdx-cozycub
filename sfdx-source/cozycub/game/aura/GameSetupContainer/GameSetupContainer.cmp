@@ -2,7 +2,7 @@
     
     <ltng:require scripts="{!$Resource.AuraPromise}" afterScriptsLoaded="{!c.init}" />
 
-    <aura:attribute name="gameon" type="Boolean"/>
+    <aura:attribute name="gameon" type="Boolean" default="false"/>
     <aura:attribute name="players" type="String"/>
 
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
@@ -14,12 +14,12 @@
 
                 <!-- header -->
                 <div class="slds-col slds-p-bottom_small slds-border_bottom"> 
-                    <c:GameHeader gameon="false" name="Something" currentRound="2" totalRounds="4" bet="34.00"/>
+                    <c:GameHeader gameon="{!v.gameon}" name="Something" currentRound="2" totalRounds="4" bet="34.00"/>
                 </div>
 
                 <!-- content -->
                 <div class="slds-col slds-p-top_medium">
-                    <c:Players gameon="false" players="{!v.players}"/>
+                    <c:Players gameon="{!v.gameon}" players="{!v.players}"/>
                 </div>
 
             </div>
