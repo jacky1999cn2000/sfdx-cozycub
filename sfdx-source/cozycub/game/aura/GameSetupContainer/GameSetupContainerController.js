@@ -3,14 +3,12 @@
 
         console.log('AuraPromise is loaded...');
 
-        // var action = component.get('c.getPlayers');
-        // AuraPromise.serverSideCall(action, component).then(function(players_string) {
-        //     var players_object = JSON.parse(players_string);
-        //     var players_array = players_object.pList;
-        //     component.set('v.players', players_array);
-        // }).catch(function(error) {
-        //     console.log('Error: ' + error);
-        // });
+        var action = component.get('c.playGame');
+        AuraPromise.serverSideCall(action, component).then(function(players) {
+            component.set('v.players', players);
+        }).catch(function(error) {
+            console.log('Error: ' + error);
+        });
 
     },
 

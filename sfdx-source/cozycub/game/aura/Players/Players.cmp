@@ -2,7 +2,7 @@
     
     <aura:attribute name="gameon" type="Boolean"/>
     <aura:attribute name="interval" type="Boolean"/>
-    <aura:attribute name="players" type="Object[]"/>
+    <aura:attribute name="players" type="String"/>
 
     <aura:attribute name="upperPlayers" type="List"/>
     <aura:attribute name="lowerPlayers" type="List"/>

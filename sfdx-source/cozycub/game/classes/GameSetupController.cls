@@ -30,56 +30,45 @@ public class GameSetupController {
         return result;
     }
 
-    // @AuraEnabled
-    // public static String playGame(String name, Integer round, Integer currentRound, Decimal bet,){
+    @AuraEnabled
+    public static String playGame(String gameId, String name, Integer round, Integer currentRound, Decimal bet, String players_string){
 
-        // String jsonStr = '';
+        String result = '';
 
-        // if(gameStr == null){
+        if(players_string == null){
             
-        //     System.debug('***initialize game');
+            System.debug('***initialize players_string');
 
-        //     List<cozycub__Player__c> playerList = [SELECT Id, Name, cozycub__Money__c, cozycub__Calm__c,cozycub__Happy__c, cozycub__Sad__c FROM cozycub__Player__c];
+            List<cozycub__Player__c> playerList = [SELECT Id, Name, cozycub__Money__c, cozycub__Calm__c,cozycub__Happy__c, cozycub__Sad__c FROM cozycub__Player__c];
 
-        //     Game game = new Game();
-        //     Players players = new Players();
-        //     List<Player> pList = new List<Player>();
+            Players players = new Players();
+            List<Player> pList = new List<Player>();
 
-        //     for(cozycub__Player__c player : playerList){
-        //         Player p = new Player();
-        //         p.name = player.Name;
-        //         p.money = player.cozycub__Money__c;
-        //         p.emotion = 'calm';
-        //         p.calm = player.cozycub__Calm__c;
-        //         p.happy = player.cozycub__Happy__c;
-        //         p.sad = player.cozycub__Sad__c;
-        //         p.dice = new List<Integer>{0,0,0};
-        //         pList.add(p);
-        //     }
+            for(cozycub__Player__c player : playerList){
+                Player p = new Player();
+                p.name = player.Name;
+                p.money = player.cozycub__Money__c;
+                p.emotion = 'calm';
+                p.calm = player.cozycub__Calm__c;
+                p.happy = player.cozycub__Happy__c;
+                p.sad = player.cozycub__Sad__c;
+                p.dice = new List<Integer>{0,0,0};
+                pList.add(p);
+            }
 
-        //     players.pList = pList;
-        //     game.players = players;
+            players.pList = pList;
 
-        //     jsonStr = JSON.serialize(game);
-        //     System.debug('***jsonStr '+jsonStr);
+            result = JSON.serialize(players);
+            System.debug('***result '+result);
         
-        //     return jsonStr;
-        // }else{
+            return result;
+        }else{
 
-        //     System.debug('***update game');
+            System.debug('***update players_string');
 
-        // }
-
-    // }
-
-    // public class Game{
-    //     public String gameId;
-    //     public String name;
-    //     public Integer round;
-    //     public Integer currentRound;
-    //     public Decimal bet;
-    //     public Players players;
-    // }
+        }
+        return '';
+    }
 
     public class Players{
         public List<Player> pList;
