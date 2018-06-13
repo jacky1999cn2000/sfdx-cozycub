@@ -1,4 +1,5 @@
 <aura:event type="COMPONENT">
+    <aura:attribute name="gameId" type="String"/>
     <aura:attribute name="name" type="String"/>
     <aura:attribute name="round" type="Integer"/>
     <aura:attribute name="currentRound" type="Integer"/>

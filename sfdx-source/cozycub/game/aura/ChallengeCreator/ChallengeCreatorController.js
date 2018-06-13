@@ -46,10 +46,11 @@
         var action = component.get('c.createGame');
         action.setParams({'name': name, 'round': round, 'bet': bet});
         AuraPromise.serverSideCall(action, component).then(function(result) {
-            if(result == 'success'){
+            if(result.status == 'success'){
                 console.log('firing game event...');
                 var gameEvent = component.getEvent("GameEvent");
                 if(gameEvent != null) {
+                    gameEvent.setParam("gameId", result.id);
                     gameEvent.setParam("name", name);
                     gameEvent.setParam("round", round);
                     gameEvent.setParam("currentRound", 0);

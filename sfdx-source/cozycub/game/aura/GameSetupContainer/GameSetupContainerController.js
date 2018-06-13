@@ -17,16 +17,19 @@
     handleGameEvent : function(component, event, helper) {
         console.log('handleGameEvent...');
 
+        var gameId = event.getParam("gameId");
         var name = event.getParam("name");
         var round = event.getParam("round");
         var currentRound = event.getParam("currentRound");
         var bet = event.getParam("bet");
 
+        console.log('gameId: ', gameId);
         console.log('name: ', name);
         console.log('round: ', round);
         console.log('currentRound: ', currentRound);
         console.log('bet: ', bet);
 
+        component.set('v.gameId', gameId);
         component.set('v.name', name);
         component.set('v.round', round);
         component.set('v.currentRound', currentRound);

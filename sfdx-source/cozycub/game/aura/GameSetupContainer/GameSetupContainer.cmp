@@ -4,12 +4,14 @@
 
     <aura:attribute name="gameon" type="Boolean" default="false"/>
     <aura:attribute name="interval" type="Boolean" default="true"/>
-    
+
+    <aura:attribute name="gameId" type="String" default=""/>
     <aura:attribute name="name" type="String" default=""/>
     <aura:attribute name="round" type="Integer" default="0"/>
     <aura:attribute name="currentRound" type="Integer" default="0"/>
     <aura:attribute name="bet" type="Decimal" default="0.0"/>
 
+    <aura:attribute name="players_string" type="String" default=""/>
     <aura:attribute name="players" type="Object[]" default="[]"/>
 
     <aura:registerEvent name="GameEvent" type="c:GameEvent"/>
