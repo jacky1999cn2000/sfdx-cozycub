@@ -15,7 +15,7 @@
             <!-- upper players -->
             <div class="slds-col">
                 
-                <div class="slds-grid slds-grid_vertical-align-center" style="height: 00px;">
+                <div class="slds-grid slds-grid_vertical-align-center" style="height: 100%;">
 
                     <aura:iteration items="{!v.upperPlayers}" var="item">
                         <div class="slds-col player">

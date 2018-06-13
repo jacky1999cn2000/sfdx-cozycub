@@ -9,10 +9,11 @@
         var name = event.getParam("name");
         var round = event.getParam("round");
         var bet = event.getParam("bet");
-        console.log('gameon ',gameon);
-        console.log('name ',name);
-        console.log('round ',round);
-        console.log('bet ',bet);
+
+        component.set('v.name',name);
+        component.set('v.round',round);
+        component.set('v.bet',bet);
+        component.set('v.gameon',gameon);
     }
 })
 
