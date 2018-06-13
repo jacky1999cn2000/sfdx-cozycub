@@ -1,6 +1,6 @@
 <aura:event type="COMPONENT">
-    <aura:attribute name="gameon" type="Boolean"/>
     <aura:attribute name="name" type="String"/>
     <aura:attribute name="round" type="Integer"/>
+    <aura:attribute name="currentRound" type="Integer"/>
     <aura:attribute name="bet" type="Decimal"/>
 </aura:event>

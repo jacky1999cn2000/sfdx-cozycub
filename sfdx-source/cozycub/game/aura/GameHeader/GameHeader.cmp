@@ -2,8 +2,8 @@
 
         <aura:attribute name="gameon" type="Boolean" default="false"/>
         <aura:attribute name="name" type="String"/>
+        <aura:attribute name="round" type="Integer"/>
         <aura:attribute name="currentRound" type="Integer"/>
-        <aura:attribute name="totalRounds" type="Integer"/>
         <aura:attribute name="bet" type="Decimal"/>
 
         <div class="slds-grid slds-grid_align-space">
@@ -19,7 +19,7 @@
                     <div class="header-info">Game Name: {!v.name}</div>
                 </div>
                 <div class="slds-col">
-                    <div class="header-info">Round: {!v.currentRound} out of {!v.totalRounds}</div>
+                    <div class="header-info">Round: {!v.currentRound} out of {!v.round}</div>
                 </div>
                 <div class="slds-col">
                     <div class="header-info">Bet: ${!v.bet}</div>

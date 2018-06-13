@@ -50,9 +50,9 @@
                 console.log('firing game event...');
                 var gameEvent = component.getEvent("GameEvent");
                 if(gameEvent != null) {
-                    gameEvent.setParam("gameon", true);
                     gameEvent.setParam("name", name);
                     gameEvent.setParam("round", round);
+                    gameEvent.setParam("currentRound", 0);
                     gameEvent.setParam("bet", bet);
 
                     // hide component

@@ -1,7 +1,7 @@
 <aura:component description="Players" implements="flexipage:availableForAllPageTypes" access="global">
     
     <aura:attribute name="gameon" type="Boolean"/>
-    <aura:attribute name="interval" type="Boolean" default="false"/>
+    <aura:attribute name="interval" type="Boolean"/>
     <aura:attribute name="players" type="Object[]"/>
 
     <aura:attribute name="upperPlayers" type="List"/>
@@ -31,7 +31,7 @@
             <div class="slds-col">
 
                 <!-- dice -->
-                <aura:if isTrue="{!v.interval == false}">
+                <aura:if isTrue="{!v.interval == true}">
                     <div class="slds-grid slds-grid_vertical-align-start" style="height: 200px;">
                         <aura:iteration items="1,2,3,4,5" var="item">
                             <div class="slds-col dice">
@@ -44,7 +44,7 @@
                 </aura:if>
                     
                 <!-- cards -->
-                <aura:if isTrue="{!v.interval == true}">
+                <aura:if isTrue="{!v.interval == false}">
                     <div class="slds-grid slds-grid_vertical" style="height: 200px;">
                         <div class="slds-col">
                             <div class="slds-grid">

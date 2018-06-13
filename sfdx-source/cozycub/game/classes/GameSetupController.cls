@@ -50,6 +50,15 @@ public class GameSetupController {
         return players_string;
     }
 
+    public class Game{
+        public Id id;
+        public String name;
+        public Integer round;
+        public Integer currentRound;
+        public Decimal bet;
+        public Players players;
+    }
+
     public class Players{
         public List<Player> pList;
     }
