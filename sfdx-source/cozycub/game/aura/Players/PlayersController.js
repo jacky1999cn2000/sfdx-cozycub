@@ -1,13 +1,9 @@
 ({
-    init: function(component, event, helper) {
+    playersChanged: function(component, event, helper) {
         var upperPlayers = [];
         var lowerPlayers = [];
 
-        var players_string = component.get('v.players');
-        console.log('players_string ',players_string);
-
-        var players = JSON.parse(players_string);
-
+        var players = component.get('v.players');
         console.log('players ',players);
 
         for(var i = 0; i < players.length/2; i++){

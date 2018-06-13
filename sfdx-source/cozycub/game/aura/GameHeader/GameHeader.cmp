@@ -16,7 +16,7 @@
 
             <aura:if isTrue="{!v.gameon == true}">
                 <div class="slds-col">
-                    <div class="header-info">Game Name: {!v.game}</div>
+                    <div class="header-info">Game Name: {!v.name}</div>
                 </div>
                 <div class="slds-col">
                     <div class="header-info">Round: {!v.currentRound} out of {!v.totalRounds}</div>

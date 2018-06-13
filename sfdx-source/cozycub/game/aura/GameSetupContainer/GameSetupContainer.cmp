@@ -1,4 +1,4 @@
-<aura:component description="Game Setup Container" implements="flexipage:availableForAllPageTypes" access="global">
+<aura:component description="Game Setup Container" implements="flexipage:availableForAllPageTypes" access="global" controller="GameSetupController">
     
     <ltng:require scripts="{!$Resource.AuraPromise}" afterScriptsLoaded="{!c.init}" />
 
@@ -8,10 +8,9 @@
     <aura:attribute name="currentRound" type="Integer" default="0"/>
     <aura:attribute name="bet" type="Decimal" default="0.0"/>
 
-    <aura:attribute name="players" type="String"/>
+    <aura:attribute name="players" type="Object[]"/>
 
-    <aura:handler name="init" value="{!this}" action="{!c.init}"/>
-    <aura:handler name="GameEvent" event="c:GameEvent" action="{!c.handleEvent}"/>
+    <aura:handler name="GameEvent" event="c:GameEvent" action="{!c.handleGameEvent}"/>
 
     <lightning:tabset variant="scoped">
         <lightning:tab label="Game Room">
