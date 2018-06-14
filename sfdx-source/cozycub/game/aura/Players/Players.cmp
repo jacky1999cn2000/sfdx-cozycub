@@ -19,7 +19,7 @@
 
                     <aura:iteration items="{!v.upperPlayers}" var="item">
                         <div class="slds-col player">
-                            <c:PlayerInfo name="{!item.name}" money="{!item.money}" emotion ="{!item.emotion}" calm="{!item.calm}" happy="{!item.happy}" sad="{!item.sad}"/>
+                            <c:PlayerInfo name="{!item.name}" money="{!item.money}" emotion ="{!item.emotion}" calm="{!item.calm}" happy="{!item.happy}" sad="{!item.sad}" rounds="{!item.rounds}"/>
                         </div>  
                     </aura:iteration>
 
@@ -84,7 +84,7 @@
 
                     <aura:iteration items="{!v.lowerPlayers}" var="item">
                         <div class="slds-col player">
-                            <c:PlayerInfo name="{!item.name}" money="{!item.money}" emotion ="{!item.emotion}" calm="{!item.calm}" happy="{!item.happy}" sad="{!item.sad}"/>
+                            <c:PlayerInfo name="{!item.name}" money="{!item.money}" emotion ="{!item.emotion}" calm="{!item.calm}" happy="{!item.happy}" sad="{!item.sad}" rounds="{!item.rounds}"/>
                         </div>  
                     </aura:iteration>
 

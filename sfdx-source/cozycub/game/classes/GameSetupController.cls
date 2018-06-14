@@ -53,6 +53,7 @@ public class GameSetupController {
                 p.happy = player.cozycub__Happy__c;
                 p.sad = player.cozycub__Sad__c;
                 p.dice = new List<Integer>{0,0,0};
+                p.rounds = new List<Integer>();
                 pList.add(p);
             }
 
@@ -86,6 +87,7 @@ public class GameSetupController {
         public String happy;
         public String sad;
         public List<Integer> dice;
+        public List<Integer> rounds;
     }
 
 }
