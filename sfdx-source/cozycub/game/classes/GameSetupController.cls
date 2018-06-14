@@ -37,7 +37,7 @@ public class GameSetupController {
 
         if(players_string == null){
             
-            System.debug('***initialize players_string');
+            System.debug('***initialize players');
 
             List<cozycub__Player__c> playerList = [SELECT Id, Name, cozycub__Money__c, cozycub__Calm__c,cozycub__Happy__c, cozycub__Sad__c FROM cozycub__Player__c];
 
@@ -64,8 +64,12 @@ public class GameSetupController {
             return result;
         }else{
 
-            System.debug('***update players_string');
+            System.debug('***playing game ' + name);
+            System.debug('***round ' + currentRound + ' out of ' + round);
 
+            Players players = (Players)JSON.deserialize(players_string, Players.class);
+            
+            
         }
         return '';
     }

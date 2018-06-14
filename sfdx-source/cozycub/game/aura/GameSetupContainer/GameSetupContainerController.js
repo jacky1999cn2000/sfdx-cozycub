@@ -32,47 +32,24 @@
         component.set('v.round', round);
         component.set('v.currentRound', currentRound);
         component.set('v.bet', bet);
+
         component.set('v.gameon', currentRound != round);
         component.set('v.interval', true);
 
         // if there are still remaining round, then play the next round
-        // if(currentRound != round){
-        //     var action = component.get('c.createGame');
-        //     action.setParams({'name': name, 'round': round, 'bet': bet});
-        //     AuraPromise.serverSideCall(action, component).then(function(result) {
-        //         if(result == 'success'){
-        //             console.log('firing game event...');
-        //             var gameEvent = component.getEvent("GameEvent");
-        //             if(gameEvent != null) {
-        //                 gameEvent.setParam("gameon", true);
-        //                 gameEvent.setParam("name", name);
-        //                 gameEvent.setParam("round", round);
-        //                 gameEvent.setParam("currentRound", 0);
-        //                 gameEvent.setParam("bet", bet);
-
-        //                 // hide component
-        //                 var nextbtn = component.find('nextbtn');
-        //                 $A.util.removeClass(nextbtn, 'hidden');
-        //                 var savebtn = component.find('backbtn');
-        //                 $A.util.addClass(savebtn, 'hidden');
-        //                 var savebtn = component.find('savebtn');
-        //                 $A.util.addClass(savebtn, 'hidden');
-
-        //                 var modalbox = component.find('modalbox');
-        //                 var modalbackdrop = component.find('modalbackdrop');
-        //                 $A.util.removeClass(modalbox, 'slds-fade-in-open'); 
-        //                 $A.util.removeClass(modalbackdrop,'slds-backdrop--open');
-
-        //                 // fire the event
-        //                 gameEvent.fire();                            
-        //             }
-        //         }else{
-        //             console.log('Error: ' + result);
-        //         }
-        //     }).catch(function(error) {
-        //         console.log('Error: ' + error);
-        //     });
-        // }
+        if(currentRound != round){
+            setTimeout(function(){
+                console.log('timer!!!');
+                var action = component.get('c.playGame');
+                action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': component.get('v.players')});
+                AuraPromise.serverSideCall(action, component).then(function(players) {
+                    console.log('return@@@');
+                    // component.set('v.players', players);
+                }).catch(function(error) {
+                    console.log('Error: ' + error);
+                });
+            }, 2000);
+        }
     }
 })
 
