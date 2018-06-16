@@ -6,3 +6,4 @@
 * [Build an Instant Notification App](https://trailhead.salesforce.com/projects/workshop-platform-events)
 * [How to Use Custom Font In Lightning Component Using Static Resource](http://sfdcmonkey.com/2017/06/22/custom-font-lightning-component-static-resource/)
 * [Grid System](https://www.lightningdesignsystem.com/utilities/grid/)
+* [Random Number](https://developer.salesforce.com/blogs/developer-relations/2013/07/selecting-random-numbers-and-records-on-the-force-com-platform-part-1.html)

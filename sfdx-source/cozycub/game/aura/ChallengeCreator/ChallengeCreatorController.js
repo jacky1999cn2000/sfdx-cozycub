@@ -50,6 +50,7 @@
                 console.log('firing game event...');
                 var gameEvent = component.getEvent("GameEvent");
                 if(gameEvent != null) {
+                    gameEvent.setParam("status", 'new game');
                     gameEvent.setParam("gameId", result.id);
                     gameEvent.setParam("name", name);
                     gameEvent.setParam("round", round);

@@ -5,7 +5,11 @@
         var lowerPlayers = [];
 
         var players = component.get('v.players');
-        console.log('players string ', players);
+
+        // players string would be empty before game was created
+        if(players == ''){
+            return;
+        }
 
         /*
             This is what players string looks like:
