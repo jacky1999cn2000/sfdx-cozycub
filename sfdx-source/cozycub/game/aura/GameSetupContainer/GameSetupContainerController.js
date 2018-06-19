@@ -31,7 +31,7 @@
                 }).catch(function(error) {
                     console.log('Error: ' + error);
                 });
-            }), 3000);
+            }), 80000);
 
         }else{
             console.log('currentRound equals to round');

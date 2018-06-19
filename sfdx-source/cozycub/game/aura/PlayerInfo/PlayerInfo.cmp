@@ -18,7 +18,8 @@
 
     <div>
         <lightning:layout horizontalAlign="center">
-            <img src="{!v.prefix + v.avatar + v.suffix}" alt="abott"/>
+            <!-- <img src="{!v.prefix + v.avatar + v.suffix}" alt="abott"/> -->
+            <img src="{!$Resource.cozycub__avatars + '/' + v.name + '.png'}" alt=""/>
         </lightning:layout>
         <div class="content-info">name: {!v.name}</div>
         <div class="content-info">money: ${!v.money}</div>
