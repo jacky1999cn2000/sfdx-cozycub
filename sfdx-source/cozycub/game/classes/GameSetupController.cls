@@ -52,7 +52,7 @@ public class GameSetupController {
 
         System.debug('***initializePlayers');
 
-        List<cozycub__Player__c> playerList = [SELECT Id, Name, cozycub__Money__c, cozycub__Calm__c,cozycub__Happy__c, cozycub__Sad__c FROM cozycub__Player__c];
+        List<cozycub__Player__c> playerList = [SELECT Id, Name, cozycub__Money__c FROM cozycub__Player__c];
 
         Players players = new Players();
         List<Player> pList = new List<Player>();
@@ -63,9 +63,6 @@ public class GameSetupController {
             p.name = player.Name;
             p.money = player.cozycub__Money__c;
             p.emotion = 'calm';
-            p.calm = player.cozycub__Calm__c;
-            p.happy = player.cozycub__Happy__c;
-            p.sad = player.cozycub__Sad__c;
             p.dice = new List<Integer>{0,0,0};
             p.rounds = new List<Integer>();
             for(Integer i = 0; i < round; i++){
@@ -162,9 +159,6 @@ public class GameSetupController {
         public String name;
         public Decimal money;
         public String emotion;
-        public String calm;
-        public String happy;
-        public String sad;
         public List<Integer> dice;
         public List<Integer> rounds;
     }

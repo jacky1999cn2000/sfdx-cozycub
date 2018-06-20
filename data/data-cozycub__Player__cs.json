@@ -6,9 +6,6 @@
                 "referenceId": "cozycub__Player__cRef1"
             },
             "Name": "Yolanda",
-            "cozycub__Calm__c": "abottt",
-            "cozycub__Happy__c": "abotttttt",
-            "cozycub__Sad__c": "abott",
             "cozycub__Money__c": 42
         },
         {
@@ -17,9 +14,6 @@
                 "referenceId": "cozycub__Player__cRef2"
             },
             "Name": "Summer",
-            "cozycub__Calm__c": "jackttt",
-            "cozycub__Happy__c": "jackt",
-            "cozycub__Sad__c": "jackttttt",
             "cozycub__Money__c": 42
         },
         {
@@ -28,9 +22,6 @@
                 "referenceId": "cozycub__Player__cRef3"
             },
             "Name": "Ricky",
-            "cozycub__Calm__c": "kevintt",
-            "cozycub__Happy__c": "kevinttttt",
-            "cozycub__Sad__c": "kevintttttttt",
             "cozycub__Money__c": 42
         },
         {
@@ -39,9 +30,6 @@
                 "referenceId": "cozycub__Player__cRef4"
             },
             "Name": "Richard",
-            "cozycub__Calm__c": "helenttttttt",
-            "cozycub__Happy__c": "helent",
-            "cozycub__Sad__c": "helenttttt",
             "cozycub__Money__c": 42
         },
         {
@@ -50,9 +38,6 @@
                 "referenceId": "cozycub__Player__cRef5"
             },
             "Name": "Oscar",
-            "cozycub__Calm__c": "samtt",
-            "cozycub__Happy__c": "samt",
-            "cozycub__Sad__c": "samtttt",
             "cozycub__Money__c": 42
         },
         {
@@ -61,9 +46,6 @@
                 "referenceId": "cozycub__Player__cRef6"
             },
             "Name": "Jeff",
-            "cozycub__Calm__c": "agtttt",
-            "cozycub__Happy__c": "agtttttt",
-            "cozycub__Sad__c": "agtt",
             "cozycub__Money__c": 42
         },
         {
@@ -72,9 +54,6 @@
                 "referenceId": "cozycub__Player__cRef7"
             },
             "Name": "Gonzalez",
-            "cozycub__Calm__c": "gawettt",
-            "cozycub__Happy__c": "gawetttttt",
-            "cozycub__Sad__c": "gawett",
             "cozycub__Money__c": 42
         },
         {
@@ -83,9 +62,6 @@
                 "referenceId": "cozycub__Player__cRef8"
             },
             "Name": "Diva",
-            "cozycub__Calm__c": "qett",
-            "cozycub__Happy__c": "qetttt",
-            "cozycub__Sad__c": "qe",
             "cozycub__Money__c": 42
         },
         {
@@ -94,9 +70,6 @@
                 "referenceId": "cozycub__Player__cRef9"
             },
             "Name": "Bo",
-            "cozycub__Calm__c": "bedfttttt",
-            "cozycub__Happy__c": "bedf",
-            "cozycub__Sad__c": "bedfttt",
             "cozycub__Money__c": 42
         },
         {
@@ -105,9 +78,6 @@
                 "referenceId": "cozycub__Player__cRef10"
             },
             "Name": "Alex",
-            "cozycub__Calm__c": "sfaaf",
-            "cozycub__Happy__c": "sfaafttt",
-            "cozycub__Sad__c": "sfaaftttttt",
             "cozycub__Money__c": 42
         }
     ]

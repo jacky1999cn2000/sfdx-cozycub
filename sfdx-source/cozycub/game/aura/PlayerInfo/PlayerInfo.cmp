@@ -1,17 +1,8 @@
 <aura:component description="Player Info" implements="flexipage:availableForAllPageTypes" access="global">
 
-    <aura:attribute name="prefix" type="String" default='https://api.adorable.io/avatars/120/'/>
-    <aura:attribute name="suffix" type="String" default='@adorable.io.png'/>
-    <aura:attribute name="avatar" type="String" />
-
-    <aura:attribute name="emotion" type="String" default='calm'/>
-
-    <aura:attribute name="calm" type="String" />
-    <aura:attribute name="happy" type="String" />
-    <aura:attribute name="sad" type="String" />
-
     <aura:attribute name="name" type="String" />
     <aura:attribute name="money" type="Integer" />
+    <aura:attribute name="emotion" type="String" default='calm'/>
     <aura:attribute name="rounds" type="Integer[]"/>
 
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
