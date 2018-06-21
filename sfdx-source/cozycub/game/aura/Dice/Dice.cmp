@@ -1,6 +1,6 @@
 <aura:component>
 
-    <div id="stage" style="width: 60px; height: 60px;">
+    <div id="stage" style="width: 20px; height: 20px;">
         <div class="spinner">
             <div class="face1"><img src="{!$Resource.cozycub__dice + '/dice-1.png'}" alt=""/></div>
             <div class="face2"><img src="{!$Resource.cozycub__dice + '/dice-2.png'}" alt=""/></div>

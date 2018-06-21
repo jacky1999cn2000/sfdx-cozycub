@@ -3,7 +3,6 @@
     <ltng:require scripts="{!$Resource.AuraPromise}" afterScriptsLoaded="{!c.init}" />
 
     <aura:attribute name="gameon" type="Boolean" default="false"/>
-    <aura:attribute name="interval" type="Boolean" default="true"/>
 
     <aura:attribute name="gameId" type="String" default=""/>
     <aura:attribute name="name" type="String" default=""/>
@@ -29,7 +28,7 @@
 
                 <!-- content -->
                 <div class="slds-col slds-p-top_medium">
-                    <c:Players gameon="{!v.gameon}" interval="{!v.interval}" players="{!v.players}"/>
+                    <c:Players gameon="{!v.gameon}" players="{!v.players}"/>
                 </div>
 
             </div>

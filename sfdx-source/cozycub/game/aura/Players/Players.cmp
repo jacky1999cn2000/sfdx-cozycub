@@ -1,7 +1,6 @@
 <aura:component description="Players" implements="flexipage:availableForAllPageTypes" access="global">
     
     <aura:attribute name="gameon" type="Boolean"/>
-    <aura:attribute name="interval" type="Boolean"/>
     <aura:attribute name="players" type="String"/>
 
     <aura:attribute name="upperPlayers" type="List"/>
@@ -29,52 +28,47 @@
 
             <!-- dice table -->
             <div class="slds-col">
-
-                <!-- dice -->
-                <aura:if isTrue="{!v.interval == true}">
-                    <div class="slds-grid slds-grid_vertical-align-start" style="height: 200px;">
-                        <aura:iteration items="1,2,3,4,5" var="item">
-                            <div class="slds-col dice">
-                                <lightning:layout horizontalAlign="center">
-                                    <c:Dice/>   
-                                </lightning:layout>
-                            </div>
-                        </aura:iteration>
-                    </div>
-                </aura:if>
-                    
-                <!-- cards -->
-                <aura:if isTrue="{!v.interval == false}">
-                    <div class="slds-grid slds-grid_vertical" style="height: 200px;">
-                        <div class="slds-col">
-                            <div class="slds-grid">
-                                <aura:iteration items="{!v.upperPlayers}" var="item">
-                                    <div class="slds-col">
-                                        <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
-                                            <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[0] + '.png'}" alt=""/>
-                                            <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[1] + '.png'}" alt=""/>
-                                            <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[2] + '.png'}" alt=""/>
-                                        </div>
-                                    </div> 
-                                </aura:iteration>
-                            </div>
-                        </div>
-
-                        <div class="slds-col">
-                            <div class="slds-grid">
-                                <aura:iteration items="{!v.lowerPlayers}" var="item">
-                                    <div class="slds-col">
-                                        <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
-                                            <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[0] + '.png'}" alt=""/>
-                                            <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[1] + '.png'}" alt=""/>
-                                            <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[2] + '.png'}" alt=""/>
-                                        </div>
-                                    </div> 
-                                </aura:iteration>
-                            </div>
+                <div class="slds-grid slds-grid_vertical" style="height: 300px;">
+                    <div class="slds-col">
+                        <div class="slds-grid">
+                            <aura:iteration items="{!v.upperPlayers}" var="item">
+                                <div class="slds-col">
+                                    <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                        <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[0] + '.png'}" alt=""/>
+                                        <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[1] + '.png'}" alt=""/>
+                                        <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[2] + '.png'}" alt=""/>
+                                    </div>
+                                </div> 
+                            </aura:iteration>
                         </div>
                     </div>
-                </aura:if>
+
+                    <div class="slds-col">
+                        <div class="slds-grid slds-grid_vertical-align-start" style="height: 100px;">
+                            <aura:iteration items="1,2,3,4,5" var="item">
+                                <div class="slds-col dice">
+                                    <lightning:layout horizontalAlign="center">
+                                        <c:Dice/>   
+                                    </lightning:layout>
+                                </div>
+                            </aura:iteration>
+                        </div>
+                    </div>
+
+                    <div class="slds-col">
+                        <div class="slds-grid">
+                            <aura:iteration items="{!v.lowerPlayers}" var="item">
+                                <div class="slds-col">
+                                    <div class="slds-grid slds-grid_vertical-align-center slds-grid_align-center dices" style="height: 100px;">
+                                        <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[0] + '.png'}" alt=""/>
+                                        <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[1] + '.png'}" alt=""/>
+                                        <img src="{!$Resource.cozycub__dice + '/dice-' + item.dice[2] + '.png'}" alt=""/>
+                                    </div>
+                                </div> 
+                            </aura:iteration>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <!-- lower players -->

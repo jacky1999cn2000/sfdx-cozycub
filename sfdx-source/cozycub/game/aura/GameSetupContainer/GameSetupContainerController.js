@@ -73,7 +73,6 @@
             component.set('v.bet', bet);
     
             component.set('v.gameon', true);
-            component.set('v.interval', true);
     
             var action = component.get('c.playGame');
             action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': null});
@@ -91,8 +90,11 @@
             component.set('v.round', 0);
             component.set('v.currentRound', 0);
             component.set('v.bet', 0);
-    
-            component.set('v.gameon', false);
+
+            setTimeout($A.getCallback(function(){
+                component.set('v.gameon', false);
+            }), 3000);
+
         }
     }
 })

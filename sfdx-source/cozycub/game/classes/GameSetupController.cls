@@ -63,7 +63,7 @@ public class GameSetupController {
             p.name = player.Name;
             p.money = player.cozycub__Money__c;
             p.emotion = 'calm';
-            p.dice = new List<Integer>{0,0,0};
+            p.dice = new List<Integer>{1,1,1};
             p.rounds = new List<Integer>();
             for(Integer i = 0; i < round; i++){
                 p.rounds.add(-1);
