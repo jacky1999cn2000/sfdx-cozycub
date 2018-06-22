@@ -33,29 +33,29 @@ public class GameSetupController {
     @AuraEnabled
     public static String playGame(String gameId, String name, Integer round, Integer currentRound, Decimal bet, String players_string){
 
-        Map<String, String> result;
+        Map<String, Object> result;
         String new_players_strings;
 
         if(players_string == null){
 
             result = initializePlayers(round);
-            new_players_strings = result.get('players_string');
+            new_players_strings = (String)result.get('players_string');
 
         }else{
 
             Players players = (Players)JSON.deserialize(players_string, Players.class);
             result = updatePlayers(gameId, name, round, currentRound, bet, players);
-            new_players_strings = result.get('players_string');
+            new_players_strings = (String)result.get('players_string');
         }
 
         return new_players_strings;
     }
 
-    @TestVisible private static Map<String, String> initializePlayers(Integer round){
+    @TestVisible private static Map<String, Object> initializePlayers(Integer round){
 
         System.debug('***initializePlayers');
 
-        Map<String, String> result = new Map<String, String>();
+        Map<String, Object> result = new Map<String, Object>();
 
         List<cozycub__Player__c> playerList = [SELECT Id, Name, cozycub__Money__c FROM cozycub__Player__c];
 
@@ -86,11 +86,11 @@ public class GameSetupController {
         return result;
     }
 
-    @TestVisible private static Map<String, String> updatePlayers(String gameId, String name, Integer round, Integer currentRound, Decimal bet, Players players){
+    @TestVisible private static Map<String, Object> updatePlayers(String gameId, String name, Integer round, Integer currentRound, Decimal bet, Players players){
         
         System.debug('***updatePlayers');
 
-        Map<String, String> result = new Map<String, String>();
+        Map<String, Object> result = new Map<String, Object>();
 
        /* 
         somehow, the component passed in non-string parameters are not exactly the same type
