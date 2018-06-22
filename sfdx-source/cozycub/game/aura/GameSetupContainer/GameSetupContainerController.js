@@ -51,8 +51,6 @@
     handleGameEvent : function(component, event, helper) {
         console.log('handleGameEvent...');
 
-        var status = event.getParam("status");
-
         var gameId = event.getParam("gameId");
         var name = event.getParam("name");
         var round = event.getParam("round");
