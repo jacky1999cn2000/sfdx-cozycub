@@ -41,6 +41,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Round_Dashboard__c.Dice__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Round_Dashboard__c.Player_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
