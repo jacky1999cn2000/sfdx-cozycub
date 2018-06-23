@@ -12,6 +12,7 @@
         var round = component.get("v.round");
         var currentRound = component.get("v.currentRound");
         var bet = component.get("v.bet");
+        var players_string = component.get("v.players");
 
         console.log('currentRound: ', currentRound);
 
@@ -20,12 +21,11 @@
             console.log('next round...');
 
             setTimeout($A.getCallback(function(){
-                console.log('start timer...');
                 var action = component.get('c.playGame');
-                action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': component.get('v.players')});
+                action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': players_string});
                 AuraPromise.serverSideCall(action, component).then(function(players) {
                     console.log('updated players ', players);
-                    component.set('v.currentRound', currentRound+1);
+                    component.set('v.currentRound', currentRound + 1);
                     component.set('v.players', players);
                 }).catch(function(error) {
                     console.log('Error: ' + error);
@@ -35,15 +35,22 @@
         }else{
             console.log('end game');
 
-            component.set('v.gameId', '');
-            component.set('v.name', '');
-            component.set('v.round', 0);
-            component.set('v.currentRound', 0);
-            component.set('v.bet', 0);
-
             setTimeout($A.getCallback(function(){
-                component.set('v.gameon', false);
-            }), 3000);         
+                var action = component.get('c.playGame');
+                action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': players_string});
+                AuraPromise.serverSideCall(action, component).then(function(players) {
+                    component.set('v.gameId', '');
+                    component.set('v.name', '');
+                    component.set('v.round', 0);
+                    component.set('v.currentRound', 0);
+                    component.set('v.bet', 0);
+                    component.set('v.players', players);
+                    component.set('v.gameon', false);
+                }).catch(function(error) {
+                    console.log('Error: ' + error);
+                });
+            }), 3000);
+       
         }
 
     },

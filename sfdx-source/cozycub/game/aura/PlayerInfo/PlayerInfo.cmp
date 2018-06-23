@@ -2,7 +2,7 @@
 
     <aura:attribute name="name" type="String" />
     <aura:attribute name="money" type="Integer" />
-    <aura:attribute name="emotion" type="String" default='calm'/>
+    <aura:attribute name="emotion" type="String" default=''/>
     <aura:attribute name="rounds" type="Integer[]"/>
 
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
