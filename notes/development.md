@@ -12,4 +12,5 @@
 
 * [Random Number](https://developer.salesforce.com/blogs/developer-relations/2013/07/selecting-random-numbers-and-records-on-the-force-com-platform-part-1.html)
 
-* 
+* Click "Stack Trace" to locate where the error occurred, then open file via "Sources" tab to see the actual code
+    * ![alt text](https://github.com/jacky1999cn2000/sfdx-cozycub/blob/master/notes/images/1.png "screenshot")
