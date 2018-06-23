@@ -74,7 +74,7 @@
                     gameEvent.fire();                            
                 }
             }else{
-                console.log('Error: ' + result);
+                console.log('Error: ' + result.errorMessage);
             }
         }).catch(function(error) {
             console.log('Error: ' + error);

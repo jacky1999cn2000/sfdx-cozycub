@@ -14,38 +14,45 @@
         var bet = component.get("v.bet");
         var players_string = component.get("v.players");
 
-        console.log('currentRound: ', currentRound);
-
-        // if there are still remaining round, then play the next round
         if(currentRound != round){
             console.log('next round...');
 
             setTimeout($A.getCallback(function(){
                 var action = component.get('c.playGame');
-                action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': players_string});
-                AuraPromise.serverSideCall(action, component).then(function(players) {
-                    console.log('updated players ', players);
-                    component.set('v.currentRound', currentRound + 1);
-                    component.set('v.players', players);
+                action.setParams({'gameId': gameId, 'name': name, 'currentRound': currentRound, 'bet': bet, 'old_players_string': players_string});
+
+                AuraPromise.serverSideCall(action, component).then(function(result) {
+                    if(result.status == 'success'){
+                        console.log('updated players ', result.players);
+                        component.set('v.currentRound', currentRound + 1);
+                        component.set('v.players', result.players);
+                    }else{
+                        console.log('Error: ' + result.errorMessage);
+                    }
                 }).catch(function(error) {
                     console.log('Error: ' + error);
                 });
             }), 3000);
 
         }else{
-            console.log('end game');
+            console.log('end game...');
 
             setTimeout($A.getCallback(function(){
-                var action = component.get('c.playGame');
-                action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': players_string});
-                AuraPromise.serverSideCall(action, component).then(function(players) {
-                    component.set('v.gameId', '');
-                    component.set('v.name', '');
-                    component.set('v.round', 0);
-                    component.set('v.currentRound', 0);
-                    component.set('v.bet', 0);
-                    component.set('v.players', players);
-                    component.set('v.gameon', false);
+                var action = component.get('c.endGame');
+                action.setParams({'gameId': gameId, 'old_players_string': players_string});
+
+                AuraPromise.serverSideCall(action, component).then(function(result) {
+                    if(result.status == 'success'){
+                        component.set('v.gameId', '');
+                        component.set('v.name', '');
+                        component.set('v.round', 0);
+                        component.set('v.currentRound', 0);
+                        component.set('v.bet', 0);
+                        component.set('v.players', result.players);
+                        component.set('v.gameon', false);
+                    }else{
+                        console.log('Error: ' + result.errorMessage);
+                    }
                 }).catch(function(error) {
                     console.log('Error: ' + error);
                 });
@@ -78,11 +85,18 @@
 
         component.set('v.gameon', true);
 
-        var action = component.get('c.playGame');
-        action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': null});
-        AuraPromise.serverSideCall(action, component).then(function(players) {
-            console.log('initial players ', players);
-            component.set('v.players', players);
+        console.log('initalize game...');
+
+        var action = component.get('c.initializeGame');
+        action.setParams({'round': round});
+
+        AuraPromise.serverSideCall(action, component).then(function(result) {
+            if(result.status == 'success'){
+                console.log('initial players ', result.players);
+                component.set('v.players', result.players);
+            }else{
+                console.log('Error: ' + result.errorMessage);
+            }
         }).catch(function(error) {
             console.log('Error: ' + error);
         });
