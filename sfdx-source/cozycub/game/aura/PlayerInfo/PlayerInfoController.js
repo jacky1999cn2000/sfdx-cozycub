@@ -4,6 +4,10 @@
         var emotion = component.get('v.emotion');
         var avatar = component.find('avatar');
 
+        /*  
+            emotion equals to 'calm' only when ending or starting game, so do some cleanup;
+            otherwise, it would lead to "can't read property 'z' of null" error
+        */
         if(emotion == 'calm'){
             if($A.util.hasClass(avatar, "animated infinite bounce")){
                 $A.util.removeClass(avatar, 'animated infinite bounce');
@@ -29,5 +33,6 @@
                 }
             }, 500);
         }
+
     },
 })
