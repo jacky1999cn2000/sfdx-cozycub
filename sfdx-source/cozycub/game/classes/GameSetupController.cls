@@ -31,6 +31,49 @@ public class GameSetupController {
     }
 
     @AuraEnabled
+    public static Map<String, String> initializeGame(Integer round){
+
+        System.debug('***initializeGame');
+
+        round = Integer.valueOf(round);
+
+        Map<String, String> result = new Map<String, String>();
+
+        List<cozycub__Player__c> playerObjectList = [SELECT Id, Name, cozycub__Money__c FROM cozycub__Player__c];
+
+        List<Player> playerList = new List<Player>();
+
+        for(cozycub__Player__c player : playerObjectList){
+            Player p = new Player();
+            p.playerId = player.Id;
+            p.name = player.Name;
+            p.money = player.cozycub__Money__c;
+            p.emotion = 'calm';
+            p.dice = new List<Integer>{1,1,1};
+            p.rounds = new List<Integer>();
+            for(Integer i = 0; i < round; i++){
+                p.rounds.add(-1);
+            }
+            playerList.add(p);
+        }
+
+        String players_string = JSON.serialize(playerList);
+        System.debug('***players_string '+players_string);
+
+        result.put('status','success');
+        result.put('players_string', players_string);
+        result.put('errorMessage','');
+
+        return result;
+
+    }
+
+    // @AuraEnabled
+    // public static String endGame(String gameId, String name, Integer round, Integer currentRound, Decimal bet, String players_string){
+        
+    // }
+
+    @AuraEnabled
     public static String playGame(String gameId, String name, Integer round, Integer currentRound, Decimal bet, String players_string){
 
         System.debug('***playGame');
@@ -61,8 +104,8 @@ public class GameSetupController {
 
                 System.debug('***playing round');
 
-                Players players = (Players)JSON.deserialize(players_string, Players.class);
-                result = updatePlayers(gameId, name, round, currentRound, bet, players);
+                List<Player> playerList = (List<Player>)JSON.deserialize(players_string, List<Player>.class);
+                result = updatePlayers(gameId, name, round, currentRound, bet, playerList);
                 new_players_strings = (String)result.get('players_string');
 
                 System.debug('***new_players_strings '+new_players_strings);
@@ -83,31 +126,31 @@ public class GameSetupController {
 
                 System.debug('***ending game');
 
-                Players players = (Players)JSON.deserialize(players_string, Players.class);
-                for(Player p : players.pList){
+                List<Player> playerList = (List<Player>)JSON.deserialize(players_string, List<Player>.class);
+                for(Player p : playerList){
                     p.emotion = 'calm';
                     p.rounds = new List<Integer>();
                 }
 
-                new_players_strings = JSON.serialize(players);
+                new_players_strings = JSON.serialize(playerList);
 
                 // game over, update game & players sObjects
                 cozycub__Game__c game = [SELECT Id, cozycub__Finished__c FROM cozycub__Game__c WHERE Id =: gameId];
                 game.cozycub__Finished__c = true;
            
                 Map<Id, Decimal> playerIdMoneyMap = new Map<Id,Decimal>();
-                for(Player p : players.pList){
+                for(Player p : playerList){
                     playerIdMoneyMap.put(Id.valueOf(p.playerId), p.money);
                 }
 
-                List<cozycub__Player__c> playerList = [SELECT Id, cozycub__Money__c FROM cozycub__Player__c WHERE Id IN : playerIdMoneyMap.keySet()];
-                for(cozycub__Player__c player : playerList){
+                List<cozycub__Player__c> playerObjectList = [SELECT Id, cozycub__Money__c FROM cozycub__Player__c WHERE Id IN : playerIdMoneyMap.keySet()];
+                for(cozycub__Player__c player : playerObjectList){
                     player.cozycub__Money__c = playerIdMoneyMap.get(player.Id);
                 }
 
                 try{
                     update game;
-                    update playerList;
+                    update playerObjectList;
                 }catch(Exception ex){
                     System.debug('***game or playerList update failure');
                     System.debug('***error: '+ex.getMessage());
@@ -126,12 +169,11 @@ public class GameSetupController {
 
         Map<String, Object> result = new Map<String, Object>();
 
-        List<cozycub__Player__c> playerList = [SELECT Id, Name, cozycub__Money__c FROM cozycub__Player__c];
+        List<cozycub__Player__c> playerObjectList = [SELECT Id, Name, cozycub__Money__c FROM cozycub__Player__c];
 
-        Players players = new Players();
-        List<Player> pList = new List<Player>();
+        List<Player> playerList = new List<Player>();
 
-        for(cozycub__Player__c player : playerList){
+        for(cozycub__Player__c player : playerObjectList){
             Player p = new Player();
             p.playerId = player.Id;
             p.name = player.Name;
@@ -142,12 +184,10 @@ public class GameSetupController {
             for(Integer i = 0; i < round; i++){
                 p.rounds.add(-1);
             }
-            pList.add(p);
+            playerList.add(p);
         }
 
-        players.pList = pList;
-
-        String players_string = JSON.serialize(players);
+        String players_string = JSON.serialize(playerList);
         System.debug('***players_string '+players_string);
 
         result.put('players_string', players_string);
@@ -155,7 +195,7 @@ public class GameSetupController {
         return result;
     }
 
-    @TestVisible private static Map<String, Object> updatePlayers(String gameId, String name, Integer round, Integer currentRound, Decimal bet, Players players){
+    @TestVisible private static Map<String, Object> updatePlayers(String gameId, String name, Integer round, Integer currentRound, Decimal bet, List<Player> playerList){
         
         System.debug('***updatePlayers');
 
@@ -164,14 +204,14 @@ public class GameSetupController {
         List<cozycub__Round_Dashboard__c> roundList = new List<cozycub__Round_Dashboard__c>();
 
        // each player cast dice for current round (if rounds is null, then initialize it)
-       for(Player player : players.pList){
+       for(Player player : playerList){
            player.dice = castDice();
        }
 
        Set<String> winnerSet = new Set<String>();
        Integer largestDiceSum = 0;
 
-       for(Player player : players.pList){
+       for(Player player : playerList){
 
             Integer diceSum = 0;
 
@@ -189,10 +229,10 @@ public class GameSetupController {
 
        }
 
-       Decimal winnerPrize = ((bet * players.pList.size() - bet * winnerSet.size())/winnerSet.size()).setScale(2);
+       Decimal winnerPrize = ((bet * playerList.size() - bet * winnerSet.size())/winnerSet.size()).setScale(2);
        System.debug('***winnerPrize '+winnerPrize);
 
-        for(Player player : players.pList){
+        for(Player player : playerList){
 
             if(winnerSet.contains(player.name)){
                 player.emotion = 'happy';
@@ -217,7 +257,7 @@ public class GameSetupController {
 
         }
 
-        String players_string = JSON.serialize(players);
+        String players_string = JSON.serialize(playerList);
         System.debug('***players_string '+players_string);
 
         result.put('players_string', players_string);
@@ -238,11 +278,8 @@ public class GameSetupController {
 
 
     /*
-        Players & Player classes were used to serialize/deserialize data and passed bewteen lightning component and apex classes
+        Player classes was used to serialize/deserialize data and passed bewteen lightning component and apex classes
     */
-    public class Players{
-        public List<Player> pList;
-    }
 
     public class Player{
         public String playerId;

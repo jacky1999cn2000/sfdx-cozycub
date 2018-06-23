@@ -81,7 +81,7 @@
         var action = component.get('c.playGame');
         action.setParams({'gameId': gameId, 'name': name, 'round': round, 'currentRound': currentRound, 'bet': bet, 'players_string': null});
         AuraPromise.serverSideCall(action, component).then(function(players) {
-            console.log('initial players '+players);
+            console.log('initial players ', players);
             component.set('v.players', players);
         }).catch(function(error) {
             console.log('Error: ' + error);
