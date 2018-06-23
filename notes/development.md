@@ -14,3 +14,24 @@
 
 * Click "Stack Trace" to locate where the error occurred, then open file via "Sources" tab to see the actual code
     * ![alt text](https://github.com/jacky1999cn2000/sfdx-cozycub/blob/master/notes/images/1.png "screenshot")
+
+* Somehow, when calling @Aura method from client, the passed in Integer parameters are not exactly the same type, and using "currentRound != round" or "player.rounds[currentRound]" would cause "Internal Salesforce.com Error" or "java.math.BigDecimal cannot be cast to java.lang.Integer" error; Therefore, need to convert it to its type explicitly (wierdly is, decimal seemed working fine).
+
+    * client-side 
+    ```
+     var action = component.get('c.playGame');
+     action.setParams({'gameId': gameId, 'name': name, 'currentRound': currentRound, 'bet': bet, 'old_players_string': players_string});
+    ```
+
+    * server-side
+    ```
+    @AuraEnabled
+    public static Map<String, String> playGame(String gameId, String name, Integer currentRound, Decimal bet, String old_players_string){
+
+        currentRound = Integer.valueOf(currentRound);
+
+        ...
+
+        player.rounds[currentRound] = 1;
+    }
+    ```
