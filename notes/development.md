@@ -35,3 +35,4 @@
         player.rounds[currentRound] = 1;
     }
     ```
+* [lightning container](https://developer.salesforce.com/blogs/2018/04/lightning-container-component-building-components-with-react-angular-and-other-libraries.html)
