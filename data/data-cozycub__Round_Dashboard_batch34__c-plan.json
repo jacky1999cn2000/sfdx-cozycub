@@ -1,24 +1,8 @@
 [
     {
-        "sobject": "cozycub__Player__c",
-        "saveRefs": true,
-        "resolveRefs": false,
-        "files": [
-            "data-cozycub__Player__cs.json"
-        ]
-    },
-    {
-        "sobject": "cozycub__Game__c",
-        "saveRefs": true,
-        "resolveRefs": false,
-        "files": [
-            "data-cozycub__Game__cs.json"
-        ]
-    },
-    {
         "sobject": "cozycub__Round_Dashboard__c",
-        "saveRefs": true,
-        "resolveRefs": true,
+        "saveRefs": false,
+        "resolveRefs": false,
         "files": [
             "data-cozycub__Round_Dashboard_batch34__cs.json"
         ]
