@@ -112,19 +112,36 @@ if [ $? -ne 0 ]; then
  exit 1
 fi
 
+counter=1
+while [ $counter -lt 3 ]
+do
+
+((counter++))
+echo $counter
+
+fileprefix="./data/data-cozycub__Round_Dashboard_batch"
+filesuffix="__c-plan.json"
+filename=$fileprefix$counter$filesuffix
+
+echo $filename
+
 echo \
 "Executing force:data:tree:import \\
-           --plan ./data/data-cozycub__Round_Dashboard__c-plan.json \\
+           --plan $filename \\
            --targetusername $SCRATCH_ORG_ALIAS \\
            --loglevel error)\n"
 (cd $PROJECT_ROOT && exec sfdx force:data:tree:import \
-                               --plan ./data/data-cozycub__Round_Dashboard__c-plan.json \
+                               --plan $filename \
                                --targetusername $SCRATCH_ORG_ALIAS \
                                --loglevel error)
 if [ $? -ne 0 ]; then
  echoErrorMsg "Development data (dashboards) could not be imported into the scratch org. Aborting Script."
  exit 1
 fi
+
+done
+
+
 #
 #
 #### ECHO CLOSING MESSAGE ##########################################################################
