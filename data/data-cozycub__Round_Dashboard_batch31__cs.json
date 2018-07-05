@@ -6,10 +6,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6001"
             },
             "cozycub__Dice__c": "5|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 5
         },
@@ -19,10 +19,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6002"
             },
             "cozycub__Dice__c": "1|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 5
         },
@@ -32,10 +32,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6003"
             },
             "cozycub__Dice__c": "5|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 5
         },
@@ -45,10 +45,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6004"
             },
             "cozycub__Dice__c": "5|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 5
         },
@@ -58,10 +58,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6005"
             },
             "cozycub__Dice__c": "2|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 5
         },
@@ -71,10 +71,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6006"
             },
             "cozycub__Dice__c": "1|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 5
         },
@@ -84,10 +84,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6007"
             },
             "cozycub__Dice__c": "2|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 5
         },
@@ -97,10 +97,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6008"
             },
             "cozycub__Dice__c": "5|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 5
         },
@@ -110,10 +110,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6009"
             },
             "cozycub__Dice__c": "1|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 5
         },
@@ -123,10 +123,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6010"
             },
             "cozycub__Dice__c": "3|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 5
         },
@@ -136,10 +136,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6011"
             },
             "cozycub__Dice__c": "6|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 6
         },
@@ -149,10 +149,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6012"
             },
             "cozycub__Dice__c": "4|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 6
         },
@@ -162,10 +162,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6013"
             },
             "cozycub__Dice__c": "3|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 6
         },
@@ -175,10 +175,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6014"
             },
             "cozycub__Dice__c": "2|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 6
         },
@@ -188,10 +188,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6015"
             },
             "cozycub__Dice__c": "2|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 6
         },
@@ -201,10 +201,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6016"
             },
             "cozycub__Dice__c": "1|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 6
         },
@@ -214,10 +214,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6017"
             },
             "cozycub__Dice__c": "5|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 6
         },
@@ -227,10 +227,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6018"
             },
             "cozycub__Dice__c": "2|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 6
         },
@@ -240,10 +240,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6019"
             },
             "cozycub__Dice__c": "4|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 6
         },
@@ -253,10 +253,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6020"
             },
             "cozycub__Dice__c": "5|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 6
         },
@@ -266,10 +266,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6021"
             },
             "cozycub__Dice__c": "4|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 7
         },
@@ -279,10 +279,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6022"
             },
             "cozycub__Dice__c": "3|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 7
         },
@@ -292,10 +292,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6023"
             },
             "cozycub__Dice__c": "5|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 7
         },
@@ -305,10 +305,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6024"
             },
             "cozycub__Dice__c": "2|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 7
         },
@@ -318,10 +318,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6025"
             },
             "cozycub__Dice__c": "6|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 7
         },
@@ -331,10 +331,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6026"
             },
             "cozycub__Dice__c": "1|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 7
         },
@@ -344,10 +344,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6027"
             },
             "cozycub__Dice__c": "1|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 7
         },
@@ -357,10 +357,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6028"
             },
             "cozycub__Dice__c": "1|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 7
         },
@@ -370,10 +370,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6029"
             },
             "cozycub__Dice__c": "3|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 7
         },
@@ -383,10 +383,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6030"
             },
             "cozycub__Dice__c": "3|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 7
         },
@@ -396,10 +396,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6031"
             },
             "cozycub__Dice__c": "1|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 8
         },
@@ -409,10 +409,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6032"
             },
             "cozycub__Dice__c": "3|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 8
         },
@@ -422,10 +422,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6033"
             },
             "cozycub__Dice__c": "3|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 8
         },
@@ -435,10 +435,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6034"
             },
             "cozycub__Dice__c": "5|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 8
         },
@@ -448,10 +448,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6035"
             },
             "cozycub__Dice__c": "2|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 8
         },
@@ -461,10 +461,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6036"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 8
         },
@@ -474,10 +474,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6037"
             },
             "cozycub__Dice__c": "2|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 8
         },
@@ -487,10 +487,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6038"
             },
             "cozycub__Dice__c": "1|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 8
         },
@@ -500,10 +500,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6039"
             },
             "cozycub__Dice__c": "4|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 8
         },
@@ -513,10 +513,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6040"
             },
             "cozycub__Dice__c": "3|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef63",
+            "cozycub__Game_Id__c": "@Game__cRef63",
             "cozycub__Game_Name__c": "France World Series Gx5",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 8
         },
@@ -526,10 +526,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6041"
             },
             "cozycub__Dice__c": "5|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 120,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 1
         },
@@ -539,10 +539,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6042"
             },
             "cozycub__Dice__c": "2|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 1
         },
@@ -552,10 +552,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6043"
             },
             "cozycub__Dice__c": "3|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 1
         },
@@ -565,10 +565,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6044"
             },
             "cozycub__Dice__c": "6|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 1
         },
@@ -578,10 +578,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6045"
             },
             "cozycub__Dice__c": "5|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 1
         },
@@ -591,10 +591,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6046"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 1
         },
@@ -604,10 +604,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6047"
             },
             "cozycub__Dice__c": "5|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 120,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 1
         },
@@ -617,10 +617,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6048"
             },
             "cozycub__Dice__c": "1|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 1
         },
@@ -630,10 +630,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6049"
             },
             "cozycub__Dice__c": "4|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 1
         },
@@ -643,10 +643,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6050"
             },
             "cozycub__Dice__c": "4|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 1
         },
@@ -656,10 +656,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6051"
             },
             "cozycub__Dice__c": "5|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 2
         },
@@ -669,10 +669,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6052"
             },
             "cozycub__Dice__c": "4|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 2
         },
@@ -682,10 +682,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6053"
             },
             "cozycub__Dice__c": "1|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 2
         },
@@ -695,10 +695,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6054"
             },
             "cozycub__Dice__c": "4|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 2
         },
@@ -708,10 +708,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6055"
             },
             "cozycub__Dice__c": "6|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 2
         },
@@ -721,10 +721,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6056"
             },
             "cozycub__Dice__c": "5|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 2
         },
@@ -734,10 +734,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6057"
             },
             "cozycub__Dice__c": "5|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 2
         },
@@ -747,10 +747,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6058"
             },
             "cozycub__Dice__c": "1|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 2
         },
@@ -760,10 +760,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6059"
             },
             "cozycub__Dice__c": "2|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 2
         },
@@ -773,10 +773,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6060"
             },
             "cozycub__Dice__c": "5|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 2
         },
@@ -786,10 +786,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6061"
             },
             "cozycub__Dice__c": "1|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 3
         },
@@ -799,10 +799,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6062"
             },
             "cozycub__Dice__c": "5|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 3
         },
@@ -812,10 +812,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6063"
             },
             "cozycub__Dice__c": "2|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 3
         },
@@ -825,10 +825,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6064"
             },
             "cozycub__Dice__c": "1|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 3
         },
@@ -838,10 +838,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6065"
             },
             "cozycub__Dice__c": "2|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 3
         },
@@ -851,10 +851,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6066"
             },
             "cozycub__Dice__c": "2|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 3
         },
@@ -864,10 +864,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6067"
             },
             "cozycub__Dice__c": "2|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 3
         },
@@ -877,10 +877,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6068"
             },
             "cozycub__Dice__c": "2|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 3
         },
@@ -890,10 +890,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6069"
             },
             "cozycub__Dice__c": "6|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 3
         },
@@ -903,10 +903,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6070"
             },
             "cozycub__Dice__c": "6|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 3
         },
@@ -916,10 +916,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6071"
             },
             "cozycub__Dice__c": "2|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 4
         },
@@ -929,10 +929,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6072"
             },
             "cozycub__Dice__c": "2|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 4
         },
@@ -942,10 +942,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6073"
             },
             "cozycub__Dice__c": "4|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 4
         },
@@ -955,10 +955,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6074"
             },
             "cozycub__Dice__c": "4|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 4
         },
@@ -968,10 +968,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6075"
             },
             "cozycub__Dice__c": "4|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 4
         },
@@ -981,10 +981,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6076"
             },
             "cozycub__Dice__c": "2|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 4
         },
@@ -994,10 +994,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6077"
             },
             "cozycub__Dice__c": "4|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 4
         },
@@ -1007,10 +1007,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6078"
             },
             "cozycub__Dice__c": "1|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 4
         },
@@ -1020,10 +1020,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6079"
             },
             "cozycub__Dice__c": "2|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 4
         },
@@ -1033,10 +1033,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6080"
             },
             "cozycub__Dice__c": "2|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 4
         },
@@ -1046,10 +1046,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6081"
             },
             "cozycub__Dice__c": "4|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 5
         },
@@ -1059,10 +1059,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6082"
             },
             "cozycub__Dice__c": "2|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 5
         },
@@ -1072,10 +1072,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6083"
             },
             "cozycub__Dice__c": "3|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 5
         },
@@ -1085,10 +1085,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6084"
             },
             "cozycub__Dice__c": "2|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 5
         },
@@ -1098,10 +1098,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6085"
             },
             "cozycub__Dice__c": "1|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 5
         },
@@ -1111,10 +1111,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6086"
             },
             "cozycub__Dice__c": "4|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 5
         },
@@ -1124,10 +1124,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6087"
             },
             "cozycub__Dice__c": "4|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 5
         },
@@ -1137,10 +1137,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6088"
             },
             "cozycub__Dice__c": "1|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 5
         },
@@ -1150,10 +1150,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6089"
             },
             "cozycub__Dice__c": "5|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 5
         },
@@ -1163,10 +1163,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6090"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 5
         },
@@ -1176,10 +1176,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6091"
             },
             "cozycub__Dice__c": "4|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 6
         },
@@ -1189,10 +1189,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6092"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 120,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 6
         },
@@ -1202,10 +1202,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6093"
             },
             "cozycub__Dice__c": "5|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 6
         },
@@ -1215,10 +1215,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6094"
             },
             "cozycub__Dice__c": "4|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 6
         },
@@ -1228,10 +1228,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6095"
             },
             "cozycub__Dice__c": "2|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 6
         },
@@ -1241,10 +1241,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6096"
             },
             "cozycub__Dice__c": "1|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 6
         },
@@ -1254,10 +1254,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6097"
             },
             "cozycub__Dice__c": "1|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 6
         },
@@ -1267,10 +1267,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6098"
             },
             "cozycub__Dice__c": "6|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 120,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 6
         },
@@ -1280,10 +1280,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6099"
             },
             "cozycub__Dice__c": "2|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 6
         },
@@ -1293,10 +1293,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6100"
             },
             "cozycub__Dice__c": "4|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 6
         },
@@ -1306,10 +1306,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6101"
             },
             "cozycub__Dice__c": "3|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 7
         },
@@ -1319,10 +1319,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6102"
             },
             "cozycub__Dice__c": "1|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 7
         },
@@ -1332,10 +1332,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6103"
             },
             "cozycub__Dice__c": "1|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 7
         },
@@ -1345,10 +1345,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6104"
             },
             "cozycub__Dice__c": "4|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 7
         },
@@ -1358,10 +1358,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6105"
             },
             "cozycub__Dice__c": "1|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 7
         },
@@ -1371,10 +1371,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6106"
             },
             "cozycub__Dice__c": "4|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 7
         },
@@ -1384,10 +1384,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6107"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 7
         },
@@ -1397,10 +1397,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6108"
             },
             "cozycub__Dice__c": "4|6|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 7
         },
@@ -1410,10 +1410,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6109"
             },
             "cozycub__Dice__c": "1|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 7
         },
@@ -1423,10 +1423,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6110"
             },
             "cozycub__Dice__c": "2|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 7
         },
@@ -1436,10 +1436,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6111"
             },
             "cozycub__Dice__c": "3|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 8
         },
@@ -1449,10 +1449,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6112"
             },
             "cozycub__Dice__c": "2|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 8
         },
@@ -1462,10 +1462,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6113"
             },
             "cozycub__Dice__c": "6|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 8
         },
@@ -1475,10 +1475,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6114"
             },
             "cozycub__Dice__c": "6|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 8
         },
@@ -1488,10 +1488,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6115"
             },
             "cozycub__Dice__c": "1|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 8
         },
@@ -1501,10 +1501,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6116"
             },
             "cozycub__Dice__c": "5|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 8
         },
@@ -1514,10 +1514,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6117"
             },
             "cozycub__Dice__c": "5|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 8
         },
@@ -1527,10 +1527,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6118"
             },
             "cozycub__Dice__c": "5|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 8
         },
@@ -1540,10 +1540,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6119"
             },
             "cozycub__Dice__c": "5|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 8
         },
@@ -1553,10 +1553,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6120"
             },
             "cozycub__Dice__c": "3|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef64",
+            "cozycub__Game_Id__c": "@Game__cRef64",
             "cozycub__Game_Name__c": "France World Series Gx6",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 8
         },
@@ -1566,10 +1566,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6121"
             },
             "cozycub__Dice__c": "2|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 1
         },
@@ -1579,10 +1579,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6122"
             },
             "cozycub__Dice__c": "3|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 1
         },
@@ -1592,10 +1592,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6123"
             },
             "cozycub__Dice__c": "4|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 1
         },
@@ -1605,10 +1605,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6124"
             },
             "cozycub__Dice__c": "4|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 1
         },
@@ -1618,10 +1618,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6125"
             },
             "cozycub__Dice__c": "5|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 1
         },
@@ -1631,10 +1631,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6126"
             },
             "cozycub__Dice__c": "1|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 1
         },
@@ -1644,10 +1644,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6127"
             },
             "cozycub__Dice__c": "4|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 1
         },
@@ -1657,10 +1657,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6128"
             },
             "cozycub__Dice__c": "3|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 1
         },
@@ -1670,10 +1670,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6129"
             },
             "cozycub__Dice__c": "4|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 1
         },
@@ -1683,10 +1683,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6130"
             },
             "cozycub__Dice__c": "5|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 1
         },
@@ -1696,10 +1696,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6131"
             },
             "cozycub__Dice__c": "4|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 2
         },
@@ -1709,10 +1709,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6132"
             },
             "cozycub__Dice__c": "6|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 2
         },
@@ -1722,10 +1722,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6133"
             },
             "cozycub__Dice__c": "1|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 2
         },
@@ -1735,10 +1735,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6134"
             },
             "cozycub__Dice__c": "4|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 2
         },
@@ -1748,10 +1748,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6135"
             },
             "cozycub__Dice__c": "3|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 2
         },
@@ -1761,10 +1761,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6136"
             },
             "cozycub__Dice__c": "5|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 2
         },
@@ -1774,10 +1774,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6137"
             },
             "cozycub__Dice__c": "3|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 2
         },
@@ -1787,10 +1787,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6138"
             },
             "cozycub__Dice__c": "6|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 2
         },
@@ -1800,10 +1800,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6139"
             },
             "cozycub__Dice__c": "1|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 2
         },
@@ -1813,10 +1813,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6140"
             },
             "cozycub__Dice__c": "2|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 2
         },
@@ -1826,10 +1826,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6141"
             },
             "cozycub__Dice__c": "2|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 3
         },
@@ -1839,10 +1839,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6142"
             },
             "cozycub__Dice__c": "5|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 3
         },
@@ -1852,10 +1852,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6143"
             },
             "cozycub__Dice__c": "5|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 3
         },
@@ -1865,10 +1865,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6144"
             },
             "cozycub__Dice__c": "3|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 3
         },
@@ -1878,10 +1878,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6145"
             },
             "cozycub__Dice__c": "4|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 3
         },
@@ -1891,10 +1891,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6146"
             },
             "cozycub__Dice__c": "2|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 3
         },
@@ -1904,10 +1904,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6147"
             },
             "cozycub__Dice__c": "5|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 3
         },
@@ -1917,10 +1917,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6148"
             },
             "cozycub__Dice__c": "6|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 3
         },
@@ -1930,10 +1930,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6149"
             },
             "cozycub__Dice__c": "4|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 3
         },
@@ -1943,10 +1943,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6150"
             },
             "cozycub__Dice__c": "4|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 3
         },
@@ -1956,10 +1956,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6151"
             },
             "cozycub__Dice__c": "5|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 120,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 4
         },
@@ -1969,10 +1969,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6152"
             },
             "cozycub__Dice__c": "3|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 4
         },
@@ -1982,10 +1982,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6153"
             },
             "cozycub__Dice__c": "1|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 4
         },
@@ -1995,10 +1995,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6154"
             },
             "cozycub__Dice__c": "3|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 4
         },
@@ -2008,10 +2008,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6155"
             },
             "cozycub__Dice__c": "6|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 4
         },
@@ -2021,10 +2021,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6156"
             },
             "cozycub__Dice__c": "4|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 4
         },
@@ -2034,10 +2034,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6157"
             },
             "cozycub__Dice__c": "5|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 4
         },
@@ -2047,10 +2047,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6158"
             },
             "cozycub__Dice__c": "6|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 120,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 4
         },
@@ -2060,10 +2060,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6159"
             },
             "cozycub__Dice__c": "5|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 4
         },
@@ -2073,10 +2073,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6160"
             },
             "cozycub__Dice__c": "4|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 4
         },
@@ -2086,10 +2086,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6161"
             },
             "cozycub__Dice__c": "1|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 5
         },
@@ -2099,10 +2099,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6162"
             },
             "cozycub__Dice__c": "4|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 5
         },
@@ -2112,10 +2112,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6163"
             },
             "cozycub__Dice__c": "1|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 5
         },
@@ -2125,10 +2125,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6164"
             },
             "cozycub__Dice__c": "6|6|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 5
         },
@@ -2138,10 +2138,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6165"
             },
             "cozycub__Dice__c": "5|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 5
         },
@@ -2151,10 +2151,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6166"
             },
             "cozycub__Dice__c": "1|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 5
         },
@@ -2164,10 +2164,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6167"
             },
             "cozycub__Dice__c": "5|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 5
         },
@@ -2177,10 +2177,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6168"
             },
             "cozycub__Dice__c": "4|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 5
         },
@@ -2190,10 +2190,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6169"
             },
             "cozycub__Dice__c": "5|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 5
         },
@@ -2203,10 +2203,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6170"
             },
             "cozycub__Dice__c": "5|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 5
         },
@@ -2216,10 +2216,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6171"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 6
         },
@@ -2229,10 +2229,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6172"
             },
             "cozycub__Dice__c": "2|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 6
         },
@@ -2242,10 +2242,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6173"
             },
             "cozycub__Dice__c": "2|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 6
         },
@@ -2255,10 +2255,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6174"
             },
             "cozycub__Dice__c": "3|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 6
         },
@@ -2268,10 +2268,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6175"
             },
             "cozycub__Dice__c": "2|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 6
         },
@@ -2281,10 +2281,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6176"
             },
             "cozycub__Dice__c": "1|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 6
         },
@@ -2294,10 +2294,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6177"
             },
             "cozycub__Dice__c": "6|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 6
         },
@@ -2307,10 +2307,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6178"
             },
             "cozycub__Dice__c": "1|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 6
         },
@@ -2320,10 +2320,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6179"
             },
             "cozycub__Dice__c": "2|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 6
         },
@@ -2333,10 +2333,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6180"
             },
             "cozycub__Dice__c": "4|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 6
         },
@@ -2346,10 +2346,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6181"
             },
             "cozycub__Dice__c": "4|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 7
         },
@@ -2359,10 +2359,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6182"
             },
             "cozycub__Dice__c": "1|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 7
         },
@@ -2372,10 +2372,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6183"
             },
             "cozycub__Dice__c": "2|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 7
         },
@@ -2385,10 +2385,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6184"
             },
             "cozycub__Dice__c": "1|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 7
         },
@@ -2398,10 +2398,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6185"
             },
             "cozycub__Dice__c": "4|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 7
         },
@@ -2411,10 +2411,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6186"
             },
             "cozycub__Dice__c": "1|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 7
         },
@@ -2424,10 +2424,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6187"
             },
             "cozycub__Dice__c": "5|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 7
         },
@@ -2437,10 +2437,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6188"
             },
             "cozycub__Dice__c": "1|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 7
         },
@@ -2450,10 +2450,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6189"
             },
             "cozycub__Dice__c": "4|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 7
         },
@@ -2463,10 +2463,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6190"
             },
             "cozycub__Dice__c": "5|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 7
         },
@@ -2476,10 +2476,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6191"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 8
         },
@@ -2489,10 +2489,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6192"
             },
             "cozycub__Dice__c": "5|6|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 8
         },
@@ -2502,10 +2502,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6193"
             },
             "cozycub__Dice__c": "1|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 8
         },
@@ -2515,10 +2515,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6194"
             },
             "cozycub__Dice__c": "2|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 8
         },
@@ -2528,10 +2528,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6195"
             },
             "cozycub__Dice__c": "3|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 8
         },
@@ -2541,10 +2541,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6196"
             },
             "cozycub__Dice__c": "2|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 8
         },
@@ -2554,10 +2554,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6197"
             },
             "cozycub__Dice__c": "6|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 8
         },
@@ -2567,10 +2567,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6198"
             },
             "cozycub__Dice__c": "1|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 8
         },
@@ -2580,10 +2580,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6199"
             },
             "cozycub__Dice__c": "5|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": -30,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 8
         },
@@ -2593,10 +2593,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef6200"
             },
             "cozycub__Dice__c": "6|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef65",
+            "cozycub__Game_Id__c": "@Game__cRef65",
             "cozycub__Game_Name__c": "France World Series Gx7",
             "cozycub__Money__c": 270,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 8
         }

@@ -6,10 +6,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5201"
             },
             "cozycub__Dice__c": "6|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 7
         },
@@ -19,10 +19,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5202"
             },
             "cozycub__Dice__c": "4|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 7
         },
@@ -32,10 +32,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5203"
             },
             "cozycub__Dice__c": "6|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 7
         },
@@ -45,10 +45,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5204"
             },
             "cozycub__Dice__c": "2|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 7
         },
@@ -58,10 +58,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5205"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 7
         },
@@ -71,10 +71,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5206"
             },
             "cozycub__Dice__c": "5|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 7
         },
@@ -84,10 +84,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5207"
             },
             "cozycub__Dice__c": "4|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 7
         },
@@ -97,10 +97,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5208"
             },
             "cozycub__Dice__c": "2|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 7
         },
@@ -110,10 +110,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5209"
             },
             "cozycub__Dice__c": "2|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 7
         },
@@ -123,10 +123,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5210"
             },
             "cozycub__Dice__c": "6|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 7
         },
@@ -136,10 +136,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5211"
             },
             "cozycub__Dice__c": "5|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 8
         },
@@ -149,10 +149,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5212"
             },
             "cozycub__Dice__c": "4|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 8
         },
@@ -162,10 +162,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5213"
             },
             "cozycub__Dice__c": "3|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 8
         },
@@ -175,10 +175,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5214"
             },
             "cozycub__Dice__c": "3|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 8
         },
@@ -188,10 +188,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5215"
             },
             "cozycub__Dice__c": "3|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 8
         },
@@ -201,10 +201,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5216"
             },
             "cozycub__Dice__c": "3|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 8
         },
@@ -214,10 +214,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5217"
             },
             "cozycub__Dice__c": "6|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 8
         },
@@ -227,10 +227,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5218"
             },
             "cozycub__Dice__c": "3|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 8
         },
@@ -240,10 +240,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5219"
             },
             "cozycub__Dice__c": "4|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 8
         },
@@ -253,10 +253,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5220"
             },
             "cozycub__Dice__c": "5|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 8
         },
@@ -266,10 +266,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5221"
             },
             "cozycub__Dice__c": "4|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 9
         },
@@ -279,10 +279,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5222"
             },
             "cozycub__Dice__c": "4|6|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 9
         },
@@ -292,10 +292,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5223"
             },
             "cozycub__Dice__c": "3|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 9
         },
@@ -305,10 +305,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5224"
             },
             "cozycub__Dice__c": "2|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 9
         },
@@ -318,10 +318,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5225"
             },
             "cozycub__Dice__c": "5|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 9
         },
@@ -331,10 +331,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5226"
             },
             "cozycub__Dice__c": "1|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 9
         },
@@ -344,10 +344,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5227"
             },
             "cozycub__Dice__c": "6|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 9
         },
@@ -357,10 +357,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5228"
             },
             "cozycub__Dice__c": "6|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 9
         },
@@ -370,10 +370,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5229"
             },
             "cozycub__Dice__c": "2|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 9
         },
@@ -383,10 +383,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5230"
             },
             "cozycub__Dice__c": "4|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 9
         },
@@ -396,10 +396,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5231"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 10
         },
@@ -409,10 +409,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5232"
             },
             "cozycub__Dice__c": "5|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 10
         },
@@ -422,10 +422,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5233"
             },
             "cozycub__Dice__c": "6|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 10
         },
@@ -435,10 +435,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5234"
             },
             "cozycub__Dice__c": "2|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 10
         },
@@ -448,10 +448,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5235"
             },
             "cozycub__Dice__c": "5|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 10
         },
@@ -461,10 +461,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5236"
             },
             "cozycub__Dice__c": "2|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 10
         },
@@ -474,10 +474,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5237"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 10
         },
@@ -487,10 +487,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5238"
             },
             "cozycub__Dice__c": "4|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 10
         },
@@ -500,10 +500,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5239"
             },
             "cozycub__Dice__c": "3|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 10
         },
@@ -513,10 +513,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5240"
             },
             "cozycub__Dice__c": "2|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef54",
+            "cozycub__Game_Id__c": "@Game__cRef54",
             "cozycub__Game_Name__c": "Reno World Series Gx6",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 10
         },
@@ -526,10 +526,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5241"
             },
             "cozycub__Dice__c": "6|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 1
         },
@@ -539,10 +539,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5242"
             },
             "cozycub__Dice__c": "5|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 1
         },
@@ -552,10 +552,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5243"
             },
             "cozycub__Dice__c": "4|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 1
         },
@@ -565,10 +565,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5244"
             },
             "cozycub__Dice__c": "6|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 1
         },
@@ -578,10 +578,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5245"
             },
             "cozycub__Dice__c": "1|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 1
         },
@@ -591,10 +591,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5246"
             },
             "cozycub__Dice__c": "4|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 1
         },
@@ -604,10 +604,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5247"
             },
             "cozycub__Dice__c": "5|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 1
         },
@@ -617,10 +617,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5248"
             },
             "cozycub__Dice__c": "2|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 1
         },
@@ -630,10 +630,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5249"
             },
             "cozycub__Dice__c": "5|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 1
         },
@@ -643,10 +643,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5250"
             },
             "cozycub__Dice__c": "3|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 1
         },
@@ -656,10 +656,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5251"
             },
             "cozycub__Dice__c": "4|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 2
         },
@@ -669,10 +669,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5252"
             },
             "cozycub__Dice__c": "1|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 2
         },
@@ -682,10 +682,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5253"
             },
             "cozycub__Dice__c": "6|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 2
         },
@@ -695,10 +695,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5254"
             },
             "cozycub__Dice__c": "1|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 2
         },
@@ -708,10 +708,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5255"
             },
             "cozycub__Dice__c": "3|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 2
         },
@@ -721,10 +721,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5256"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 2
         },
@@ -734,10 +734,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5257"
             },
             "cozycub__Dice__c": "4|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 2
         },
@@ -747,10 +747,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5258"
             },
             "cozycub__Dice__c": "5|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 2
         },
@@ -760,10 +760,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5259"
             },
             "cozycub__Dice__c": "1|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 2
         },
@@ -773,10 +773,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5260"
             },
             "cozycub__Dice__c": "4|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 2
         },
@@ -786,10 +786,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5261"
             },
             "cozycub__Dice__c": "3|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 3
         },
@@ -799,10 +799,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5262"
             },
             "cozycub__Dice__c": "1|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 3
         },
@@ -812,10 +812,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5263"
             },
             "cozycub__Dice__c": "1|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 3
         },
@@ -825,10 +825,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5264"
             },
             "cozycub__Dice__c": "3|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 3
         },
@@ -838,10 +838,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5265"
             },
             "cozycub__Dice__c": "5|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 3
         },
@@ -851,10 +851,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5266"
             },
             "cozycub__Dice__c": "2|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 3
         },
@@ -864,10 +864,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5267"
             },
             "cozycub__Dice__c": "5|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 3
         },
@@ -877,10 +877,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5268"
             },
             "cozycub__Dice__c": "1|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 3
         },
@@ -890,10 +890,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5269"
             },
             "cozycub__Dice__c": "4|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 3
         },
@@ -903,10 +903,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5270"
             },
             "cozycub__Dice__c": "2|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 3
         },
@@ -916,10 +916,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5271"
             },
             "cozycub__Dice__c": "4|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 4
         },
@@ -929,10 +929,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5272"
             },
             "cozycub__Dice__c": "6|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 4
         },
@@ -942,10 +942,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5273"
             },
             "cozycub__Dice__c": "6|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 4
         },
@@ -955,10 +955,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5274"
             },
             "cozycub__Dice__c": "3|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 4
         },
@@ -968,10 +968,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5275"
             },
             "cozycub__Dice__c": "5|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 4
         },
@@ -981,10 +981,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5276"
             },
             "cozycub__Dice__c": "6|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 4
         },
@@ -994,10 +994,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5277"
             },
             "cozycub__Dice__c": "2|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 4
         },
@@ -1007,10 +1007,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5278"
             },
             "cozycub__Dice__c": "5|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 4
         },
@@ -1020,10 +1020,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5279"
             },
             "cozycub__Dice__c": "5|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 4
         },
@@ -1033,10 +1033,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5280"
             },
             "cozycub__Dice__c": "1|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 4
         },
@@ -1046,10 +1046,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5281"
             },
             "cozycub__Dice__c": "3|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 5
         },
@@ -1059,10 +1059,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5282"
             },
             "cozycub__Dice__c": "6|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 5
         },
@@ -1072,10 +1072,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5283"
             },
             "cozycub__Dice__c": "5|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 5
         },
@@ -1085,10 +1085,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5284"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 5
         },
@@ -1098,10 +1098,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5285"
             },
             "cozycub__Dice__c": "5|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 5
         },
@@ -1111,10 +1111,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5286"
             },
             "cozycub__Dice__c": "4|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 5
         },
@@ -1124,10 +1124,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5287"
             },
             "cozycub__Dice__c": "3|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 5
         },
@@ -1137,10 +1137,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5288"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 5
         },
@@ -1150,10 +1150,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5289"
             },
             "cozycub__Dice__c": "5|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 5
         },
@@ -1163,10 +1163,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5290"
             },
             "cozycub__Dice__c": "4|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 5
         },
@@ -1176,10 +1176,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5291"
             },
             "cozycub__Dice__c": "2|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 6
         },
@@ -1189,10 +1189,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5292"
             },
             "cozycub__Dice__c": "2|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 6
         },
@@ -1202,10 +1202,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5293"
             },
             "cozycub__Dice__c": "4|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 6
         },
@@ -1215,10 +1215,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5294"
             },
             "cozycub__Dice__c": "2|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 6
         },
@@ -1228,10 +1228,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5295"
             },
             "cozycub__Dice__c": "1|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 6
         },
@@ -1241,10 +1241,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5296"
             },
             "cozycub__Dice__c": "6|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 6
         },
@@ -1254,10 +1254,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5297"
             },
             "cozycub__Dice__c": "2|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 6
         },
@@ -1267,10 +1267,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5298"
             },
             "cozycub__Dice__c": "6|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 6
         },
@@ -1280,10 +1280,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5299"
             },
             "cozycub__Dice__c": "2|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 6
         },
@@ -1293,10 +1293,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5300"
             },
             "cozycub__Dice__c": "1|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 6
         },
@@ -1306,10 +1306,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5301"
             },
             "cozycub__Dice__c": "5|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 7
         },
@@ -1319,10 +1319,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5302"
             },
             "cozycub__Dice__c": "5|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 7
         },
@@ -1332,10 +1332,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5303"
             },
             "cozycub__Dice__c": "6|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 7
         },
@@ -1345,10 +1345,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5304"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 7
         },
@@ -1358,10 +1358,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5305"
             },
             "cozycub__Dice__c": "3|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 7
         },
@@ -1371,10 +1371,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5306"
             },
             "cozycub__Dice__c": "6|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 7
         },
@@ -1384,10 +1384,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5307"
             },
             "cozycub__Dice__c": "3|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 7
         },
@@ -1397,10 +1397,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5308"
             },
             "cozycub__Dice__c": "5|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 7
         },
@@ -1410,10 +1410,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5309"
             },
             "cozycub__Dice__c": "2|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 7
         },
@@ -1423,10 +1423,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5310"
             },
             "cozycub__Dice__c": "3|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 7
         },
@@ -1436,10 +1436,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5311"
             },
             "cozycub__Dice__c": "4|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 8
         },
@@ -1449,10 +1449,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5312"
             },
             "cozycub__Dice__c": "4|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 8
         },
@@ -1462,10 +1462,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5313"
             },
             "cozycub__Dice__c": "5|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 8
         },
@@ -1475,10 +1475,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5314"
             },
             "cozycub__Dice__c": "2|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 8
         },
@@ -1488,10 +1488,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5315"
             },
             "cozycub__Dice__c": "3|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 8
         },
@@ -1501,10 +1501,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5316"
             },
             "cozycub__Dice__c": "5|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 8
         },
@@ -1514,10 +1514,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5317"
             },
             "cozycub__Dice__c": "3|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 8
         },
@@ -1527,10 +1527,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5318"
             },
             "cozycub__Dice__c": "3|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 8
         },
@@ -1540,10 +1540,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5319"
             },
             "cozycub__Dice__c": "6|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 8
         },
@@ -1553,10 +1553,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5320"
             },
             "cozycub__Dice__c": "1|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 8
         },
@@ -1566,10 +1566,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5321"
             },
             "cozycub__Dice__c": "2|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 9
         },
@@ -1579,10 +1579,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5322"
             },
             "cozycub__Dice__c": "4|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 9
         },
@@ -1592,10 +1592,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5323"
             },
             "cozycub__Dice__c": "4|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 9
         },
@@ -1605,10 +1605,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5324"
             },
             "cozycub__Dice__c": "2|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 9
         },
@@ -1618,10 +1618,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5325"
             },
             "cozycub__Dice__c": "1|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 9
         },
@@ -1631,10 +1631,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5326"
             },
             "cozycub__Dice__c": "5|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 9
         },
@@ -1644,10 +1644,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5327"
             },
             "cozycub__Dice__c": "6|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 9
         },
@@ -1657,10 +1657,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5328"
             },
             "cozycub__Dice__c": "3|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 9
         },
@@ -1670,10 +1670,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5329"
             },
             "cozycub__Dice__c": "5|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 9
         },
@@ -1683,10 +1683,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5330"
             },
             "cozycub__Dice__c": "2|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 9
         },
@@ -1696,10 +1696,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5331"
             },
             "cozycub__Dice__c": "6|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 10
         },
@@ -1709,10 +1709,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5332"
             },
             "cozycub__Dice__c": "3|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 10
         },
@@ -1722,10 +1722,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5333"
             },
             "cozycub__Dice__c": "1|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 10
         },
@@ -1735,10 +1735,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5334"
             },
             "cozycub__Dice__c": "3|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 10
         },
@@ -1748,10 +1748,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5335"
             },
             "cozycub__Dice__c": "1|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 10
         },
@@ -1761,10 +1761,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5336"
             },
             "cozycub__Dice__c": "1|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 10
         },
@@ -1774,10 +1774,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5337"
             },
             "cozycub__Dice__c": "4|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 10
         },
@@ -1787,10 +1787,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5338"
             },
             "cozycub__Dice__c": "1|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 10
         },
@@ -1800,10 +1800,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5339"
             },
             "cozycub__Dice__c": "4|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 10
         },
@@ -1813,10 +1813,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5340"
             },
             "cozycub__Dice__c": "4|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef55",
+            "cozycub__Game_Id__c": "@Game__cRef55",
             "cozycub__Game_Name__c": "Reno World Series Gx7",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 10
         },
@@ -1826,10 +1826,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5341"
             },
             "cozycub__Dice__c": "4|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 1
         },
@@ -1839,10 +1839,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5342"
             },
             "cozycub__Dice__c": "1|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 1
         },
@@ -1852,10 +1852,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5343"
             },
             "cozycub__Dice__c": "5|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 1
         },
@@ -1865,10 +1865,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5344"
             },
             "cozycub__Dice__c": "2|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 1
         },
@@ -1878,10 +1878,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5345"
             },
             "cozycub__Dice__c": "2|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 1
         },
@@ -1891,10 +1891,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5346"
             },
             "cozycub__Dice__c": "1|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 1
         },
@@ -1904,10 +1904,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5347"
             },
             "cozycub__Dice__c": "6|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 1
         },
@@ -1917,10 +1917,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5348"
             },
             "cozycub__Dice__c": "2|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 1
         },
@@ -1930,10 +1930,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5349"
             },
             "cozycub__Dice__c": "3|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 1
         },
@@ -1943,10 +1943,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5350"
             },
             "cozycub__Dice__c": "4|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 1
         },
@@ -1956,10 +1956,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5351"
             },
             "cozycub__Dice__c": "1|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 2
         },
@@ -1969,10 +1969,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5352"
             },
             "cozycub__Dice__c": "5|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 2
         },
@@ -1982,10 +1982,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5353"
             },
             "cozycub__Dice__c": "3|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 2
         },
@@ -1995,10 +1995,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5354"
             },
             "cozycub__Dice__c": "6|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 2
         },
@@ -2008,10 +2008,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5355"
             },
             "cozycub__Dice__c": "3|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 2
         },
@@ -2021,10 +2021,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5356"
             },
             "cozycub__Dice__c": "3|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 2
         },
@@ -2034,10 +2034,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5357"
             },
             "cozycub__Dice__c": "4|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 2
         },
@@ -2047,10 +2047,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5358"
             },
             "cozycub__Dice__c": "2|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 2
         },
@@ -2060,10 +2060,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5359"
             },
             "cozycub__Dice__c": "2|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 2
         },
@@ -2073,10 +2073,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5360"
             },
             "cozycub__Dice__c": "5|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 2
         },
@@ -2086,10 +2086,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5361"
             },
             "cozycub__Dice__c": "4|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 3
         },
@@ -2099,10 +2099,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5362"
             },
             "cozycub__Dice__c": "2|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 3
         },
@@ -2112,10 +2112,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5363"
             },
             "cozycub__Dice__c": "2|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 3
         },
@@ -2125,10 +2125,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5364"
             },
             "cozycub__Dice__c": "4|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 3
         },
@@ -2138,10 +2138,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5365"
             },
             "cozycub__Dice__c": "4|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 3
         },
@@ -2151,10 +2151,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5366"
             },
             "cozycub__Dice__c": "2|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 3
         },
@@ -2164,10 +2164,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5367"
             },
             "cozycub__Dice__c": "5|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 3
         },
@@ -2177,10 +2177,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5368"
             },
             "cozycub__Dice__c": "6|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 3
         },
@@ -2190,10 +2190,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5369"
             },
             "cozycub__Dice__c": "2|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 3
         },
@@ -2203,10 +2203,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5370"
             },
             "cozycub__Dice__c": "5|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 3
         },
@@ -2216,10 +2216,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5371"
             },
             "cozycub__Dice__c": "2|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 4
         },
@@ -2229,10 +2229,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5372"
             },
             "cozycub__Dice__c": "1|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 4
         },
@@ -2242,10 +2242,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5373"
             },
             "cozycub__Dice__c": "3|6|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 4
         },
@@ -2255,10 +2255,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5374"
             },
             "cozycub__Dice__c": "1|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 4
         },
@@ -2268,10 +2268,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5375"
             },
             "cozycub__Dice__c": "1|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 4
         },
@@ -2281,10 +2281,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5376"
             },
             "cozycub__Dice__c": "5|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 4
         },
@@ -2294,10 +2294,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5377"
             },
             "cozycub__Dice__c": "5|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 60,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 4
         },
@@ -2307,10 +2307,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5378"
             },
             "cozycub__Dice__c": "1|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 4
         },
@@ -2320,10 +2320,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5379"
             },
             "cozycub__Dice__c": "1|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 4
         },
@@ -2333,10 +2333,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5380"
             },
             "cozycub__Dice__c": "6|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 4
         },
@@ -2346,10 +2346,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5381"
             },
             "cozycub__Dice__c": "5|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 5
         },
@@ -2359,10 +2359,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5382"
             },
             "cozycub__Dice__c": "1|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 5
         },
@@ -2372,10 +2372,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5383"
             },
             "cozycub__Dice__c": "1|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 5
         },
@@ -2385,10 +2385,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5384"
             },
             "cozycub__Dice__c": "3|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 5
         },
@@ -2398,10 +2398,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5385"
             },
             "cozycub__Dice__c": "1|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 5
         },
@@ -2411,10 +2411,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5386"
             },
             "cozycub__Dice__c": "4|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 5
         },
@@ -2424,10 +2424,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5387"
             },
             "cozycub__Dice__c": "6|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 5
         },
@@ -2437,10 +2437,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5388"
             },
             "cozycub__Dice__c": "2|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 5
         },
@@ -2450,10 +2450,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5389"
             },
             "cozycub__Dice__c": "6|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 5
         },
@@ -2463,10 +2463,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5390"
             },
             "cozycub__Dice__c": "3|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 5
         },
@@ -2476,10 +2476,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5391"
             },
             "cozycub__Dice__c": "3|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": 135,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 6
         },
@@ -2489,10 +2489,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5392"
             },
             "cozycub__Dice__c": "1|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 6
         },
@@ -2502,10 +2502,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5393"
             },
             "cozycub__Dice__c": "1|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 6
         },
@@ -2515,10 +2515,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5394"
             },
             "cozycub__Dice__c": "4|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 6
         },
@@ -2528,10 +2528,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5395"
             },
             "cozycub__Dice__c": "3|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 6
         },
@@ -2541,10 +2541,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5396"
             },
             "cozycub__Dice__c": "2|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 6
         },
@@ -2554,10 +2554,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5397"
             },
             "cozycub__Dice__c": "6|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 6
         },
@@ -2567,10 +2567,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5398"
             },
             "cozycub__Dice__c": "6|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 6
         },
@@ -2580,10 +2580,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5399"
             },
             "cozycub__Dice__c": "2|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 6
         },
@@ -2593,10 +2593,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef5400"
             },
             "cozycub__Dice__c": "4|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef56",
+            "cozycub__Game_Id__c": "@Game__cRef56",
             "cozycub__Game_Name__c": "Reno World Series Gx8",
             "cozycub__Money__c": -15,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 6
         }

@@ -6,10 +6,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1201"
             },
             "cozycub__Dice__c": "5|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 1
         },
@@ -19,10 +19,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1202"
             },
             "cozycub__Dice__c": "3|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 1
         },
@@ -32,10 +32,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1203"
             },
             "cozycub__Dice__c": "6|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 1
         },
@@ -45,10 +45,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1204"
             },
             "cozycub__Dice__c": "3|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 1
         },
@@ -58,10 +58,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1205"
             },
             "cozycub__Dice__c": "4|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 1
         },
@@ -71,10 +71,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1206"
             },
             "cozycub__Dice__c": "2|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 1
         },
@@ -84,10 +84,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1207"
             },
             "cozycub__Dice__c": "6|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 1
         },
@@ -97,10 +97,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1208"
             },
             "cozycub__Dice__c": "5|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 1
         },
@@ -110,10 +110,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1209"
             },
             "cozycub__Dice__c": "1|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 1
         },
@@ -123,10 +123,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1210"
             },
             "cozycub__Dice__c": "1|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 1
         },
@@ -136,10 +136,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1211"
             },
             "cozycub__Dice__c": "4|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 2
         },
@@ -149,10 +149,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1212"
             },
             "cozycub__Dice__c": "3|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 2
         },
@@ -162,10 +162,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1213"
             },
             "cozycub__Dice__c": "2|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 2
         },
@@ -175,10 +175,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1214"
             },
             "cozycub__Dice__c": "3|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 58.33,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 2
         },
@@ -188,10 +188,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1215"
             },
             "cozycub__Dice__c": "2|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 2
         },
@@ -201,10 +201,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1216"
             },
             "cozycub__Dice__c": "1|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 58.33,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 2
         },
@@ -214,10 +214,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1217"
             },
             "cozycub__Dice__c": "5|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 58.33,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 2
         },
@@ -227,10 +227,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1218"
             },
             "cozycub__Dice__c": "1|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 2
         },
@@ -240,10 +240,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1219"
             },
             "cozycub__Dice__c": "2|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 2
         },
@@ -253,10 +253,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1220"
             },
             "cozycub__Dice__c": "3|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 2
         },
@@ -266,10 +266,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1221"
             },
             "cozycub__Dice__c": "4|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 3
         },
@@ -279,10 +279,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1222"
             },
             "cozycub__Dice__c": "6|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 3
         },
@@ -292,10 +292,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1223"
             },
             "cozycub__Dice__c": "3|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 3
         },
@@ -305,10 +305,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1224"
             },
             "cozycub__Dice__c": "4|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 3
         },
@@ -318,10 +318,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1225"
             },
             "cozycub__Dice__c": "1|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 3
         },
@@ -331,10 +331,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1226"
             },
             "cozycub__Dice__c": "3|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 3
         },
@@ -344,10 +344,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1227"
             },
             "cozycub__Dice__c": "4|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 3
         },
@@ -357,10 +357,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1228"
             },
             "cozycub__Dice__c": "1|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 3
         },
@@ -370,10 +370,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1229"
             },
             "cozycub__Dice__c": "3|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 3
         },
@@ -383,10 +383,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1230"
             },
             "cozycub__Dice__c": "5|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 3
         },
@@ -396,10 +396,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1231"
             },
             "cozycub__Dice__c": "5|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 4
         },
@@ -409,10 +409,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1232"
             },
             "cozycub__Dice__c": "3|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 4
         },
@@ -422,10 +422,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1233"
             },
             "cozycub__Dice__c": "2|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 4
         },
@@ -435,10 +435,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1234"
             },
             "cozycub__Dice__c": "1|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 4
         },
@@ -448,10 +448,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1235"
             },
             "cozycub__Dice__c": "3|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 4
         },
@@ -461,10 +461,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1236"
             },
             "cozycub__Dice__c": "3|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 4
         },
@@ -474,10 +474,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1237"
             },
             "cozycub__Dice__c": "5|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 4
         },
@@ -487,10 +487,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1238"
             },
             "cozycub__Dice__c": "2|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 4
         },
@@ -500,10 +500,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1239"
             },
             "cozycub__Dice__c": "6|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 4
         },
@@ -513,10 +513,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1240"
             },
             "cozycub__Dice__c": "1|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 4
         },
@@ -526,10 +526,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1241"
             },
             "cozycub__Dice__c": "2|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 5
         },
@@ -539,10 +539,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1242"
             },
             "cozycub__Dice__c": "5|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 5
         },
@@ -552,10 +552,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1243"
             },
             "cozycub__Dice__c": "1|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 5
         },
@@ -565,10 +565,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1244"
             },
             "cozycub__Dice__c": "5|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 5
         },
@@ -578,10 +578,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1245"
             },
             "cozycub__Dice__c": "5|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 5
         },
@@ -591,10 +591,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1246"
             },
             "cozycub__Dice__c": "5|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 5
         },
@@ -604,10 +604,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1247"
             },
             "cozycub__Dice__c": "6|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 5
         },
@@ -617,10 +617,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1248"
             },
             "cozycub__Dice__c": "4|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 5
         },
@@ -630,10 +630,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1249"
             },
             "cozycub__Dice__c": "6|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 5
         },
@@ -643,10 +643,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1250"
             },
             "cozycub__Dice__c": "3|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 5
         },
@@ -656,10 +656,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1251"
             },
             "cozycub__Dice__c": "5|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 6
         },
@@ -669,10 +669,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1252"
             },
             "cozycub__Dice__c": "5|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 6
         },
@@ -682,10 +682,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1253"
             },
             "cozycub__Dice__c": "1|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 6
         },
@@ -695,10 +695,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1254"
             },
             "cozycub__Dice__c": "6|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 6
         },
@@ -708,10 +708,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1255"
             },
             "cozycub__Dice__c": "6|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 6
         },
@@ -721,10 +721,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1256"
             },
             "cozycub__Dice__c": "3|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 6
         },
@@ -734,10 +734,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1257"
             },
             "cozycub__Dice__c": "1|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 6
         },
@@ -747,10 +747,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1258"
             },
             "cozycub__Dice__c": "6|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 6
         },
@@ -760,10 +760,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1259"
             },
             "cozycub__Dice__c": "3|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 6
         },
@@ -773,10 +773,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1260"
             },
             "cozycub__Dice__c": "6|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 6
         },
@@ -786,10 +786,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1261"
             },
             "cozycub__Dice__c": "2|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 7
         },
@@ -799,10 +799,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1262"
             },
             "cozycub__Dice__c": "6|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 7
         },
@@ -812,10 +812,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1263"
             },
             "cozycub__Dice__c": "5|6|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 7
         },
@@ -825,10 +825,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1264"
             },
             "cozycub__Dice__c": "5|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 7
         },
@@ -838,10 +838,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1265"
             },
             "cozycub__Dice__c": "1|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 7
         },
@@ -851,10 +851,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1266"
             },
             "cozycub__Dice__c": "3|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 7
         },
@@ -864,10 +864,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1267"
             },
             "cozycub__Dice__c": "6|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 7
         },
@@ -877,10 +877,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1268"
             },
             "cozycub__Dice__c": "4|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 7
         },
@@ -890,10 +890,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1269"
             },
             "cozycub__Dice__c": "6|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 7
         },
@@ -903,10 +903,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1270"
             },
             "cozycub__Dice__c": "2|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 7
         },
@@ -916,10 +916,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1271"
             },
             "cozycub__Dice__c": "1|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 8
         },
@@ -929,10 +929,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1272"
             },
             "cozycub__Dice__c": "6|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 8
         },
@@ -942,10 +942,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1273"
             },
             "cozycub__Dice__c": "1|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 8
         },
@@ -955,10 +955,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1274"
             },
             "cozycub__Dice__c": "2|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 8
         },
@@ -968,10 +968,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1275"
             },
             "cozycub__Dice__c": "4|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 8
         },
@@ -981,10 +981,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1276"
             },
             "cozycub__Dice__c": "6|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 8
         },
@@ -994,10 +994,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1277"
             },
             "cozycub__Dice__c": "5|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 8
         },
@@ -1007,10 +1007,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1278"
             },
             "cozycub__Dice__c": "5|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 8
         },
@@ -1020,10 +1020,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1279"
             },
             "cozycub__Dice__c": "1|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 8
         },
@@ -1033,10 +1033,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1280"
             },
             "cozycub__Dice__c": "4|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 8
         },
@@ -1046,10 +1046,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1281"
             },
             "cozycub__Dice__c": "4|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 9
         },
@@ -1059,10 +1059,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1282"
             },
             "cozycub__Dice__c": "5|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 9
         },
@@ -1072,10 +1072,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1283"
             },
             "cozycub__Dice__c": "4|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 9
         },
@@ -1085,10 +1085,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1284"
             },
             "cozycub__Dice__c": "2|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 9
         },
@@ -1098,10 +1098,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1285"
             },
             "cozycub__Dice__c": "4|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 9
         },
@@ -1111,10 +1111,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1286"
             },
             "cozycub__Dice__c": "2|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 9
         },
@@ -1124,10 +1124,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1287"
             },
             "cozycub__Dice__c": "4|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 9
         },
@@ -1137,10 +1137,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1288"
             },
             "cozycub__Dice__c": "3|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 9
         },
@@ -1150,10 +1150,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1289"
             },
             "cozycub__Dice__c": "1|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 9
         },
@@ -1163,10 +1163,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1290"
             },
             "cozycub__Dice__c": "2|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 9
         },
@@ -1176,10 +1176,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1291"
             },
             "cozycub__Dice__c": "2|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 10
         },
@@ -1189,10 +1189,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1292"
             },
             "cozycub__Dice__c": "6|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 10
         },
@@ -1202,10 +1202,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1293"
             },
             "cozycub__Dice__c": "4|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 10
         },
@@ -1215,10 +1215,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1294"
             },
             "cozycub__Dice__c": "3|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 10
         },
@@ -1228,10 +1228,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1295"
             },
             "cozycub__Dice__c": "2|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 10
         },
@@ -1241,10 +1241,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1296"
             },
             "cozycub__Dice__c": "1|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 10
         },
@@ -1254,10 +1254,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1297"
             },
             "cozycub__Dice__c": "6|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 10
         },
@@ -1267,10 +1267,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1298"
             },
             "cozycub__Dice__c": "6|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 10
         },
@@ -1280,10 +1280,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1299"
             },
             "cozycub__Dice__c": "3|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 10
         },
@@ -1293,10 +1293,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1300"
             },
             "cozycub__Dice__c": "4|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef13",
+            "cozycub__Game_Id__c": "@Game__cRef13",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx3",
             "cozycub__Money__c": 100,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 10
         },
@@ -1306,10 +1306,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1301"
             },
             "cozycub__Dice__c": "2|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 1
         },
@@ -1319,10 +1319,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1302"
             },
             "cozycub__Dice__c": "4|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 1
         },
@@ -1332,10 +1332,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1303"
             },
             "cozycub__Dice__c": "3|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 1
         },
@@ -1345,10 +1345,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1304"
             },
             "cozycub__Dice__c": "1|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 1
         },
@@ -1358,10 +1358,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1305"
             },
             "cozycub__Dice__c": "2|1|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 1
         },
@@ -1371,10 +1371,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1306"
             },
             "cozycub__Dice__c": "5|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 1
         },
@@ -1384,10 +1384,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1307"
             },
             "cozycub__Dice__c": "1|5|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 1
         },
@@ -1397,10 +1397,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1308"
             },
             "cozycub__Dice__c": "6|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 1
         },
@@ -1410,10 +1410,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1309"
             },
             "cozycub__Dice__c": "4|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 1
         },
@@ -1423,10 +1423,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1310"
             },
             "cozycub__Dice__c": "3|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 1
         },
@@ -1436,10 +1436,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1311"
             },
             "cozycub__Dice__c": "4|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 2
         },
@@ -1449,10 +1449,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1312"
             },
             "cozycub__Dice__c": "3|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 2
         },
@@ -1462,10 +1462,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1313"
             },
             "cozycub__Dice__c": "4|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 2
         },
@@ -1475,10 +1475,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1314"
             },
             "cozycub__Dice__c": "3|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 2
         },
@@ -1488,10 +1488,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1315"
             },
             "cozycub__Dice__c": "5|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 2
         },
@@ -1501,10 +1501,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1316"
             },
             "cozycub__Dice__c": "6|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 2
         },
@@ -1514,10 +1514,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1317"
             },
             "cozycub__Dice__c": "4|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 2
         },
@@ -1527,10 +1527,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1318"
             },
             "cozycub__Dice__c": "2|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 2
         },
@@ -1540,10 +1540,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1319"
             },
             "cozycub__Dice__c": "1|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 2
         },
@@ -1553,10 +1553,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1320"
             },
             "cozycub__Dice__c": "3|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 2
         },
@@ -1566,10 +1566,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1321"
             },
             "cozycub__Dice__c": "2|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 3
         },
@@ -1579,10 +1579,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1322"
             },
             "cozycub__Dice__c": "1|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 3
         },
@@ -1592,10 +1592,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1323"
             },
             "cozycub__Dice__c": "3|5|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 3
         },
@@ -1605,10 +1605,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1324"
             },
             "cozycub__Dice__c": "1|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 3
         },
@@ -1618,10 +1618,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1325"
             },
             "cozycub__Dice__c": "1|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 3
         },
@@ -1631,10 +1631,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1326"
             },
             "cozycub__Dice__c": "6|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 3
         },
@@ -1644,10 +1644,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1327"
             },
             "cozycub__Dice__c": "5|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 3
         },
@@ -1657,10 +1657,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1328"
             },
             "cozycub__Dice__c": "4|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 3
         },
@@ -1670,10 +1670,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1329"
             },
             "cozycub__Dice__c": "6|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 3
         },
@@ -1683,10 +1683,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1330"
             },
             "cozycub__Dice__c": "6|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 3
         },
@@ -1696,10 +1696,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1331"
             },
             "cozycub__Dice__c": "6|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 4
         },
@@ -1709,10 +1709,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1332"
             },
             "cozycub__Dice__c": "1|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 4
         },
@@ -1722,10 +1722,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1333"
             },
             "cozycub__Dice__c": "5|6|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 4
         },
@@ -1735,10 +1735,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1334"
             },
             "cozycub__Dice__c": "4|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 4
         },
@@ -1748,10 +1748,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1335"
             },
             "cozycub__Dice__c": "6|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 4
         },
@@ -1761,10 +1761,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1336"
             },
             "cozycub__Dice__c": "4|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 4
         },
@@ -1774,10 +1774,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1337"
             },
             "cozycub__Dice__c": "2|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 4
         },
@@ -1787,10 +1787,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1338"
             },
             "cozycub__Dice__c": "3|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 4
         },
@@ -1800,10 +1800,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1339"
             },
             "cozycub__Dice__c": "1|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 4
         },
@@ -1813,10 +1813,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1340"
             },
             "cozycub__Dice__c": "5|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 4
         },
@@ -1826,10 +1826,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1341"
             },
             "cozycub__Dice__c": "1|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 5
         },
@@ -1839,10 +1839,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1342"
             },
             "cozycub__Dice__c": "4|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 5
         },
@@ -1852,10 +1852,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1343"
             },
             "cozycub__Dice__c": "2|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 5
         },
@@ -1865,10 +1865,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1344"
             },
             "cozycub__Dice__c": "3|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 5
         },
@@ -1878,10 +1878,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1345"
             },
             "cozycub__Dice__c": "5|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 5
         },
@@ -1891,10 +1891,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1346"
             },
             "cozycub__Dice__c": "1|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 5
         },
@@ -1904,10 +1904,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1347"
             },
             "cozycub__Dice__c": "4|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 5
         },
@@ -1917,10 +1917,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1348"
             },
             "cozycub__Dice__c": "5|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 5
         },
@@ -1930,10 +1930,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1349"
             },
             "cozycub__Dice__c": "6|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 5
         },
@@ -1943,10 +1943,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1350"
             },
             "cozycub__Dice__c": "3|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 5
         },
@@ -1956,10 +1956,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1351"
             },
             "cozycub__Dice__c": "4|5|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 6
         },
@@ -1969,10 +1969,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1352"
             },
             "cozycub__Dice__c": "5|2|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 6
         },
@@ -1982,10 +1982,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1353"
             },
             "cozycub__Dice__c": "5|1|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 6
         },
@@ -1995,10 +1995,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1354"
             },
             "cozycub__Dice__c": "2|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 6
         },
@@ -2008,10 +2008,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1355"
             },
             "cozycub__Dice__c": "3|3|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 6
         },
@@ -2021,10 +2021,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1356"
             },
             "cozycub__Dice__c": "1|2|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 6
         },
@@ -2034,10 +2034,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1357"
             },
             "cozycub__Dice__c": "6|2|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 6
         },
@@ -2047,10 +2047,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1358"
             },
             "cozycub__Dice__c": "6|1|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 6
         },
@@ -2060,10 +2060,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1359"
             },
             "cozycub__Dice__c": "1|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 6
         },
@@ -2073,10 +2073,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1360"
             },
             "cozycub__Dice__c": "3|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 6
         },
@@ -2086,10 +2086,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1361"
             },
             "cozycub__Dice__c": "4|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 7
         },
@@ -2099,10 +2099,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1362"
             },
             "cozycub__Dice__c": "2|3|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 7
         },
@@ -2112,10 +2112,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1363"
             },
             "cozycub__Dice__c": "1|4|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 7
         },
@@ -2125,10 +2125,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1364"
             },
             "cozycub__Dice__c": "4|6|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 7
         },
@@ -2138,10 +2138,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1365"
             },
             "cozycub__Dice__c": "1|1|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 7
         },
@@ -2151,10 +2151,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1366"
             },
             "cozycub__Dice__c": "3|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 7
         },
@@ -2164,10 +2164,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1367"
             },
             "cozycub__Dice__c": "5|5|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 7
         },
@@ -2177,10 +2177,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1368"
             },
             "cozycub__Dice__c": "1|2|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 7
         },
@@ -2190,10 +2190,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1369"
             },
             "cozycub__Dice__c": "5|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 7
         },
@@ -2203,10 +2203,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1370"
             },
             "cozycub__Dice__c": "6|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 7
         },
@@ -2216,10 +2216,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1371"
             },
             "cozycub__Dice__c": "5|5|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 8
         },
@@ -2229,10 +2229,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1372"
             },
             "cozycub__Dice__c": "5|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 8
         },
@@ -2242,10 +2242,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1373"
             },
             "cozycub__Dice__c": "1|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 8
         },
@@ -2255,10 +2255,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1374"
             },
             "cozycub__Dice__c": "2|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 8
         },
@@ -2268,10 +2268,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1375"
             },
             "cozycub__Dice__c": "6|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 8
         },
@@ -2281,10 +2281,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1376"
             },
             "cozycub__Dice__c": "6|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 8
         },
@@ -2294,10 +2294,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1377"
             },
             "cozycub__Dice__c": "6|5|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 8
         },
@@ -2307,10 +2307,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1378"
             },
             "cozycub__Dice__c": "1|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 8
         },
@@ -2320,10 +2320,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1379"
             },
             "cozycub__Dice__c": "6|4|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 8
         },
@@ -2333,10 +2333,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1380"
             },
             "cozycub__Dice__c": "3|4|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 8
         },
@@ -2346,10 +2346,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1381"
             },
             "cozycub__Dice__c": "6|2|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 9
         },
@@ -2359,10 +2359,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1382"
             },
             "cozycub__Dice__c": "2|6|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 9
         },
@@ -2372,10 +2372,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1383"
             },
             "cozycub__Dice__c": "2|4|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 9
         },
@@ -2385,10 +2385,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1384"
             },
             "cozycub__Dice__c": "5|3|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 9
         },
@@ -2398,10 +2398,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1385"
             },
             "cozycub__Dice__c": "5|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 9
         },
@@ -2411,10 +2411,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1386"
             },
             "cozycub__Dice__c": "2|6|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 9
         },
@@ -2424,10 +2424,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1387"
             },
             "cozycub__Dice__c": "2|6|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 9
         },
@@ -2437,10 +2437,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1388"
             },
             "cozycub__Dice__c": "2|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 9
         },
@@ -2450,10 +2450,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1389"
             },
             "cozycub__Dice__c": "1|3|3",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 9
         },
@@ -2463,10 +2463,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1390"
             },
             "cozycub__Dice__c": "1|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 9
         },
@@ -2476,10 +2476,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1391"
             },
             "cozycub__Dice__c": "2|3|2",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Id__c": "@Player__cRef10",
             "cozycub__Player_Name__c": "Alex",
             "cozycub__Round__c": 10
         },
@@ -2489,10 +2489,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1392"
             },
             "cozycub__Dice__c": "3|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Id__c": "@Player__cRef9",
             "cozycub__Player_Name__c": "Bo",
             "cozycub__Round__c": 10
         },
@@ -2502,10 +2502,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1393"
             },
             "cozycub__Dice__c": "2|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Id__c": "@Player__cRef8",
             "cozycub__Player_Name__c": "Diva",
             "cozycub__Round__c": 10
         },
@@ -2515,10 +2515,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1394"
             },
             "cozycub__Dice__c": "1|4|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Id__c": "@Player__cRef1",
             "cozycub__Player_Name__c": "Yolanda",
             "cozycub__Round__c": 10
         },
@@ -2528,10 +2528,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1395"
             },
             "cozycub__Dice__c": "2|1|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Id__c": "@Player__cRef2",
             "cozycub__Player_Name__c": "Summer",
             "cozycub__Round__c": 10
         },
@@ -2541,10 +2541,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1396"
             },
             "cozycub__Dice__c": "4|3|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Id__c": "@Player__cRef6",
             "cozycub__Player_Name__c": "Jeff",
             "cozycub__Round__c": 10
         },
@@ -2554,10 +2554,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1397"
             },
             "cozycub__Dice__c": "3|6|6",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": 225,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Id__c": "@Player__cRef5",
             "cozycub__Player_Name__c": "Oscar",
             "cozycub__Round__c": 10
         },
@@ -2567,10 +2567,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1398"
             },
             "cozycub__Dice__c": "2|2|4",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Id__c": "@Player__cRef4",
             "cozycub__Player_Name__c": "Richard",
             "cozycub__Round__c": 10
         },
@@ -2580,10 +2580,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1399"
             },
             "cozycub__Dice__c": "3|1|5",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Id__c": "@Player__cRef3",
             "cozycub__Player_Name__c": "Ricky",
             "cozycub__Round__c": 10
         },
@@ -2593,10 +2593,10 @@
                 "referenceId": "cozycub__Round_Dashboard__cRef1400"
             },
             "cozycub__Dice__c": "3|4|1",
-            "cozycub__Game_Id__c": "@cozycub__Game__cRef14",
+            "cozycub__Game_Id__c": "@Game__cRef14",
             "cozycub__Game_Name__c": "Atlantic City World Series Gx4",
             "cozycub__Money__c": -25,
-            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Id__c": "@Player__cRef7",
             "cozycub__Player_Name__c": "Gonzalez",
             "cozycub__Round__c": 10
         }
