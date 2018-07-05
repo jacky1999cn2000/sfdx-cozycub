@@ -1,0 +1,824 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef1"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef2"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef3"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef4"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef5"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef6"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef7"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef8"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef9"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx9"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef10"
+            },
+            "cozycub__Bet__c": 20,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Las Vegas World Series Gx10"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef11"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef12"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef13"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef14"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef15"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef16"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef17"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef18"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef19"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx9"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef20"
+            },
+            "cozycub__Bet__c": 25,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Atlantic City World Series Gx10"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef21"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef22"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef23"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef24"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef25"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef26"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef27"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef28"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "London World Series Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef29"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef30"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef31"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef32"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef33"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef34"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef35"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef36"
+            },
+            "cozycub__Bet__c": 50,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Singapore The Masters Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef37"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef38"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef39"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef40"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef41"
+            },
+            "cozycub__Bet__c": 10.02,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef42"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef43"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef44"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef45"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx9"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef46"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx10"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef47"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx11"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef48"
+            },
+            "cozycub__Bet__c": 10,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "San Jose World Series Gx12"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef49"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef50"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef51"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef52"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef53"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef54"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef55"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef56"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef57"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx9"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef58"
+            },
+            "cozycub__Bet__c": 15,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Reno World Series Gx10"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef59"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef60"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef61"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef62"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef63"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef64"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef65"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef66"
+            },
+            "cozycub__Bet__c": 30,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "France World Series Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef67"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef68"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef69"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef70"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef71"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef72"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef73"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef74"
+            },
+            "cozycub__Bet__c": 49.99,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 10,
+            "Name": "Monte Carlo The Masters Gx8"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef75"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx1"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef76"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx2"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef77"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx3"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef78"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx4"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef79"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx5"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef80"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx6"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef81"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx7"
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Game__c",
+                "referenceId": "cozycub__Game__cRef82"
+            },
+            "cozycub__Bet__c": 48.88,
+            "cozycub__Finished__c": true,
+            "cozycub__Round__c": 8,
+            "Name": "Macau The Masters Gx8"
+        }
+    ]
+}

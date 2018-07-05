@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "cozycub__Game__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "data-cozycub__Game__cs.json"
+        ]
+    }
+]

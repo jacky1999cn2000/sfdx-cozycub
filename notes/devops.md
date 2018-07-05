@@ -28,6 +28,12 @@
     * continous push: run `npx nodemon`
     * pull: run `make pull` 
 
+* data export
+    * command 
+    `sfdx force:data:tree:export --query "SELECT cozycub__Bet__c,cozycub__Finished__c,cozycub__Round__c,Id,Name FROM cozycub__Game__c ORDER BY CREATEDDATE" --prefix data --outputdir data --plan`
+    * [how to use refs](https://www.linkedin.com/pulse/salesforce-dx-export-data-jean-noel-casassus/)
+    * each batch can't exceed 200 records
+
 * tips
     * [use nodemon to auto save/push](https://ntotten.com/2018/01/17/using-nodemon-to-autopush-sfdx-project-changes/)
     * [remove already added hidden directory from git](https://stackoverflow.com/questions/35026376/git-to-ignore-a-hidden-directory-in-the-local-repo)

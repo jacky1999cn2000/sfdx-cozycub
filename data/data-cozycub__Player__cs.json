@@ -6,7 +6,7 @@
                 "referenceId": "cozycub__Player__cRef1"
             },
             "Name": "Yolanda",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 11702.18
         },
         {
             "attributes": {
@@ -14,7 +14,7 @@
                 "referenceId": "cozycub__Player__cRef2"
             },
             "Name": "Summer",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 7448.21
         },
         {
             "attributes": {
@@ -22,7 +22,7 @@
                 "referenceId": "cozycub__Player__cRef3"
             },
             "Name": "Ricky",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 9188.56
         },
         {
             "attributes": {
@@ -30,7 +30,7 @@
                 "referenceId": "cozycub__Player__cRef4"
             },
             "Name": "Richard",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 6462.66
         },
         {
             "attributes": {
@@ -38,7 +38,7 @@
                 "referenceId": "cozycub__Player__cRef5"
             },
             "Name": "Oscar",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 10928.26
         },
         {
             "attributes": {
@@ -46,7 +46,7 @@
                 "referenceId": "cozycub__Player__cRef6"
             },
             "Name": "Jeff",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 7770.28
         },
         {
             "attributes": {
@@ -54,7 +54,7 @@
                 "referenceId": "cozycub__Player__cRef7"
             },
             "Name": "Gonzalez",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 11275.14
         },
         {
             "attributes": {
@@ -62,7 +62,7 @@
                 "referenceId": "cozycub__Player__cRef8"
             },
             "Name": "Diva",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 13397.31
         },
         {
             "attributes": {
@@ -70,7 +70,7 @@
                 "referenceId": "cozycub__Player__cRef9"
             },
             "Name": "Bo",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 12906.43
         },
         {
             "attributes": {
@@ -78,7 +78,7 @@
                 "referenceId": "cozycub__Player__cRef10"
             },
             "Name": "Alex",
-            "cozycub__Money__c": 42
+            "cozycub__Money__c": 8920.91
         }
     ]
 }
