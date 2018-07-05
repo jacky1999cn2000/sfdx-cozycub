@@ -1,0 +1,2604 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6401"
+            },
+            "cozycub__Dice__c": "4|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6402"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6403"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6404"
+            },
+            "cozycub__Dice__c": "4|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6405"
+            },
+            "cozycub__Dice__c": "1|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6406"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6407"
+            },
+            "cozycub__Dice__c": "2|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6408"
+            },
+            "cozycub__Dice__c": "3|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6409"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6410"
+            },
+            "cozycub__Dice__c": "2|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6411"
+            },
+            "cozycub__Dice__c": "5|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6412"
+            },
+            "cozycub__Dice__c": "3|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6413"
+            },
+            "cozycub__Dice__c": "3|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6414"
+            },
+            "cozycub__Dice__c": "1|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6415"
+            },
+            "cozycub__Dice__c": "2|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6416"
+            },
+            "cozycub__Dice__c": "6|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6417"
+            },
+            "cozycub__Dice__c": "5|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6418"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6419"
+            },
+            "cozycub__Dice__c": "5|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6420"
+            },
+            "cozycub__Dice__c": "3|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6421"
+            },
+            "cozycub__Dice__c": "2|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6422"
+            },
+            "cozycub__Dice__c": "4|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6423"
+            },
+            "cozycub__Dice__c": "1|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6424"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6425"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6426"
+            },
+            "cozycub__Dice__c": "1|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6427"
+            },
+            "cozycub__Dice__c": "2|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6428"
+            },
+            "cozycub__Dice__c": "3|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6429"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6430"
+            },
+            "cozycub__Dice__c": "5|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6431"
+            },
+            "cozycub__Dice__c": "3|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6432"
+            },
+            "cozycub__Dice__c": "6|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6433"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6434"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6435"
+            },
+            "cozycub__Dice__c": "6|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6436"
+            },
+            "cozycub__Dice__c": "4|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6437"
+            },
+            "cozycub__Dice__c": "4|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6438"
+            },
+            "cozycub__Dice__c": "5|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6439"
+            },
+            "cozycub__Dice__c": "5|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6440"
+            },
+            "cozycub__Dice__c": "5|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6441"
+            },
+            "cozycub__Dice__c": "6|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6442"
+            },
+            "cozycub__Dice__c": "3|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6443"
+            },
+            "cozycub__Dice__c": "2|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6444"
+            },
+            "cozycub__Dice__c": "5|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6445"
+            },
+            "cozycub__Dice__c": "1|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6446"
+            },
+            "cozycub__Dice__c": "6|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6447"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6448"
+            },
+            "cozycub__Dice__c": "4|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6449"
+            },
+            "cozycub__Dice__c": "3|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6450"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6451"
+            },
+            "cozycub__Dice__c": "2|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6452"
+            },
+            "cozycub__Dice__c": "2|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6453"
+            },
+            "cozycub__Dice__c": "6|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6454"
+            },
+            "cozycub__Dice__c": "3|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6455"
+            },
+            "cozycub__Dice__c": "6|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6456"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6457"
+            },
+            "cozycub__Dice__c": "6|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6458"
+            },
+            "cozycub__Dice__c": "2|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6459"
+            },
+            "cozycub__Dice__c": "1|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6460"
+            },
+            "cozycub__Dice__c": "3|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6461"
+            },
+            "cozycub__Dice__c": "3|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6462"
+            },
+            "cozycub__Dice__c": "1|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6463"
+            },
+            "cozycub__Dice__c": "6|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6464"
+            },
+            "cozycub__Dice__c": "4|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6465"
+            },
+            "cozycub__Dice__c": "4|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6466"
+            },
+            "cozycub__Dice__c": "3|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6467"
+            },
+            "cozycub__Dice__c": "1|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6468"
+            },
+            "cozycub__Dice__c": "3|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6469"
+            },
+            "cozycub__Dice__c": "3|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6470"
+            },
+            "cozycub__Dice__c": "2|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6471"
+            },
+            "cozycub__Dice__c": "4|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6472"
+            },
+            "cozycub__Dice__c": "1|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6473"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6474"
+            },
+            "cozycub__Dice__c": "4|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 74.98,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6475"
+            },
+            "cozycub__Dice__c": "4|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 74.98,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6476"
+            },
+            "cozycub__Dice__c": "1|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6477"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6478"
+            },
+            "cozycub__Dice__c": "2|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 74.98,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6479"
+            },
+            "cozycub__Dice__c": "5|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": 74.98,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6480"
+            },
+            "cozycub__Dice__c": "4|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef68",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx2",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6481"
+            },
+            "cozycub__Dice__c": "4|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6482"
+            },
+            "cozycub__Dice__c": "4|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6483"
+            },
+            "cozycub__Dice__c": "4|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6484"
+            },
+            "cozycub__Dice__c": "1|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6485"
+            },
+            "cozycub__Dice__c": "1|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6486"
+            },
+            "cozycub__Dice__c": "5|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6487"
+            },
+            "cozycub__Dice__c": "1|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6488"
+            },
+            "cozycub__Dice__c": "6|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6489"
+            },
+            "cozycub__Dice__c": "6|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6490"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6491"
+            },
+            "cozycub__Dice__c": "1|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6492"
+            },
+            "cozycub__Dice__c": "2|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6493"
+            },
+            "cozycub__Dice__c": "2|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6494"
+            },
+            "cozycub__Dice__c": "6|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6495"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6496"
+            },
+            "cozycub__Dice__c": "6|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6497"
+            },
+            "cozycub__Dice__c": "3|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6498"
+            },
+            "cozycub__Dice__c": "3|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6499"
+            },
+            "cozycub__Dice__c": "3|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6500"
+            },
+            "cozycub__Dice__c": "1|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6501"
+            },
+            "cozycub__Dice__c": "6|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6502"
+            },
+            "cozycub__Dice__c": "5|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6503"
+            },
+            "cozycub__Dice__c": "2|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6504"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6505"
+            },
+            "cozycub__Dice__c": "3|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6506"
+            },
+            "cozycub__Dice__c": "1|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6507"
+            },
+            "cozycub__Dice__c": "5|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6508"
+            },
+            "cozycub__Dice__c": "5|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6509"
+            },
+            "cozycub__Dice__c": "4|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6510"
+            },
+            "cozycub__Dice__c": "6|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6511"
+            },
+            "cozycub__Dice__c": "2|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6512"
+            },
+            "cozycub__Dice__c": "4|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6513"
+            },
+            "cozycub__Dice__c": "3|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6514"
+            },
+            "cozycub__Dice__c": "5|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6515"
+            },
+            "cozycub__Dice__c": "5|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6516"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6517"
+            },
+            "cozycub__Dice__c": "1|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6518"
+            },
+            "cozycub__Dice__c": "1|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 199.96,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6519"
+            },
+            "cozycub__Dice__c": "5|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6520"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6521"
+            },
+            "cozycub__Dice__c": "3|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6522"
+            },
+            "cozycub__Dice__c": "3|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6523"
+            },
+            "cozycub__Dice__c": "1|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6524"
+            },
+            "cozycub__Dice__c": "6|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6525"
+            },
+            "cozycub__Dice__c": "6|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6526"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6527"
+            },
+            "cozycub__Dice__c": "5|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6528"
+            },
+            "cozycub__Dice__c": "1|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6529"
+            },
+            "cozycub__Dice__c": "1|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6530"
+            },
+            "cozycub__Dice__c": "1|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6531"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6532"
+            },
+            "cozycub__Dice__c": "1|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6533"
+            },
+            "cozycub__Dice__c": "3|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6534"
+            },
+            "cozycub__Dice__c": "4|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6535"
+            },
+            "cozycub__Dice__c": "3|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6536"
+            },
+            "cozycub__Dice__c": "5|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6537"
+            },
+            "cozycub__Dice__c": "2|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6538"
+            },
+            "cozycub__Dice__c": "2|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6539"
+            },
+            "cozycub__Dice__c": "2|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6540"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6541"
+            },
+            "cozycub__Dice__c": "4|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6542"
+            },
+            "cozycub__Dice__c": "1|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6543"
+            },
+            "cozycub__Dice__c": "5|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6544"
+            },
+            "cozycub__Dice__c": "3|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6545"
+            },
+            "cozycub__Dice__c": "6|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6546"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6547"
+            },
+            "cozycub__Dice__c": "3|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6548"
+            },
+            "cozycub__Dice__c": "4|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6549"
+            },
+            "cozycub__Dice__c": "2|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6550"
+            },
+            "cozycub__Dice__c": "4|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6551"
+            },
+            "cozycub__Dice__c": "4|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6552"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6553"
+            },
+            "cozycub__Dice__c": "1|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6554"
+            },
+            "cozycub__Dice__c": "4|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6555"
+            },
+            "cozycub__Dice__c": "4|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6556"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6557"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6558"
+            },
+            "cozycub__Dice__c": "6|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6559"
+            },
+            "cozycub__Dice__c": "3|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6560"
+            },
+            "cozycub__Dice__c": "2|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6561"
+            },
+            "cozycub__Dice__c": "1|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6562"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6563"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6564"
+            },
+            "cozycub__Dice__c": "6|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6565"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6566"
+            },
+            "cozycub__Dice__c": "1|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6567"
+            },
+            "cozycub__Dice__c": "6|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6568"
+            },
+            "cozycub__Dice__c": "3|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6569"
+            },
+            "cozycub__Dice__c": "2|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6570"
+            },
+            "cozycub__Dice__c": "5|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 116.64,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6571"
+            },
+            "cozycub__Dice__c": "6|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6572"
+            },
+            "cozycub__Dice__c": "2|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6573"
+            },
+            "cozycub__Dice__c": "2|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6574"
+            },
+            "cozycub__Dice__c": "3|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6575"
+            },
+            "cozycub__Dice__c": "2|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6576"
+            },
+            "cozycub__Dice__c": "1|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6577"
+            },
+            "cozycub__Dice__c": "5|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6578"
+            },
+            "cozycub__Dice__c": "5|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6579"
+            },
+            "cozycub__Dice__c": "6|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6580"
+            },
+            "cozycub__Dice__c": "6|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef69",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx3",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6581"
+            },
+            "cozycub__Dice__c": "3|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6582"
+            },
+            "cozycub__Dice__c": "1|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6583"
+            },
+            "cozycub__Dice__c": "6|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6584"
+            },
+            "cozycub__Dice__c": "4|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6585"
+            },
+            "cozycub__Dice__c": "1|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6586"
+            },
+            "cozycub__Dice__c": "6|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6587"
+            },
+            "cozycub__Dice__c": "4|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6588"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6589"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6590"
+            },
+            "cozycub__Dice__c": "2|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6591"
+            },
+            "cozycub__Dice__c": "3|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6592"
+            },
+            "cozycub__Dice__c": "4|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6593"
+            },
+            "cozycub__Dice__c": "3|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6594"
+            },
+            "cozycub__Dice__c": "3|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6595"
+            },
+            "cozycub__Dice__c": "4|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6596"
+            },
+            "cozycub__Dice__c": "2|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6597"
+            },
+            "cozycub__Dice__c": "1|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6598"
+            },
+            "cozycub__Dice__c": "5|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": 449.91,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6599"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef6600"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef70",
+            "cozycub__Game_Name__c": "Monte Carlo The Masters Gx4",
+            "cozycub__Money__c": -49.99,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        }
+    ]
+}

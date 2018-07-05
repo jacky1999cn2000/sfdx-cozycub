@@ -1,0 +1,2604 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2401"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2402"
+            },
+            "cozycub__Dice__c": "1|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2403"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2404"
+            },
+            "cozycub__Dice__c": "5|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2405"
+            },
+            "cozycub__Dice__c": "3|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2406"
+            },
+            "cozycub__Dice__c": "4|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2407"
+            },
+            "cozycub__Dice__c": "2|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2408"
+            },
+            "cozycub__Dice__c": "6|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2409"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2410"
+            },
+            "cozycub__Dice__c": "4|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2411"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2412"
+            },
+            "cozycub__Dice__c": "2|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2413"
+            },
+            "cozycub__Dice__c": "6|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2414"
+            },
+            "cozycub__Dice__c": "5|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2415"
+            },
+            "cozycub__Dice__c": "2|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2416"
+            },
+            "cozycub__Dice__c": "1|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2417"
+            },
+            "cozycub__Dice__c": "6|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2418"
+            },
+            "cozycub__Dice__c": "6|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2419"
+            },
+            "cozycub__Dice__c": "4|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2420"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2421"
+            },
+            "cozycub__Dice__c": "4|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2422"
+            },
+            "cozycub__Dice__c": "1|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2423"
+            },
+            "cozycub__Dice__c": "2|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2424"
+            },
+            "cozycub__Dice__c": "1|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2425"
+            },
+            "cozycub__Dice__c": "2|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2426"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2427"
+            },
+            "cozycub__Dice__c": "6|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2428"
+            },
+            "cozycub__Dice__c": "6|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2429"
+            },
+            "cozycub__Dice__c": "6|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2430"
+            },
+            "cozycub__Dice__c": "3|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2431"
+            },
+            "cozycub__Dice__c": "1|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2432"
+            },
+            "cozycub__Dice__c": "2|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2433"
+            },
+            "cozycub__Dice__c": "4|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2434"
+            },
+            "cozycub__Dice__c": "5|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 120,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2435"
+            },
+            "cozycub__Dice__c": "3|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2436"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2437"
+            },
+            "cozycub__Dice__c": "3|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2438"
+            },
+            "cozycub__Dice__c": "6|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 120,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2439"
+            },
+            "cozycub__Dice__c": "2|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2440"
+            },
+            "cozycub__Dice__c": "1|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2441"
+            },
+            "cozycub__Dice__c": "4|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2442"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 120,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2443"
+            },
+            "cozycub__Dice__c": "6|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2444"
+            },
+            "cozycub__Dice__c": "2|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2445"
+            },
+            "cozycub__Dice__c": "2|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2446"
+            },
+            "cozycub__Dice__c": "6|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 120,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2447"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2448"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2449"
+            },
+            "cozycub__Dice__c": "6|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2450"
+            },
+            "cozycub__Dice__c": "1|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2451"
+            },
+            "cozycub__Dice__c": "5|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2452"
+            },
+            "cozycub__Dice__c": "4|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2453"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2454"
+            },
+            "cozycub__Dice__c": "4|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2455"
+            },
+            "cozycub__Dice__c": "2|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2456"
+            },
+            "cozycub__Dice__c": "2|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2457"
+            },
+            "cozycub__Dice__c": "2|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2458"
+            },
+            "cozycub__Dice__c": "2|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2459"
+            },
+            "cozycub__Dice__c": "1|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2460"
+            },
+            "cozycub__Dice__c": "6|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2461"
+            },
+            "cozycub__Dice__c": "3|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2462"
+            },
+            "cozycub__Dice__c": "6|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2463"
+            },
+            "cozycub__Dice__c": "3|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2464"
+            },
+            "cozycub__Dice__c": "2|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2465"
+            },
+            "cozycub__Dice__c": "5|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2466"
+            },
+            "cozycub__Dice__c": "1|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2467"
+            },
+            "cozycub__Dice__c": "3|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2468"
+            },
+            "cozycub__Dice__c": "6|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2469"
+            },
+            "cozycub__Dice__c": "2|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2470"
+            },
+            "cozycub__Dice__c": "5|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2471"
+            },
+            "cozycub__Dice__c": "5|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2472"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2473"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2474"
+            },
+            "cozycub__Dice__c": "6|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2475"
+            },
+            "cozycub__Dice__c": "2|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2476"
+            },
+            "cozycub__Dice__c": "2|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2477"
+            },
+            "cozycub__Dice__c": "2|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2478"
+            },
+            "cozycub__Dice__c": "6|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2479"
+            },
+            "cozycub__Dice__c": "1|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2480"
+            },
+            "cozycub__Dice__c": "2|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef26",
+            "cozycub__Game_Name__c": "London World Series Gx6",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2481"
+            },
+            "cozycub__Dice__c": "5|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2482"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2483"
+            },
+            "cozycub__Dice__c": "5|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2484"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2485"
+            },
+            "cozycub__Dice__c": "2|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2486"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2487"
+            },
+            "cozycub__Dice__c": "1|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2488"
+            },
+            "cozycub__Dice__c": "5|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2489"
+            },
+            "cozycub__Dice__c": "3|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2490"
+            },
+            "cozycub__Dice__c": "6|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2491"
+            },
+            "cozycub__Dice__c": "5|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2492"
+            },
+            "cozycub__Dice__c": "1|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2493"
+            },
+            "cozycub__Dice__c": "6|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2494"
+            },
+            "cozycub__Dice__c": "6|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2495"
+            },
+            "cozycub__Dice__c": "3|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2496"
+            },
+            "cozycub__Dice__c": "2|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2497"
+            },
+            "cozycub__Dice__c": "6|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2498"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2499"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2500"
+            },
+            "cozycub__Dice__c": "6|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2501"
+            },
+            "cozycub__Dice__c": "6|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2502"
+            },
+            "cozycub__Dice__c": "3|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2503"
+            },
+            "cozycub__Dice__c": "6|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2504"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2505"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2506"
+            },
+            "cozycub__Dice__c": "1|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2507"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2508"
+            },
+            "cozycub__Dice__c": "3|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 70,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2509"
+            },
+            "cozycub__Dice__c": "5|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 70,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2510"
+            },
+            "cozycub__Dice__c": "4|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 70,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2511"
+            },
+            "cozycub__Dice__c": "5|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 45,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2512"
+            },
+            "cozycub__Dice__c": "4|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 45,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2513"
+            },
+            "cozycub__Dice__c": "2|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2514"
+            },
+            "cozycub__Dice__c": "4|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2515"
+            },
+            "cozycub__Dice__c": "6|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 45,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2516"
+            },
+            "cozycub__Dice__c": "2|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2517"
+            },
+            "cozycub__Dice__c": "6|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 45,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2518"
+            },
+            "cozycub__Dice__c": "6|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2519"
+            },
+            "cozycub__Dice__c": "1|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2520"
+            },
+            "cozycub__Dice__c": "3|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2521"
+            },
+            "cozycub__Dice__c": "6|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2522"
+            },
+            "cozycub__Dice__c": "4|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2523"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2524"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2525"
+            },
+            "cozycub__Dice__c": "6|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2526"
+            },
+            "cozycub__Dice__c": "6|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2527"
+            },
+            "cozycub__Dice__c": "3|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2528"
+            },
+            "cozycub__Dice__c": "6|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2529"
+            },
+            "cozycub__Dice__c": "5|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2530"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2531"
+            },
+            "cozycub__Dice__c": "1|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2532"
+            },
+            "cozycub__Dice__c": "2|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2533"
+            },
+            "cozycub__Dice__c": "5|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2534"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2535"
+            },
+            "cozycub__Dice__c": "5|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2536"
+            },
+            "cozycub__Dice__c": "5|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2537"
+            },
+            "cozycub__Dice__c": "1|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2538"
+            },
+            "cozycub__Dice__c": "3|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2539"
+            },
+            "cozycub__Dice__c": "4|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2540"
+            },
+            "cozycub__Dice__c": "6|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2541"
+            },
+            "cozycub__Dice__c": "2|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2542"
+            },
+            "cozycub__Dice__c": "4|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2543"
+            },
+            "cozycub__Dice__c": "6|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2544"
+            },
+            "cozycub__Dice__c": "3|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2545"
+            },
+            "cozycub__Dice__c": "4|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2546"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2547"
+            },
+            "cozycub__Dice__c": "2|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2548"
+            },
+            "cozycub__Dice__c": "5|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2549"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2550"
+            },
+            "cozycub__Dice__c": "5|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2551"
+            },
+            "cozycub__Dice__c": "1|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2552"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2553"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2554"
+            },
+            "cozycub__Dice__c": "2|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2555"
+            },
+            "cozycub__Dice__c": "4|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2556"
+            },
+            "cozycub__Dice__c": "1|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2557"
+            },
+            "cozycub__Dice__c": "6|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2558"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2559"
+            },
+            "cozycub__Dice__c": "4|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2560"
+            },
+            "cozycub__Dice__c": "6|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef27",
+            "cozycub__Game_Name__c": "London World Series Gx7",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2561"
+            },
+            "cozycub__Dice__c": "1|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2562"
+            },
+            "cozycub__Dice__c": "4|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": 120,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2563"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2564"
+            },
+            "cozycub__Dice__c": "3|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2565"
+            },
+            "cozycub__Dice__c": "4|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2566"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2567"
+            },
+            "cozycub__Dice__c": "5|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2568"
+            },
+            "cozycub__Dice__c": "5|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2569"
+            },
+            "cozycub__Dice__c": "2|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": 120,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2570"
+            },
+            "cozycub__Dice__c": "5|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2571"
+            },
+            "cozycub__Dice__c": "4|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2572"
+            },
+            "cozycub__Dice__c": "5|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2573"
+            },
+            "cozycub__Dice__c": "6|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2574"
+            },
+            "cozycub__Dice__c": "2|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2575"
+            },
+            "cozycub__Dice__c": "1|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2576"
+            },
+            "cozycub__Dice__c": "5|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2577"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2578"
+            },
+            "cozycub__Dice__c": "4|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2579"
+            },
+            "cozycub__Dice__c": "2|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2580"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2581"
+            },
+            "cozycub__Dice__c": "3|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2582"
+            },
+            "cozycub__Dice__c": "3|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2583"
+            },
+            "cozycub__Dice__c": "5|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2584"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2585"
+            },
+            "cozycub__Dice__c": "1|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2586"
+            },
+            "cozycub__Dice__c": "6|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2587"
+            },
+            "cozycub__Dice__c": "1|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2588"
+            },
+            "cozycub__Dice__c": "6|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2589"
+            },
+            "cozycub__Dice__c": "4|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2590"
+            },
+            "cozycub__Dice__c": "4|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2591"
+            },
+            "cozycub__Dice__c": "1|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2592"
+            },
+            "cozycub__Dice__c": "5|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2593"
+            },
+            "cozycub__Dice__c": "2|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2594"
+            },
+            "cozycub__Dice__c": "5|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2595"
+            },
+            "cozycub__Dice__c": "5|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": 270,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2596"
+            },
+            "cozycub__Dice__c": "2|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2597"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2598"
+            },
+            "cozycub__Dice__c": "3|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2599"
+            },
+            "cozycub__Dice__c": "4|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef2600"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef28",
+            "cozycub__Game_Name__c": "London World Series Gx8",
+            "cozycub__Money__c": -30,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        }
+    ]
+}

@@ -1,0 +1,2604 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3401"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3402"
+            },
+            "cozycub__Dice__c": "1|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3403"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3404"
+            },
+            "cozycub__Dice__c": "3|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3405"
+            },
+            "cozycub__Dice__c": "6|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3406"
+            },
+            "cozycub__Dice__c": "1|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3407"
+            },
+            "cozycub__Dice__c": "1|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3408"
+            },
+            "cozycub__Dice__c": "5|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3409"
+            },
+            "cozycub__Dice__c": "3|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3410"
+            },
+            "cozycub__Dice__c": "1|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3411"
+            },
+            "cozycub__Dice__c": "2|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3412"
+            },
+            "cozycub__Dice__c": "3|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3413"
+            },
+            "cozycub__Dice__c": "1|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3414"
+            },
+            "cozycub__Dice__c": "2|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3415"
+            },
+            "cozycub__Dice__c": "4|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3416"
+            },
+            "cozycub__Dice__c": "1|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3417"
+            },
+            "cozycub__Dice__c": "3|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3418"
+            },
+            "cozycub__Dice__c": "5|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3419"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3420"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3421"
+            },
+            "cozycub__Dice__c": "2|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3422"
+            },
+            "cozycub__Dice__c": "2|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3423"
+            },
+            "cozycub__Dice__c": "1|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3424"
+            },
+            "cozycub__Dice__c": "4|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3425"
+            },
+            "cozycub__Dice__c": "2|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3426"
+            },
+            "cozycub__Dice__c": "3|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3427"
+            },
+            "cozycub__Dice__c": "3|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3428"
+            },
+            "cozycub__Dice__c": "4|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3429"
+            },
+            "cozycub__Dice__c": "2|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3430"
+            },
+            "cozycub__Dice__c": "3|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3431"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3432"
+            },
+            "cozycub__Dice__c": "4|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3433"
+            },
+            "cozycub__Dice__c": "4|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3434"
+            },
+            "cozycub__Dice__c": "2|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3435"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3436"
+            },
+            "cozycub__Dice__c": "1|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3437"
+            },
+            "cozycub__Dice__c": "3|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3438"
+            },
+            "cozycub__Dice__c": "4|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3439"
+            },
+            "cozycub__Dice__c": "6|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3440"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef36",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx8",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3441"
+            },
+            "cozycub__Dice__c": "3|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3442"
+            },
+            "cozycub__Dice__c": "6|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3443"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3444"
+            },
+            "cozycub__Dice__c": "4|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3445"
+            },
+            "cozycub__Dice__c": "4|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3446"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3447"
+            },
+            "cozycub__Dice__c": "6|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3448"
+            },
+            "cozycub__Dice__c": "1|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3449"
+            },
+            "cozycub__Dice__c": "4|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3450"
+            },
+            "cozycub__Dice__c": "3|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3451"
+            },
+            "cozycub__Dice__c": "4|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3452"
+            },
+            "cozycub__Dice__c": "6|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3453"
+            },
+            "cozycub__Dice__c": "2|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3454"
+            },
+            "cozycub__Dice__c": "6|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3455"
+            },
+            "cozycub__Dice__c": "3|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3456"
+            },
+            "cozycub__Dice__c": "3|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3457"
+            },
+            "cozycub__Dice__c": "5|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3458"
+            },
+            "cozycub__Dice__c": "6|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3459"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3460"
+            },
+            "cozycub__Dice__c": "1|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3461"
+            },
+            "cozycub__Dice__c": "6|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3462"
+            },
+            "cozycub__Dice__c": "2|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3463"
+            },
+            "cozycub__Dice__c": "1|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3464"
+            },
+            "cozycub__Dice__c": "5|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3465"
+            },
+            "cozycub__Dice__c": "1|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3466"
+            },
+            "cozycub__Dice__c": "5|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3467"
+            },
+            "cozycub__Dice__c": "4|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3468"
+            },
+            "cozycub__Dice__c": "3|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3469"
+            },
+            "cozycub__Dice__c": "4|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3470"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3471"
+            },
+            "cozycub__Dice__c": "6|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3472"
+            },
+            "cozycub__Dice__c": "4|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3473"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3474"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3475"
+            },
+            "cozycub__Dice__c": "2|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3476"
+            },
+            "cozycub__Dice__c": "5|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3477"
+            },
+            "cozycub__Dice__c": "5|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3478"
+            },
+            "cozycub__Dice__c": "4|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3479"
+            },
+            "cozycub__Dice__c": "3|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3480"
+            },
+            "cozycub__Dice__c": "1|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3481"
+            },
+            "cozycub__Dice__c": "4|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3482"
+            },
+            "cozycub__Dice__c": "1|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3483"
+            },
+            "cozycub__Dice__c": "4|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3484"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3485"
+            },
+            "cozycub__Dice__c": "3|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3486"
+            },
+            "cozycub__Dice__c": "4|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3487"
+            },
+            "cozycub__Dice__c": "3|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3488"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3489"
+            },
+            "cozycub__Dice__c": "2|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3490"
+            },
+            "cozycub__Dice__c": "4|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3491"
+            },
+            "cozycub__Dice__c": "2|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3492"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3493"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3494"
+            },
+            "cozycub__Dice__c": "4|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3495"
+            },
+            "cozycub__Dice__c": "3|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3496"
+            },
+            "cozycub__Dice__c": "1|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3497"
+            },
+            "cozycub__Dice__c": "6|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3498"
+            },
+            "cozycub__Dice__c": "5|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3499"
+            },
+            "cozycub__Dice__c": "6|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3500"
+            },
+            "cozycub__Dice__c": "3|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3501"
+            },
+            "cozycub__Dice__c": "1|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3502"
+            },
+            "cozycub__Dice__c": "3|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 23.33,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3503"
+            },
+            "cozycub__Dice__c": "6|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 23.33,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3504"
+            },
+            "cozycub__Dice__c": "5|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3505"
+            },
+            "cozycub__Dice__c": "5|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3506"
+            },
+            "cozycub__Dice__c": "6|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3507"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3508"
+            },
+            "cozycub__Dice__c": "6|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3509"
+            },
+            "cozycub__Dice__c": "6|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 23.33,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3510"
+            },
+            "cozycub__Dice__c": "3|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3511"
+            },
+            "cozycub__Dice__c": "4|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3512"
+            },
+            "cozycub__Dice__c": "6|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3513"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3514"
+            },
+            "cozycub__Dice__c": "6|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3515"
+            },
+            "cozycub__Dice__c": "3|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3516"
+            },
+            "cozycub__Dice__c": "1|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3517"
+            },
+            "cozycub__Dice__c": "4|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3518"
+            },
+            "cozycub__Dice__c": "1|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3519"
+            },
+            "cozycub__Dice__c": "2|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3520"
+            },
+            "cozycub__Dice__c": "4|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3521"
+            },
+            "cozycub__Dice__c": "3|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3522"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3523"
+            },
+            "cozycub__Dice__c": "4|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3524"
+            },
+            "cozycub__Dice__c": "1|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3525"
+            },
+            "cozycub__Dice__c": "2|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3526"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3527"
+            },
+            "cozycub__Dice__c": "5|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3528"
+            },
+            "cozycub__Dice__c": "2|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3529"
+            },
+            "cozycub__Dice__c": "5|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3530"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3531"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3532"
+            },
+            "cozycub__Dice__c": "5|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3533"
+            },
+            "cozycub__Dice__c": "4|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3534"
+            },
+            "cozycub__Dice__c": "1|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3535"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3536"
+            },
+            "cozycub__Dice__c": "6|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3537"
+            },
+            "cozycub__Dice__c": "2|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3538"
+            },
+            "cozycub__Dice__c": "4|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3539"
+            },
+            "cozycub__Dice__c": "1|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3540"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef37",
+            "cozycub__Game_Name__c": "San Jose World Series Gx1",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3541"
+            },
+            "cozycub__Dice__c": "3|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3542"
+            },
+            "cozycub__Dice__c": "6|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3543"
+            },
+            "cozycub__Dice__c": "1|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3544"
+            },
+            "cozycub__Dice__c": "1|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3545"
+            },
+            "cozycub__Dice__c": "1|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3546"
+            },
+            "cozycub__Dice__c": "1|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3547"
+            },
+            "cozycub__Dice__c": "5|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3548"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3549"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3550"
+            },
+            "cozycub__Dice__c": "3|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3551"
+            },
+            "cozycub__Dice__c": "4|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3552"
+            },
+            "cozycub__Dice__c": "3|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3553"
+            },
+            "cozycub__Dice__c": "5|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3554"
+            },
+            "cozycub__Dice__c": "5|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3555"
+            },
+            "cozycub__Dice__c": "1|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3556"
+            },
+            "cozycub__Dice__c": "4|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3557"
+            },
+            "cozycub__Dice__c": "4|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3558"
+            },
+            "cozycub__Dice__c": "6|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": 40,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3559"
+            },
+            "cozycub__Dice__c": "1|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3560"
+            },
+            "cozycub__Dice__c": "4|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3561"
+            },
+            "cozycub__Dice__c": "5|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3562"
+            },
+            "cozycub__Dice__c": "3|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3563"
+            },
+            "cozycub__Dice__c": "3|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3564"
+            },
+            "cozycub__Dice__c": "5|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3565"
+            },
+            "cozycub__Dice__c": "2|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3566"
+            },
+            "cozycub__Dice__c": "5|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3567"
+            },
+            "cozycub__Dice__c": "6|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3568"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3569"
+            },
+            "cozycub__Dice__c": "5|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3570"
+            },
+            "cozycub__Dice__c": "6|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3571"
+            },
+            "cozycub__Dice__c": "4|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3572"
+            },
+            "cozycub__Dice__c": "5|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3573"
+            },
+            "cozycub__Dice__c": "3|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3574"
+            },
+            "cozycub__Dice__c": "5|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3575"
+            },
+            "cozycub__Dice__c": "5|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3576"
+            },
+            "cozycub__Dice__c": "6|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3577"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3578"
+            },
+            "cozycub__Dice__c": "3|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3579"
+            },
+            "cozycub__Dice__c": "1|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3580"
+            },
+            "cozycub__Dice__c": "5|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3581"
+            },
+            "cozycub__Dice__c": "3|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3582"
+            },
+            "cozycub__Dice__c": "5|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3583"
+            },
+            "cozycub__Dice__c": "6|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3584"
+            },
+            "cozycub__Dice__c": "6|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3585"
+            },
+            "cozycub__Dice__c": "4|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3586"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3587"
+            },
+            "cozycub__Dice__c": "2|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3588"
+            },
+            "cozycub__Dice__c": "1|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3589"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3590"
+            },
+            "cozycub__Dice__c": "1|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3591"
+            },
+            "cozycub__Dice__c": "1|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3592"
+            },
+            "cozycub__Dice__c": "2|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3593"
+            },
+            "cozycub__Dice__c": "4|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3594"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3595"
+            },
+            "cozycub__Dice__c": "6|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3596"
+            },
+            "cozycub__Dice__c": "6|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3597"
+            },
+            "cozycub__Dice__c": "4|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3598"
+            },
+            "cozycub__Dice__c": "1|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3599"
+            },
+            "cozycub__Dice__c": "4|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": -10,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3600"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef38",
+            "cozycub__Game_Name__c": "San Jose World Series Gx2",
+            "cozycub__Money__c": 90,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        }
+    ]
+}

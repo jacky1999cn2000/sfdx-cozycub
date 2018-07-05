@@ -1,0 +1,2604 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7401"
+            },
+            "cozycub__Dice__c": "3|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7402"
+            },
+            "cozycub__Dice__c": "1|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7403"
+            },
+            "cozycub__Dice__c": "6|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7404"
+            },
+            "cozycub__Dice__c": "2|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7405"
+            },
+            "cozycub__Dice__c": "5|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7406"
+            },
+            "cozycub__Dice__c": "3|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7407"
+            },
+            "cozycub__Dice__c": "1|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7408"
+            },
+            "cozycub__Dice__c": "4|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7409"
+            },
+            "cozycub__Dice__c": "6|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7410"
+            },
+            "cozycub__Dice__c": "2|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7411"
+            },
+            "cozycub__Dice__c": "3|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7412"
+            },
+            "cozycub__Dice__c": "3|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7413"
+            },
+            "cozycub__Dice__c": "2|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7414"
+            },
+            "cozycub__Dice__c": "5|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7415"
+            },
+            "cozycub__Dice__c": "2|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7416"
+            },
+            "cozycub__Dice__c": "1|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7417"
+            },
+            "cozycub__Dice__c": "5|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7418"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7419"
+            },
+            "cozycub__Dice__c": "3|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7420"
+            },
+            "cozycub__Dice__c": "2|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7421"
+            },
+            "cozycub__Dice__c": "1|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7422"
+            },
+            "cozycub__Dice__c": "2|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7423"
+            },
+            "cozycub__Dice__c": "1|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7424"
+            },
+            "cozycub__Dice__c": "1|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7425"
+            },
+            "cozycub__Dice__c": "5|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7426"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7427"
+            },
+            "cozycub__Dice__c": "1|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7428"
+            },
+            "cozycub__Dice__c": "5|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7429"
+            },
+            "cozycub__Dice__c": "1|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7430"
+            },
+            "cozycub__Dice__c": "5|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7431"
+            },
+            "cozycub__Dice__c": "5|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7432"
+            },
+            "cozycub__Dice__c": "4|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7433"
+            },
+            "cozycub__Dice__c": "6|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7434"
+            },
+            "cozycub__Dice__c": "1|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7435"
+            },
+            "cozycub__Dice__c": "3|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7436"
+            },
+            "cozycub__Dice__c": "5|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7437"
+            },
+            "cozycub__Dice__c": "6|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7438"
+            },
+            "cozycub__Dice__c": "3|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7439"
+            },
+            "cozycub__Dice__c": "5|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7440"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7441"
+            },
+            "cozycub__Dice__c": "6|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7442"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7443"
+            },
+            "cozycub__Dice__c": "3|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7444"
+            },
+            "cozycub__Dice__c": "3|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7445"
+            },
+            "cozycub__Dice__c": "2|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7446"
+            },
+            "cozycub__Dice__c": "1|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7447"
+            },
+            "cozycub__Dice__c": "3|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7448"
+            },
+            "cozycub__Dice__c": "6|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7449"
+            },
+            "cozycub__Dice__c": "5|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7450"
+            },
+            "cozycub__Dice__c": "1|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7451"
+            },
+            "cozycub__Dice__c": "5|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7452"
+            },
+            "cozycub__Dice__c": "1|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7453"
+            },
+            "cozycub__Dice__c": "1|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7454"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7455"
+            },
+            "cozycub__Dice__c": "2|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7456"
+            },
+            "cozycub__Dice__c": "6|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7457"
+            },
+            "cozycub__Dice__c": "3|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7458"
+            },
+            "cozycub__Dice__c": "2|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7459"
+            },
+            "cozycub__Dice__c": "3|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7460"
+            },
+            "cozycub__Dice__c": "3|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7461"
+            },
+            "cozycub__Dice__c": "3|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7462"
+            },
+            "cozycub__Dice__c": "2|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7463"
+            },
+            "cozycub__Dice__c": "2|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7464"
+            },
+            "cozycub__Dice__c": "6|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7465"
+            },
+            "cozycub__Dice__c": "3|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7466"
+            },
+            "cozycub__Dice__c": "1|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7467"
+            },
+            "cozycub__Dice__c": "3|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7468"
+            },
+            "cozycub__Dice__c": "3|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7469"
+            },
+            "cozycub__Dice__c": "6|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7470"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7471"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7472"
+            },
+            "cozycub__Dice__c": "1|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7473"
+            },
+            "cozycub__Dice__c": "2|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7474"
+            },
+            "cozycub__Dice__c": "5|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 195.52,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7475"
+            },
+            "cozycub__Dice__c": "4|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7476"
+            },
+            "cozycub__Dice__c": "1|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7477"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7478"
+            },
+            "cozycub__Dice__c": "5|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": 195.52,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7479"
+            },
+            "cozycub__Dice__c": "1|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7480"
+            },
+            "cozycub__Dice__c": "4|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef79",
+            "cozycub__Game_Name__c": "Macau The Masters Gx5",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7481"
+            },
+            "cozycub__Dice__c": "1|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7482"
+            },
+            "cozycub__Dice__c": "1|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7483"
+            },
+            "cozycub__Dice__c": "1|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7484"
+            },
+            "cozycub__Dice__c": "5|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7485"
+            },
+            "cozycub__Dice__c": "2|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7486"
+            },
+            "cozycub__Dice__c": "1|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7487"
+            },
+            "cozycub__Dice__c": "4|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7488"
+            },
+            "cozycub__Dice__c": "2|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7489"
+            },
+            "cozycub__Dice__c": "2|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7490"
+            },
+            "cozycub__Dice__c": "3|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7491"
+            },
+            "cozycub__Dice__c": "3|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7492"
+            },
+            "cozycub__Dice__c": "3|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7493"
+            },
+            "cozycub__Dice__c": "4|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7494"
+            },
+            "cozycub__Dice__c": "4|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7495"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7496"
+            },
+            "cozycub__Dice__c": "5|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7497"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7498"
+            },
+            "cozycub__Dice__c": "1|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 195.52,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7499"
+            },
+            "cozycub__Dice__c": "5|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 195.52,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7500"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7501"
+            },
+            "cozycub__Dice__c": "6|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7502"
+            },
+            "cozycub__Dice__c": "6|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 195.52,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7503"
+            },
+            "cozycub__Dice__c": "2|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7504"
+            },
+            "cozycub__Dice__c": "6|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 195.52,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7505"
+            },
+            "cozycub__Dice__c": "2|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7506"
+            },
+            "cozycub__Dice__c": "5|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7507"
+            },
+            "cozycub__Dice__c": "3|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7508"
+            },
+            "cozycub__Dice__c": "3|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7509"
+            },
+            "cozycub__Dice__c": "1|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7510"
+            },
+            "cozycub__Dice__c": "3|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7511"
+            },
+            "cozycub__Dice__c": "3|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7512"
+            },
+            "cozycub__Dice__c": "3|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7513"
+            },
+            "cozycub__Dice__c": "4|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7514"
+            },
+            "cozycub__Dice__c": "2|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7515"
+            },
+            "cozycub__Dice__c": "4|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7516"
+            },
+            "cozycub__Dice__c": "1|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7517"
+            },
+            "cozycub__Dice__c": "5|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7518"
+            },
+            "cozycub__Dice__c": "2|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7519"
+            },
+            "cozycub__Dice__c": "5|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7520"
+            },
+            "cozycub__Dice__c": "5|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 73.32,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7521"
+            },
+            "cozycub__Dice__c": "3|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7522"
+            },
+            "cozycub__Dice__c": "4|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7523"
+            },
+            "cozycub__Dice__c": "2|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7524"
+            },
+            "cozycub__Dice__c": "6|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7525"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7526"
+            },
+            "cozycub__Dice__c": "5|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7527"
+            },
+            "cozycub__Dice__c": "4|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7528"
+            },
+            "cozycub__Dice__c": "4|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7529"
+            },
+            "cozycub__Dice__c": "3|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7530"
+            },
+            "cozycub__Dice__c": "3|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7531"
+            },
+            "cozycub__Dice__c": "2|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7532"
+            },
+            "cozycub__Dice__c": "6|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7533"
+            },
+            "cozycub__Dice__c": "6|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7534"
+            },
+            "cozycub__Dice__c": "2|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7535"
+            },
+            "cozycub__Dice__c": "2|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7536"
+            },
+            "cozycub__Dice__c": "2|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7537"
+            },
+            "cozycub__Dice__c": "2|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7538"
+            },
+            "cozycub__Dice__c": "1|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7539"
+            },
+            "cozycub__Dice__c": "1|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7540"
+            },
+            "cozycub__Dice__c": "2|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7541"
+            },
+            "cozycub__Dice__c": "4|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7542"
+            },
+            "cozycub__Dice__c": "3|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7543"
+            },
+            "cozycub__Dice__c": "4|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7544"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7545"
+            },
+            "cozycub__Dice__c": "6|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7546"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7547"
+            },
+            "cozycub__Dice__c": "3|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7548"
+            },
+            "cozycub__Dice__c": "1|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7549"
+            },
+            "cozycub__Dice__c": "4|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7550"
+            },
+            "cozycub__Dice__c": "2|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7551"
+            },
+            "cozycub__Dice__c": "4|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7552"
+            },
+            "cozycub__Dice__c": "3|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7553"
+            },
+            "cozycub__Dice__c": "2|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7554"
+            },
+            "cozycub__Dice__c": "4|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7555"
+            },
+            "cozycub__Dice__c": "2|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7556"
+            },
+            "cozycub__Dice__c": "1|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7557"
+            },
+            "cozycub__Dice__c": "1|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7558"
+            },
+            "cozycub__Dice__c": "4|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7559"
+            },
+            "cozycub__Dice__c": "6|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7560"
+            },
+            "cozycub__Dice__c": "2|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef80",
+            "cozycub__Game_Name__c": "Macau The Masters Gx6",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7561"
+            },
+            "cozycub__Dice__c": "3|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7562"
+            },
+            "cozycub__Dice__c": "1|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7563"
+            },
+            "cozycub__Dice__c": "6|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7564"
+            },
+            "cozycub__Dice__c": "5|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7565"
+            },
+            "cozycub__Dice__c": "5|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7566"
+            },
+            "cozycub__Dice__c": "2|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7567"
+            },
+            "cozycub__Dice__c": "6|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7568"
+            },
+            "cozycub__Dice__c": "2|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7569"
+            },
+            "cozycub__Dice__c": "1|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7570"
+            },
+            "cozycub__Dice__c": "5|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7571"
+            },
+            "cozycub__Dice__c": "4|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7572"
+            },
+            "cozycub__Dice__c": "3|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7573"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7574"
+            },
+            "cozycub__Dice__c": "4|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7575"
+            },
+            "cozycub__Dice__c": "4|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7576"
+            },
+            "cozycub__Dice__c": "2|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7577"
+            },
+            "cozycub__Dice__c": "1|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7578"
+            },
+            "cozycub__Dice__c": "1|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7579"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7580"
+            },
+            "cozycub__Dice__c": "4|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7581"
+            },
+            "cozycub__Dice__c": "3|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7582"
+            },
+            "cozycub__Dice__c": "4|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7583"
+            },
+            "cozycub__Dice__c": "4|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7584"
+            },
+            "cozycub__Dice__c": "5|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7585"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7586"
+            },
+            "cozycub__Dice__c": "5|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7587"
+            },
+            "cozycub__Dice__c": "3|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7588"
+            },
+            "cozycub__Dice__c": "6|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7589"
+            },
+            "cozycub__Dice__c": "6|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7590"
+            },
+            "cozycub__Dice__c": "1|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7591"
+            },
+            "cozycub__Dice__c": "3|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7592"
+            },
+            "cozycub__Dice__c": "1|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7593"
+            },
+            "cozycub__Dice__c": "5|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7594"
+            },
+            "cozycub__Dice__c": "4|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7595"
+            },
+            "cozycub__Dice__c": "4|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": 439.92,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7596"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7597"
+            },
+            "cozycub__Dice__c": "2|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7598"
+            },
+            "cozycub__Dice__c": "5|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7599"
+            },
+            "cozycub__Dice__c": "1|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef7600"
+            },
+            "cozycub__Dice__c": "1|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef81",
+            "cozycub__Game_Name__c": "Macau The Masters Gx7",
+            "cozycub__Money__c": -48.88,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        }
+    ]
+}

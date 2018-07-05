@@ -1,0 +1,2604 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3001"
+            },
+            "cozycub__Dice__c": "1|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3002"
+            },
+            "cozycub__Dice__c": "4|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3003"
+            },
+            "cozycub__Dice__c": "5|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3004"
+            },
+            "cozycub__Dice__c": "4|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3005"
+            },
+            "cozycub__Dice__c": "1|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3006"
+            },
+            "cozycub__Dice__c": "2|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3007"
+            },
+            "cozycub__Dice__c": "6|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3008"
+            },
+            "cozycub__Dice__c": "5|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3009"
+            },
+            "cozycub__Dice__c": "6|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3010"
+            },
+            "cozycub__Dice__c": "3|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3011"
+            },
+            "cozycub__Dice__c": "4|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3012"
+            },
+            "cozycub__Dice__c": "6|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3013"
+            },
+            "cozycub__Dice__c": "2|2|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3014"
+            },
+            "cozycub__Dice__c": "2|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3015"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3016"
+            },
+            "cozycub__Dice__c": "6|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3017"
+            },
+            "cozycub__Dice__c": "2|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3018"
+            },
+            "cozycub__Dice__c": "2|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3019"
+            },
+            "cozycub__Dice__c": "4|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3020"
+            },
+            "cozycub__Dice__c": "4|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3021"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3022"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3023"
+            },
+            "cozycub__Dice__c": "6|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3024"
+            },
+            "cozycub__Dice__c": "5|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3025"
+            },
+            "cozycub__Dice__c": "6|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3026"
+            },
+            "cozycub__Dice__c": "3|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3027"
+            },
+            "cozycub__Dice__c": "4|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3028"
+            },
+            "cozycub__Dice__c": "1|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3029"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3030"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3031"
+            },
+            "cozycub__Dice__c": "3|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3032"
+            },
+            "cozycub__Dice__c": "5|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3033"
+            },
+            "cozycub__Dice__c": "2|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3034"
+            },
+            "cozycub__Dice__c": "1|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3035"
+            },
+            "cozycub__Dice__c": "4|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3036"
+            },
+            "cozycub__Dice__c": "5|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3037"
+            },
+            "cozycub__Dice__c": "3|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3038"
+            },
+            "cozycub__Dice__c": "3|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3039"
+            },
+            "cozycub__Dice__c": "4|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3040"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef32",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx4",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3041"
+            },
+            "cozycub__Dice__c": "5|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3042"
+            },
+            "cozycub__Dice__c": "2|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3043"
+            },
+            "cozycub__Dice__c": "2|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3044"
+            },
+            "cozycub__Dice__c": "4|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3045"
+            },
+            "cozycub__Dice__c": "6|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3046"
+            },
+            "cozycub__Dice__c": "5|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3047"
+            },
+            "cozycub__Dice__c": "1|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3048"
+            },
+            "cozycub__Dice__c": "3|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3049"
+            },
+            "cozycub__Dice__c": "3|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3050"
+            },
+            "cozycub__Dice__c": "6|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3051"
+            },
+            "cozycub__Dice__c": "4|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3052"
+            },
+            "cozycub__Dice__c": "6|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3053"
+            },
+            "cozycub__Dice__c": "1|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3054"
+            },
+            "cozycub__Dice__c": "3|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3055"
+            },
+            "cozycub__Dice__c": "2|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3056"
+            },
+            "cozycub__Dice__c": "6|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3057"
+            },
+            "cozycub__Dice__c": "6|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3058"
+            },
+            "cozycub__Dice__c": "3|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3059"
+            },
+            "cozycub__Dice__c": "5|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3060"
+            },
+            "cozycub__Dice__c": "3|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3061"
+            },
+            "cozycub__Dice__c": "3|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3062"
+            },
+            "cozycub__Dice__c": "2|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3063"
+            },
+            "cozycub__Dice__c": "1|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3064"
+            },
+            "cozycub__Dice__c": "6|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3065"
+            },
+            "cozycub__Dice__c": "1|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3066"
+            },
+            "cozycub__Dice__c": "2|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3067"
+            },
+            "cozycub__Dice__c": "4|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3068"
+            },
+            "cozycub__Dice__c": "2|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3069"
+            },
+            "cozycub__Dice__c": "2|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3070"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3071"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3072"
+            },
+            "cozycub__Dice__c": "2|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3073"
+            },
+            "cozycub__Dice__c": "4|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3074"
+            },
+            "cozycub__Dice__c": "5|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3075"
+            },
+            "cozycub__Dice__c": "2|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3076"
+            },
+            "cozycub__Dice__c": "5|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3077"
+            },
+            "cozycub__Dice__c": "6|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3078"
+            },
+            "cozycub__Dice__c": "1|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3079"
+            },
+            "cozycub__Dice__c": "4|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3080"
+            },
+            "cozycub__Dice__c": "4|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3081"
+            },
+            "cozycub__Dice__c": "4|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3082"
+            },
+            "cozycub__Dice__c": "2|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3083"
+            },
+            "cozycub__Dice__c": "2|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3084"
+            },
+            "cozycub__Dice__c": "6|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3085"
+            },
+            "cozycub__Dice__c": "4|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3086"
+            },
+            "cozycub__Dice__c": "5|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3087"
+            },
+            "cozycub__Dice__c": "1|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3088"
+            },
+            "cozycub__Dice__c": "4|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3089"
+            },
+            "cozycub__Dice__c": "2|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3090"
+            },
+            "cozycub__Dice__c": "1|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3091"
+            },
+            "cozycub__Dice__c": "3|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3092"
+            },
+            "cozycub__Dice__c": "2|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3093"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3094"
+            },
+            "cozycub__Dice__c": "5|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3095"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3096"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3097"
+            },
+            "cozycub__Dice__c": "6|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3098"
+            },
+            "cozycub__Dice__c": "5|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3099"
+            },
+            "cozycub__Dice__c": "6|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3100"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3101"
+            },
+            "cozycub__Dice__c": "4|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3102"
+            },
+            "cozycub__Dice__c": "3|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3103"
+            },
+            "cozycub__Dice__c": "5|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3104"
+            },
+            "cozycub__Dice__c": "2|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3105"
+            },
+            "cozycub__Dice__c": "6|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3106"
+            },
+            "cozycub__Dice__c": "1|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3107"
+            },
+            "cozycub__Dice__c": "6|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3108"
+            },
+            "cozycub__Dice__c": "4|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3109"
+            },
+            "cozycub__Dice__c": "3|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3110"
+            },
+            "cozycub__Dice__c": "1|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 7
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3111"
+            },
+            "cozycub__Dice__c": "2|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3112"
+            },
+            "cozycub__Dice__c": "2|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3113"
+            },
+            "cozycub__Dice__c": "5|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3114"
+            },
+            "cozycub__Dice__c": "5|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3115"
+            },
+            "cozycub__Dice__c": "1|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3116"
+            },
+            "cozycub__Dice__c": "2|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3117"
+            },
+            "cozycub__Dice__c": "3|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3118"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3119"
+            },
+            "cozycub__Dice__c": "1|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3120"
+            },
+            "cozycub__Dice__c": "2|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 8
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3121"
+            },
+            "cozycub__Dice__c": "6|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3122"
+            },
+            "cozycub__Dice__c": "6|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3123"
+            },
+            "cozycub__Dice__c": "1|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3124"
+            },
+            "cozycub__Dice__c": "5|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3125"
+            },
+            "cozycub__Dice__c": "5|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3126"
+            },
+            "cozycub__Dice__c": "1|1|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3127"
+            },
+            "cozycub__Dice__c": "2|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3128"
+            },
+            "cozycub__Dice__c": "2|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3129"
+            },
+            "cozycub__Dice__c": "5|4|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3130"
+            },
+            "cozycub__Dice__c": "2|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 9
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3131"
+            },
+            "cozycub__Dice__c": "1|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 116.67,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3132"
+            },
+            "cozycub__Dice__c": "2|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3133"
+            },
+            "cozycub__Dice__c": "4|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3134"
+            },
+            "cozycub__Dice__c": "5|1|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3135"
+            },
+            "cozycub__Dice__c": "1|2|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3136"
+            },
+            "cozycub__Dice__c": "3|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3137"
+            },
+            "cozycub__Dice__c": "6|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 116.67,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3138"
+            },
+            "cozycub__Dice__c": "5|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": 116.67,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3139"
+            },
+            "cozycub__Dice__c": "5|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3140"
+            },
+            "cozycub__Dice__c": "4|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef33",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx5",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 10
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3141"
+            },
+            "cozycub__Dice__c": "1|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3142"
+            },
+            "cozycub__Dice__c": "5|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3143"
+            },
+            "cozycub__Dice__c": "5|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3144"
+            },
+            "cozycub__Dice__c": "2|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3145"
+            },
+            "cozycub__Dice__c": "6|5|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3146"
+            },
+            "cozycub__Dice__c": "5|4|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3147"
+            },
+            "cozycub__Dice__c": "2|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3148"
+            },
+            "cozycub__Dice__c": "4|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3149"
+            },
+            "cozycub__Dice__c": "1|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3150"
+            },
+            "cozycub__Dice__c": "6|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 1
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3151"
+            },
+            "cozycub__Dice__c": "2|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3152"
+            },
+            "cozycub__Dice__c": "3|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3153"
+            },
+            "cozycub__Dice__c": "1|1|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3154"
+            },
+            "cozycub__Dice__c": "5|4|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3155"
+            },
+            "cozycub__Dice__c": "1|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3156"
+            },
+            "cozycub__Dice__c": "6|6|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3157"
+            },
+            "cozycub__Dice__c": "6|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3158"
+            },
+            "cozycub__Dice__c": "3|4|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3159"
+            },
+            "cozycub__Dice__c": "4|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3160"
+            },
+            "cozycub__Dice__c": "5|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 2
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3161"
+            },
+            "cozycub__Dice__c": "6|6|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3162"
+            },
+            "cozycub__Dice__c": "6|2|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3163"
+            },
+            "cozycub__Dice__c": "6|3|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3164"
+            },
+            "cozycub__Dice__c": "2|4|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3165"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3166"
+            },
+            "cozycub__Dice__c": "6|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3167"
+            },
+            "cozycub__Dice__c": "4|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3168"
+            },
+            "cozycub__Dice__c": "1|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3169"
+            },
+            "cozycub__Dice__c": "6|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3170"
+            },
+            "cozycub__Dice__c": "4|6|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 3
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3171"
+            },
+            "cozycub__Dice__c": "2|2|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3172"
+            },
+            "cozycub__Dice__c": "3|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 116.67,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3173"
+            },
+            "cozycub__Dice__c": "4|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3174"
+            },
+            "cozycub__Dice__c": "4|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3175"
+            },
+            "cozycub__Dice__c": "1|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3176"
+            },
+            "cozycub__Dice__c": "4|1|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 116.67,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3177"
+            },
+            "cozycub__Dice__c": "6|2|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3178"
+            },
+            "cozycub__Dice__c": "5|5|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 116.67,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3179"
+            },
+            "cozycub__Dice__c": "3|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3180"
+            },
+            "cozycub__Dice__c": "1|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 4
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3181"
+            },
+            "cozycub__Dice__c": "2|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3182"
+            },
+            "cozycub__Dice__c": "6|4|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3183"
+            },
+            "cozycub__Dice__c": "1|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3184"
+            },
+            "cozycub__Dice__c": "1|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3185"
+            },
+            "cozycub__Dice__c": "3|5|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3186"
+            },
+            "cozycub__Dice__c": "4|6|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 200,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3187"
+            },
+            "cozycub__Dice__c": "6|2|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3188"
+            },
+            "cozycub__Dice__c": "4|3|1",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3189"
+            },
+            "cozycub__Dice__c": "6|3|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3190"
+            },
+            "cozycub__Dice__c": "3|3|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 5
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3191"
+            },
+            "cozycub__Dice__c": "4|6|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef7",
+            "cozycub__Player_Name__c": "Gonzalez",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3192"
+            },
+            "cozycub__Dice__c": "3|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef1",
+            "cozycub__Player_Name__c": "Yolanda",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3193"
+            },
+            "cozycub__Dice__c": "1|5|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef8",
+            "cozycub__Player_Name__c": "Diva",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3194"
+            },
+            "cozycub__Dice__c": "1|5|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef9",
+            "cozycub__Player_Name__c": "Bo",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3195"
+            },
+            "cozycub__Dice__c": "2|5|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef4",
+            "cozycub__Player_Name__c": "Richard",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3196"
+            },
+            "cozycub__Dice__c": "2|3|4",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3197"
+            },
+            "cozycub__Dice__c": "2|3|2",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef3",
+            "cozycub__Player_Name__c": "Ricky",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3198"
+            },
+            "cozycub__Dice__c": "4|1|3",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef5",
+            "cozycub__Player_Name__c": "Oscar",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3199"
+            },
+            "cozycub__Dice__c": "4|1|5",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": -50,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef6",
+            "cozycub__Player_Name__c": "Jeff",
+            "cozycub__Round__c": 6
+        },
+        {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef3200"
+            },
+            "cozycub__Dice__c": "3|6|6",
+            "cozycub__Game_Id__c": "@cozycub__Game__cRef34",
+            "cozycub__Game_Name__c": "Singapore The Masters Gx6",
+            "cozycub__Money__c": 450,
+            "cozycub__Player_Id__c": "@cozycub__Player__cRef10",
+            "cozycub__Player_Name__c": "Alex",
+            "cozycub__Round__c": 6
+        }
+    ]
+}

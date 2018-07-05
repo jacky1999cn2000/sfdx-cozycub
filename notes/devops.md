@@ -31,8 +31,48 @@
 * data export
     * command 
     `sfdx force:data:tree:export --query "SELECT cozycub__Bet__c,cozycub__Finished__c,cozycub__Round__c,Id,Name FROM cozycub__Game__c ORDER BY CREATEDDATE" --prefix data --outputdir data --plan`
+
+* data import
     * [how to use refs](https://www.linkedin.com/pulse/salesforce-dx-export-data-jean-noel-casassus/)
-    * each batch can't exceed 200 records
+    * if records <= 200 (maximum is 200 per batch), use the standard method:
+        * in `cozycub__Round_Dashboard__c`'s plan json file, use the following content:
+        ```
+        [
+            {
+                "sobject": "cozycub__Player__c",
+                "saveRefs": true,
+                "resolveRefs": false,
+                "files": [
+                    "data-cozycub__Player__cs.json"
+                ]
+            },
+            {
+                "sobject": "cozycub__Game__c",
+                "saveRefs": true,
+                "resolveRefs": false,
+                "files": [
+                    "data-cozycub__Game__cs.json"
+                ]
+            },
+            {
+                "sobject": "cozycub__Round_Dashboard__c",
+                "saveRefs": false,
+                "resolveRefs": true,
+                "files": [
+                    "data-cozycub__Round_Dashboard__cs.json"
+                ]
+            }
+        ]
+        ```
+        * run the following command for data import (rebuild.sh) - this would first import Player records, then Game records, and then Round_Dashboard records
+        ```
+        (cd $PROJECT_ROOT && exec sfdx force:data:tree:import \
+                               --plan ./data/data-cozycub__Round_Dashboard__c-plan.json \
+                               --targetusername $SCRATCH_ORG_ALIAS \
+                               --loglevel error)
+        ``` 
+    * if records > 200 - we can't use the solution above since each command would re-insert Player/Game records, therefore, I used the following method:
+        
 
 * tips
     * [use nodemon to auto save/push](https://ntotten.com/2018/01/17/using-nodemon-to-autopush-sfdx-project-changes/)
