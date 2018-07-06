@@ -34,7 +34,7 @@ confirmScriptExecution "Do you want to rebuild your scratch org?"
 #### SCRATCH ORG SETUP (DELETE/CREATE/PUSH) ########################################################
 #
 # 0. Reset the Step Message counter and set the TOTAL STEPS to 5.
-resetStepMsgCounter 6
+resetStepMsgCounter 7
 
 # 1. Delete the current scratch org.
 echoStepMsg "Delete the $SCRATCH_ORG_ALIAS scratch org"
@@ -138,6 +138,21 @@ fi
 
 done
 
+# 7. Update test data
+echoStepMsg "Update test data"
+echo \
+"Executing force:apex:execute \\
+           --apexcodefile ./dev-tools/apex/UpdateTestData.txt \\
+           --targetusername $SCRATCH_ORG_ALIAS \\
+           --loglevel error)\n"
+(cd $PROJECT_ROOT && exec sfdx force:apex:execute \
+                               --apexcodefile ./dev-tools/apex/UpdateTestData.txt \
+                               --targetusername $SCRATCH_ORG_ALIAS \
+                               --loglevel error)
+if [ $? -ne 0 ]; then
+ echoErrorMsg "Update test data failed. Aborting Script."
+ exit 1
+fi
 
 #
 #

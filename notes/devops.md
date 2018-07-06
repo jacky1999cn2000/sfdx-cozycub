@@ -71,7 +71,39 @@
                                --targetusername $SCRATCH_ORG_ALIAS \
                                --loglevel error)
         ``` 
-    * if records > 200 - we can't use the solution above since each command would re-insert Player/Game records, therefore, I used the following method:
+    * if records > 200 (which is our use case for `cozycub__Round_Dashboard__c` records) - we can't use the solution above since each command would re-insert Player/Game records, therefore, I used the following method:
+        * in `cozycub__Round_Dashboard__c`'s plan json file, use the following content:
+        ```
+        [
+            {
+                "sobject": "cozycub__Round_Dashboard__c",
+                "saveRefs": false,
+                "resolveRefs": false,
+                "files": [
+                    "data-cozycub__Round_Dashboard_batch1__cs.json"
+                ]
+            }
+        ]
+        ```
+        * in `cozycub__Round_Dashboard__c`'s data json file, use dummy values for `cozycub__Game_Id__c` and `cozycub__Player_Id__c`:
+        ```
+         {
+            "attributes": {
+                "type": "cozycub__Round_Dashboard__c",
+                "referenceId": "cozycub__Round_Dashboard__cRef1"
+            },
+            "cozycub__Dice__c": "1|5|6",
+            "cozycub__Game_Id__c": "@Game__cRef1",
+            "cozycub__Game_Name__c": "Las Vegas World Series Gx1",
+            "cozycub__Money__c": -20,
+            "cozycub__Player_Id__c": "@Player__cRef2",
+            "cozycub__Player_Name__c": "Summer",
+            "cozycub__Round__c": 1
+        }
+        ```
+        * in `rebuild-scratch-org` script, added step 7 to run anonymous apex to update `cozycub__Game_Id__c` and `cozycub__Player_Id__c` fields
+            * the anonymous apex would start a batch job 
+            * the batch class was put under `unpackaged` folder, so it won't be included in final package (only for testing usage)
         
 
 * tips
