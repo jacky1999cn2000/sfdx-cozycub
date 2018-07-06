@@ -111,7 +111,7 @@
     * [remove already added hidden directory from git](https://stackoverflow.com/questions/35026376/git-to-ignore-a-hidden-directory-in-the-local-repo)
 
 * resources
-    ​* sfdx-falcon:
+    * sfdx-falcon:
         * [sfdx-falcon-template](https://github.com/sfdx-isv/sfdx-falcon-template)
         * [sfdx-falcon-demo](https://github.com/sfdx-isv/sfdx-falcon-demo)
         * [SFDriveWealth_SFDX](https://github.com/jrattanpal/SFDriveWealth_SFDX)
