@@ -113,7 +113,7 @@ if [ $? -ne 0 ]; then
 fi
 
 counter=1
-while [ $counter -lt 3 ]
+while [ $counter -lt 40 ]
 
 do
 
