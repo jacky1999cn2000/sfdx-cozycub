@@ -54,7 +54,7 @@
     <enableStreamingApi>false</enableStreamingApi>
     <label>Round Dashboard</label>
     <nameField>
-        <displayFormat>RD-{0}</displayFormat>
+        <displayFormat>RD-{00000000}</displayFormat>
         <label>Round Dashboard Name</label>
         <type>AutoNumber</type>
     </nameField>
