@@ -1,0 +1,25 @@
+<aura:component description="Main Container" implements="flexipage:availableForAllPageTypes" access="global">
+
+    <ltng:require scripts="{!$Resource.AuraPromise}" styles="{!$Resource.animated}" afterScriptsLoaded="{!c.init}" />
+
+    <lightning:tabset variant="scoped">
+
+        <lightning:tab label="Game Room">
+
+            <c:GameSetupContainer/>
+
+        </lightning:tab>
+
+        <lightning:tab label="Game Dashboard">
+            
+            <c:GameDashboardContainer/>
+
+        </lightning:tab>
+
+        <lightning:tab label="Player Dashboard">
+            Player Dashboard
+        </lightning:tab>
+
+    </lightning:tabset>
+
+</aura:component>	

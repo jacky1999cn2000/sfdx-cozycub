@@ -1,7 +1,5 @@
 <aura:component description="Game Setup Container" implements="flexipage:availableForAllPageTypes" access="global" controller="GameSetupController">
     
-    <ltng:require scripts="{!$Resource.AuraPromise}" styles="{!$Resource.animated}" afterScriptsLoaded="{!c.init}" />
-
     <aura:attribute name="gameon" type="Boolean" default="false"/>
 
     <aura:attribute name="gameId" type="String" default=""/>
@@ -16,57 +14,18 @@
     <aura:registerEvent name="GameEvent" type="c:GameEvent"/>
     <aura:handler name="GameEvent" event="c:GameEvent" action="{!c.handleGameEvent}"/>
 
-    <lightning:tabset variant="scoped">
-        <lightning:tab label="Game Room">
+    <div class="slds-grid slds-grid_vertical">
 
-            <div class="slds-grid slds-grid_vertical">
+        <!-- header -->
+        <div class="slds-col slds-p-bottom_small slds-border_bottom"> 
+            <c:GameHeader gameon="{!v.gameon}" name="{!v.name}" currentRound="{!v.currentRound}" round="{!v.round}" bet="{!v.bet}"/>
+        </div>
 
-                <!-- header -->
-                <div class="slds-col slds-p-bottom_small slds-border_bottom"> 
-                    <c:GameHeader gameon="{!v.gameon}" name="{!v.name}" currentRound="{!v.currentRound}" round="{!v.round}" bet="{!v.bet}"/>
-                </div>
+        <!-- content -->
+        <div class="slds-col slds-p-top_medium">
+            <c:Players gameon="{!v.gameon}" players="{!v.players}"/>
+        </div>
 
-                <!-- content -->
-                <div class="slds-col slds-p-top_medium">
-                    <c:Players gameon="{!v.gameon}" players="{!v.players}"/>
-                </div>
-
-            </div>
-
-        </lightning:tab>
-
-        <lightning:tab label="Game Dashboard">
-            
-            <div class="slds-grid">
-                <div class="slds-col slds-size_7-of-12">
-
-                        <div class="slds-form-element">
-                            <div class="slds-form-element__control slds-input-has-icon slds-input-has-icon_left-right">
-                                <lightning:icon iconName="standard:search" size="x-small" class="slds-icon slds-input__icon slds-input__icon_left slds-icon-text-default"/>
-                                <input type="text" aura:id="searchtext" class="slds-input" style="height:40px;" placeholder="Enter Keyword Here..." />
-                                <div class="slds-input__icon-group slds-input__icon-group_right">
-                                    <div role="status" class="slds-spinner slds-spinner_brand slds-spinner_x-small slds-input__spinner">
-                                        <div class="slds-spinner__dot-a"></div>
-                                        <div class="slds-spinner__dot-b"></div>
-                                    </div>
-                                    <button class="slds-input__icon slds-input__icon_right slds-button slds-button_icon">
-                                        <lightning:icon iconName="utility:clear" size="xx-small" class="slds-button__icon slds-icon-text-light"/>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-
-                </div>
-                <div class="slds-col slds-size_5-of-12">
-                    <span>2</span>
-                </div>
-            </div>
-
-        </lightning:tab>
-
-        <lightning:tab label="Player Dashboard">
-            Player Dashboard
-        </lightning:tab>
-     </lightning:tabset>
+    </div>
 
 </aura:component>
