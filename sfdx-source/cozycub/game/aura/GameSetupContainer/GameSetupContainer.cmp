@@ -33,13 +33,14 @@
 
             </div>
 
-            
-            <!-- <c:UtilDropDownWithFilter/> -->
-            <!-- <c:ChallengeCreator aura:id="gamecreator"/> -->
-            
         </lightning:tab>
-        <lightning:tab label="Dashboard">
-            Actions
+
+        <lightning:tab label="Game Dashboard">
+            Game Dashboard
+        </lightning:tab>
+
+        <lightning:tab label="Player Dashboard">
+            Player Dashboard
         </lightning:tab>
      </lightning:tabset>
 
