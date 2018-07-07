@@ -1,2 +1,4 @@
-.THIS {
+@font-face {
+    font-family: 'customFont';
+    src: url(/resource/customFont);
 }

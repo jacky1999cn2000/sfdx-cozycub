@@ -5,7 +5,18 @@
 
                 <c:SearchBar/>
 
-                <c:GameItemPanel/>
+                <div class="slds-grid">
+                    <div class="slds-col slds-size_1-of-12">
+                        <c:ArrowLeft/>
+                    </div>
+                    <div class="slds-col slds-size_10-of-12">
+                        <c:GameItemPanel/>
+                    </div>
+                    <div class="slds-col slds-size_1-of-12">
+                        <c:ArrowRight/>
+                    </div>
+                </div>
+                
 
             </div>
             
