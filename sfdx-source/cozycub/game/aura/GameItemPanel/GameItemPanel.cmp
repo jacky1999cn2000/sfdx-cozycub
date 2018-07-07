@@ -1,3 +1,18 @@
-<aura:component>
+<aura:component description="Game Item Panel" implements="flexipage:availableForAllPageTypes" access="global">
+
+        <div class="slds-grid slds-wrap">
+            <div class="slds-col slds-size_4-of-12">
+                <c:GameItem name="San Francisco The Masters" round="3" bet="10" selected='false'/>
+            </div>
+            <div class="slds-col slds-size_4-of-12">
+                <c:GameItem name="Monte Carlo The Masters Gx3" round="3" bet="20" selected='true'/>
+            </div>
+            <div class="slds-col slds-size_4-of-12">
+                <c:GameItem name="Las Vegas World Series Gx1" round="3" bet="30" selected='false'/>
+            </div>
+            <div class="slds-col slds-size_4-of-12">
+                <c:GameItem name="Las Vegas World Series Gx2" round="3" bet="40" selected='false'/>
+            </div>
+        </div>
 
 </aura:component>	

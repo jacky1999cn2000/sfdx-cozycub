@@ -6,8 +6,6 @@
         var moneybags = component.get('v.moneybags');
         var card = component.find('card');
 
-        console.log('moneybags ',moneybags);
-
         if(bet <= 10){
             moneybags = [1];
         }else if(bet <= 20){

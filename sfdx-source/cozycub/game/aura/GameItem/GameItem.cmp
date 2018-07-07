@@ -1,4 +1,4 @@
-<aura:component description="Players" implements="flexipage:availableForAllPageTypes" access="global">
+<aura:component description="Game Item" implements="flexipage:availableForAllPageTypes" access="global">
 
     <aura:attribute name="name" type="String"/>
     <aura:attribute name="round" type="Integer"/>
