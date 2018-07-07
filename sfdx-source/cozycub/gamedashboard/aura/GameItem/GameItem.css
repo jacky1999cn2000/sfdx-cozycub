@@ -9,12 +9,17 @@
     border-width: 3px;
 }
 
+.THIS .titlecontainer {
+    text-overflow: ellipsis; 
+    overflow: hidden;
+    white-space: nowrap; 
+}
+
 .THIS .title {
     font-family: 'customFont';
     font-size: 20px;
     color: black;
-    text-align: center;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .THIS .content-info {

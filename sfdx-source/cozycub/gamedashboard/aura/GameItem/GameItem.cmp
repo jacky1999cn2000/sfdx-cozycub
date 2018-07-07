@@ -12,7 +12,7 @@
     <div aura:id="card">
         <lightning:card>
             <aura:set attribute="title">
-                <lightning:icon iconName="standard:reward" size="small"/> <span class="title">{!v.name}</span>
+                 <div class="titlecontainer"><lightning:icon iconName="standard:reward" size="small"/><span class="title">{!v.name}</span></div>
             </aura:set>
     
             <aura:set attribute="footer">
