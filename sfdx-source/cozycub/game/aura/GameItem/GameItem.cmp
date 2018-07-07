@@ -1,0 +1,40 @@
+<aura:component description="Players" implements="flexipage:availableForAllPageTypes" access="global">
+
+    <aura:attribute name="name" type="String"/>
+    <aura:attribute name="round" type="Integer"/>
+    <aura:attribute name="bet" type="Decimal"/>
+
+    <aura:attribute name="selected" type="Boolean"/>
+    <aura:attribute name="moneybags" type="Integer[]" default="[]"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+
+    <div aura:id="card">
+        <lightning:card>
+            <aura:set attribute="title">
+                <lightning:icon iconName="standard:reward" size="small"/> <span class="title">{!v.name}</span>
+            </aura:set>
+    
+            <aura:set attribute="footer">
+                <aura:iteration items="{!v.moneybags}" var="moneybag">
+                    <lightning:icon iconName="utility:moneybag" size="x-small"/>
+                </aura:iteration>
+            </aura:set>
+
+            <div class="slds-grid">
+                <div class="slds-col slds-size_2-of-12">
+                </div>
+                <div class="slds-col slds-size_4-of-12">
+                    <span class="content-info">Bet: ${!v.bet}</span>
+                </div>
+                <div class="slds-col slds-size_4-of-12">
+                    <span class="content-info">Rounds: {!v.round}</span>
+                </div>
+                <div class="slds-col slds-size_2-of-12">
+                </div>
+            </div>
+        </lightning:card>
+    </div>
+    
+
+</aura:component>	

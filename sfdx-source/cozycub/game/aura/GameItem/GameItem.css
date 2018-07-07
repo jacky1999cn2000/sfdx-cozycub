@@ -1,0 +1,26 @@
+.THIS {
+    box-shadow: 10px 10px 5px grey;
+    margin: 8px;
+}
+
+.THIS.selected {
+    border: solid;
+    border-color: tomato;
+    border-width: 3px;
+}
+
+.THIS .title {
+    font-family: 'customFont';
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.THIS .content-info {
+    font-family: 'customFont';
+    font-size: 16px;
+    color: slategrey;
+    text-align: center;
+    margin-left: 5px;
+}
