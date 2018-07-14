@@ -1,10 +1,13 @@
 <aura:component description="Arrow Rright" implements="flexipage:availableForAllPageTypes" access="global">
 
+    <aura:attribute name="startIndex" type="Integer"/>
+    <aura:attribute name="endIndex" type="Integer"/>
+
     <div class="slds-grid slds-grid_vertical-align-center" style="height:600px">
         <div class="slds-col">
             <div class="slds-grid slds-grid_align-center">
                 <div class="slds-col">
-                    <lightning:buttonIcon iconName="utility:right" size="large" variant="bare"/>
+                    <lightning:buttonIcon iconName="utility:right" size="large" variant="bare" onclick="{!c.next}"/>
                 </div>
             </div>
         </div>

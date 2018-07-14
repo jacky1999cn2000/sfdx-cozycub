@@ -28,6 +28,7 @@
 
                 component.set('v.originalList', originalList);
                 component.set('v.filteredList', filteredList);
+                component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
 
                 action.setParams({'limitValue': 200, 'offsetValue': result.offset});
                 return AuraPromise.serverSideCall(action, component);
@@ -44,6 +45,7 @@
 
             component.set('v.originalList', originalList);
             component.set('v.filteredList', filteredList);
+            component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
 
         }).catch(function(error) {
             console.log('Error: ' + error);
