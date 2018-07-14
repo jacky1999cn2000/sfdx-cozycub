@@ -1,5 +1,53 @@
 ({
-    myAction : function(component, event, helper) {
+    init : function(component, event, helper) {
 
+        /*
+            I'd like to query all games from backend to frontend so that I can apply dynamic filtering later; 
+            in order to do it, I used AuraPromise.while() here - it worked fine for test data (82 records);
+            however, it sometimes seemed not very stable (would stuck) - probably better to use lightning event in real scenario?
+        */
+
+       var originalList = [];
+       var filteredList = [];
+
+        var action = component.get('c.getGames');
+        action.setParams({'limitValue': 200, 'offsetValue': 0});
+
+        AuraPromise.serverSideCall(action, component).while(
+            function(result){
+                return result.hasMore;
+            },
+            function(result){
+
+                var game_array = JSON.parse(result.games);
+
+                for(var i = 0; i < game_array.length; i++){
+                    originalList.push(game_array[i]);
+                    filteredList.push(game_array[i]);
+                }
+
+                component.set('v.originalList', originalList);
+                component.set('v.filteredList', filteredList);
+
+                action.setParams({'limitValue': 200, 'offsetValue': result.offset});
+                return AuraPromise.serverSideCall(action, component);
+            }
+        )
+        .then(function(result) {
+
+            var game_array = JSON.parse(result.games);
+
+            for(var i = 0; i < game_array.length; i++){
+                originalList.push(game_array[i]);
+                filteredList.push(game_array[i]);
+            }
+
+            component.set('v.originalList', originalList);
+            component.set('v.filteredList', filteredList);
+
+        }).catch(function(error) {
+            console.log('Error: ' + error);
+        });
+        
     }
 })

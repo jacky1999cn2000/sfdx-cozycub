@@ -3,6 +3,10 @@
     margin: 8px;
 }
 
+.THIS:hover{
+    cursor: pointer;
+}
+
 .THIS.selected {
     border: solid;
     border-color: tomato;
