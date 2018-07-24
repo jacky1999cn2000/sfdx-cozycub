@@ -1,10 +1,15 @@
 <aura:component description="Arrow Left" implements="flexipage:availableForAllPageTypes" access="global">
 
+    <aura:attribute name="startIndex" type="Integer"/>
+    <aura:attribute name="endIndex" type="Integer"/>
+
     <div class="slds-grid slds-grid_vertical-align-center" style="height:600px">
         <div class="slds-col">
             <div class="slds-grid slds-grid_align-center">
                 <div class="slds-col">
-                    <lightning:buttonIcon iconName="utility:left" size="large" variant="bare"/>
+                    <aura:if isTrue="{!v.startIndex > 0}">
+                        <lightning:buttonIcon iconName="utility:left" size="large" variant="bare" onclick="{!c.back}"/>
+                    </aura:if>
                 </div>
             </div>
         </div>

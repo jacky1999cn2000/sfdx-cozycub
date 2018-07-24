@@ -2,12 +2,15 @@
 
     <aura:attribute name="startIndex" type="Integer"/>
     <aura:attribute name="endIndex" type="Integer"/>
+    <aura:attribute name="totalRecords" type="Integer"/>
 
     <div class="slds-grid slds-grid_vertical-align-center" style="height:600px">
         <div class="slds-col">
             <div class="slds-grid slds-grid_align-center">
                 <div class="slds-col">
-                    <lightning:buttonIcon iconName="utility:right" size="large" variant="bare" onclick="{!c.next}"/>
+                    <aura:if isTrue="{!v.totalRecords > v.endIndex}">
+                        <lightning:buttonIcon iconName="utility:right" size="large" variant="bare" onclick="{!c.next}"/>
+                    </aura:if>
                 </div>
             </div>
         </div>
