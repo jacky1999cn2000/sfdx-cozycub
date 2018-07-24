@@ -17,7 +17,7 @@
     
             <aura:set attribute="footer">
                 <aura:iteration items="{!v.moneybags}" var="moneybag">
-                    <lightning:icon iconName="utility:moneybag" size="x-small"/>
+                    <lightning:icon class="icn" iconName="utility:moneybag" size="x-small"/>
                 </aura:iteration>
             </aura:set>
 
