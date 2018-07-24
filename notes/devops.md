@@ -10,7 +10,7 @@
 
 * orgs for this project
     * devhub org
-        * username: jay.zhao.sfdc999.2@gmail.com
+        * username: jay.zhao.sfdc999.3@gmail.com
         * password: ba7**H
         * connect CLI to packaging org: `sfdx force:auth:web:login -d -a DevHub`
 
