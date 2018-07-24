@@ -18,7 +18,7 @@
                         <c:ArrowLeft startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" />
                     </div>
                     <div class="slds-col slds-size_10-of-12">
-                        <c:GameItemPanel gameList="{!v.filteredList}"/>
+                        <c:GameItemPanel gameList="{!v.filteredList}" startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" />
                     </div>
                     <div class="slds-col slds-size_1-of-12">
                         <c:ArrowRight startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" totalRecords="{!v.filteredList.length}" />
