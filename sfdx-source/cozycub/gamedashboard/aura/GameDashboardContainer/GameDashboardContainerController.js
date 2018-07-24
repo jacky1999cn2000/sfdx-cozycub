@@ -51,5 +51,21 @@
             console.log('Error: ' + error);
         });
         
+    },
+
+    keywordChanged : function(component, event, helper) {
+
+        console.log('keywordChanged');
+
+        var keyword = component.get('v.keyword');
+        var originalList = component.get('v.originalList');
+
+        component.set('v.spinning', true);
+
+        var filteredList = originalList.filter(function(game) {
+            return game.name.toUpperCase().indexOf(keyword.toUpperCase()) != -1;
+        });
+
+        component.set('v.filteredList', filteredList);
     }
 })

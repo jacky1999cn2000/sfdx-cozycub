@@ -1,17 +1,30 @@
 <aura:component implements="flexipage:availableForAllPageTypes" access="global">
 
+    <aura:attribute name="keyword" type="String"/>
+    <aura:attribute name="spinning" type="Boolean" default="false"/>
+
     <div class="slds-form-element">
         <div class="slds-form-element__control slds-input-has-icon slds-input-has-icon_left-right">
+            
             <lightning:icon iconName="utility:search" size="x-small" class="slds-icon slds-input__icon slds-input__icon_left slds-icon-text-default"/>
-            <input type="text" aura:id="searchtext" class="slds-input" style="height:40px;" placeholder="Enter Keyword Here..." />
+            
+            <input type="text" aura:id="searchtext" class="slds-input" style="height:40px;" placeholder="Enter Keyword Here..." value="{!v.keyword}" onkeyup="{!c.onkeyup}"/>
+           
             <div class="slds-input__icon-group slds-input__icon-group_right">
-                <div role="status" class="slds-spinner slds-spinner_brand slds-spinner_x-small slds-input__spinner">
-                    <div class="slds-spinner__dot-a"></div>
-                    <div class="slds-spinner__dot-b"></div>
-                </div>
-                <button class="slds-input__icon slds-input__icon_right slds-button slds-button_icon">
-                    <lightning:icon iconName="utility:clear" size="xx-small" class="slds-button__icon slds-icon-text-light"/>
-                </button>
+
+                <aura:if isTrue="{!v.spinning}">
+                    <div role="status" class="slds-spinner slds-spinner_brand slds-spinner_x-small slds-input__spinner">
+                        <div class="slds-spinner__dot-a"></div>
+                        <div class="slds-spinner__dot-b"></div>
+                    </div>
+                </aura:if>
+                
+                <aura:if isTrue="{!and(v.keyword != null, v.keyword != '')}">
+                    <button class="slds-input__icon slds-input__icon_right slds-button slds-button_icon">
+                        <lightning:icon iconName="utility:clear" size="xx-small" class="slds-button__icon slds-icon-text-light"/>
+                    </button>
+                </aura:if>
+
             </div>
         </div>
     </div>
