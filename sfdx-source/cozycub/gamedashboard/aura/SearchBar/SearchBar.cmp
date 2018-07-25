@@ -20,7 +20,7 @@
                 </aura:if>
                 
                 <aura:if isTrue="{!and(v.keyword != null, v.keyword != '')}">
-                    <button class="slds-input__icon slds-input__icon_right slds-button slds-button_icon">
+                    <button class="slds-input__icon slds-input__icon_right slds-button slds-button_icon" onclick="{!c.clear}">
                         <lightning:icon iconName="utility:clear" size="xx-small" class="slds-button__icon slds-icon-text-light"/>
                     </button>
                 </aura:if>

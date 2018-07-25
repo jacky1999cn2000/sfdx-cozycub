@@ -11,5 +11,9 @@
         setTimeout(function(){
             component.set('v.spinning', false);
         }, 500);
-    }
+    },
+
+    clear : function(component, event, helper) {
+        component.set('v.keyword', '');
+    },
 })
