@@ -30,5 +30,14 @@
 
         component.set('v.moneybags',moneybags);
 
+    },
+
+    select : function(component, event, helper) {
+        var selectionEvent = component.getEvent("SelectionEvent");
+        if(selectionEvent != null) {
+            selectionEvent.setParam("gameId", component.get('v.gameId'));
+            // fire the event
+            selectionEvent.fire();                            
+        }
     }
 })

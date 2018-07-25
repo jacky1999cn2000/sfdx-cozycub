@@ -3,13 +3,24 @@
         <aura:attribute name="gameList" type="List"/>
         <aura:attribute name="startIndex" type="Integer"/>
         <aura:attribute name="endIndex" type="Integer"/>
+        <aura:attribute name="selectedGameId" type="String"/>
+
+        <aura:handler name="SelectionEvent" event="c:SelectionEvent" action="{!c.handleSelectionEvent}"/>
 
         <div class="slds-grid slds-wrap">
             <aura:iteration items="{!v.gameList}" var="item" indexVar="index">
                 <aura:if isTrue="{!and(index >= v.startIndex, v.endIndex > index)}">
-                    <div class="slds-col slds-size_4-of-12">
-                        <c:GameItem gameId="{!item.gameId}" name="{!item.name}" round="{!item.round}" bet="{!item.bet}" selected='false'/>
-                    </div>
+                    <aura:if isTrue="{!item.gameId == v.selectedGameId}">
+                            <div class="slds-col slds-size_4-of-12">
+                                <c:GameItem gameId="{!item.gameId}" name="{!item.name}" round="{!item.round}" bet="{!item.bet}" selected='true'/>
+                            </div>
+                        <aura:set attribute="else">
+                            <div class="slds-col slds-size_4-of-12">
+                                <c:GameItem gameId="{!item.gameId}" name="{!item.name}" round="{!item.round}" bet="{!item.bet}" selected='false'/>
+                            </div>
+                        </aura:set>        
+                    </aura:if>  
+                    
                 </aura:if>
                 
             </aura:iteration>

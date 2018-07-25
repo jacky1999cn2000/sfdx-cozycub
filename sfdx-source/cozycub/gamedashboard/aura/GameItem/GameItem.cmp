@@ -10,7 +10,9 @@
 
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
 
-    <div aura:id="card">
+    <aura:registerEvent name="SelectionEvent" type="c:SelectionEvent"/>
+
+    <div aura:id="card" onclick="{!c.select}">
         <lightning:card>
             <aura:set attribute="title">
                  <div class="titlecontainer"><lightning:icon iconName="standard:reward" size="small"/><span class="title">{!v.name}</span></div>
