@@ -8,7 +8,7 @@
             <aura:iteration items="{!v.gameList}" var="item" indexVar="index">
                 <aura:if isTrue="{!and(index >= v.startIndex, v.endIndex > index)}">
                     <div class="slds-col slds-size_4-of-12">
-                        <c:GameItem name="{!item.name}" round="{!item.round}" bet="{!item.bet}" selected='false'/>
+                        <c:GameItem gameId="{!item.gameId}" name="{!item.name}" round="{!item.round}" bet="{!item.bet}" selected='false'/>
                     </div>
                 </aura:if>
                 

@@ -1,5 +1,6 @@
 <aura:component description="Game Item" implements="flexipage:availableForAllPageTypes" access="global">
 
+    <aura:attribute name="gameId" type="String"/>
     <aura:attribute name="name" type="String"/>
     <aura:attribute name="round" type="Integer"/>
     <aura:attribute name="bet" type="Decimal"/>
