@@ -2,6 +2,7 @@
 
         <aura:attribute name="startIndex" type="Integer" default="0"/>
         <aura:attribute name="endIndex" type="Integer"/>
+        <aura:attribute name="totalPages" type="Integer"/>
     
         <aura:attribute name="originalList" type="List"/>
         <aura:attribute name="filteredList" type="List"/>
@@ -30,7 +31,7 @@
                 
                 <div class="slds-grid slds-grid_align-center">
                     <div class="slds-col">
-                        <span>{!v.startIndex} ---- {!v.endIndex}</span>
+                        <span class="pages">{!v.startIndex/12 + 1} of {!v.totalPages}</span>
                     </div>
                 </div>
 

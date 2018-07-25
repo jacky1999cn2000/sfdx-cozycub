@@ -1,3 +1,9 @@
 .THIS .gamepanel {
     margin-top: 5px;
 }
+
+.THIS .pages {
+    font-family: 'customFont';
+    font-size: 14px;
+    color: black;
+}

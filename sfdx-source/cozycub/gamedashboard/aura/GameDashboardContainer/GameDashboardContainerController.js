@@ -46,6 +46,7 @@
             component.set('v.originalList', originalList);
             component.set('v.filteredList', filteredList);
             component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
+            component.set('v.totalPages', Math.ceil(filteredList.length/12));
 
         }).catch(function(error) {
             console.log('Error: ' + error);
@@ -67,5 +68,6 @@
         });
 
         component.set('v.filteredList', filteredList);
+        component.set('v.totalPages', Math.ceil(filteredList.length/12));
     }
 })
