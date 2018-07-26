@@ -10,21 +10,5 @@
             suffix = 'th';
         }
         component.set('v.suffix', suffix);
-    },
-
-    onmouseenter : function(component, event, helper) {
-        var rn_elem = component.find('rn_elem');
-
-        if(!$A.util.hasClass(rn_elem, "animated bounce")){
-            $A.util.addClass(rn_elem, 'animated bounce'); 
-        }
-    },
-
-    onmouseout : function(component, event, helper) {
-        var rn_elem = component.find('rn_elem');
-        
-        if($A.util.hasClass(rn_elem, "animated bounce")){
-            $A.util.removeClass(rn_elem, 'animated bounce');
-        }
     }
 })
