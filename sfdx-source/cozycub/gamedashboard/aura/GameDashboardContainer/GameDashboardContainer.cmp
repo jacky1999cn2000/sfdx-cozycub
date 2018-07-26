@@ -36,6 +36,12 @@
                 </div>
 
             </div>
+
+            <div class="slds-col slds-size_5-of-12">
+
+                <c:DashboardPanel/>
+
+            </div>
             
         </div>
 

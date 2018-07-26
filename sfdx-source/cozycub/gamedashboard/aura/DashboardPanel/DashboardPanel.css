@@ -1,0 +1,44 @@
+.THIS {
+    margin-top: 50px;
+    margin-left: 5px;
+    
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.THIS .card-container{
+    height: 540px;
+    perspective: 600;
+    position: relative;
+}
+
+.THIS .card {
+    height: 100%;
+    position: absolute;
+    transform-style: preserve-3d;
+    transition: all 1s ease-in-out;
+    width: 100%;
+}
+
+
+.THIS .card:hover {
+    transform: rotateY(180deg);
+}
+
+.THIS .card .side {
+    backface-visibility: hidden;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+
+    background: grey;
+}
+
+.THIS .card .back {
+    transform: rotateY(180deg);
+
+    background: grey;
+}
