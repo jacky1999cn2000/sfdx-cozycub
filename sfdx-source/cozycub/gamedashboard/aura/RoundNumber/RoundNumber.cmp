@@ -1,0 +1,10 @@
+<aura:component>
+    
+    <aura:attribute name="round" type="Integer"/>
+    <aura:attribute name="suffix" type="String"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+
+    <div aura:id="rn_elem" onmouseenter="{!c.onmouseenter}" onmouseout="{!c.onmouseout}">{!v.round}<span class="suffix">{!v.suffix}</span></div>
+
+</aura:component>	

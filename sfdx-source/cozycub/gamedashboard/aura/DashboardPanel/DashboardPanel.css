@@ -8,6 +8,20 @@
     border-color: black;
 }
 
+.THIS .rounds{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.THIS .round{
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+    font-family: 'customFont';
+    font-size: 18px;
+    color: black;
+}
+
 .THIS .card-container{
     height: 540px;
     perspective: 600;
@@ -15,11 +29,11 @@
 }
 
 .THIS .card {
-    height: 100%;
+    height: 80%;
     position: absolute;
     transform-style: preserve-3d;
     transition: all 1s ease-in-out;
-    width: 100%;
+    width: 80%;
 }
 
 
