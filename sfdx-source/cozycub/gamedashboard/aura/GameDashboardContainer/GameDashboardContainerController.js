@@ -35,7 +35,7 @@
             }
         )
         .then(function(result) {
-
+            
             var game_array = JSON.parse(result.games);
 
             for(var i = 0; i < game_array.length; i++){
