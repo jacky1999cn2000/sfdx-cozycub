@@ -43,6 +43,15 @@
                 filteredList.push(game_array[i]);
             }
 
+            filteredList.sort(function(a, b){
+                if(a['name'] > b['name']){
+                    return 1;
+                }else if(a['name'] < b['name']){
+                    return -1;
+                }
+                return 0;
+            });
+
             component.set('v.originalList', originalList);
             component.set('v.filteredList', filteredList);
             component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
@@ -65,6 +74,15 @@
 
         var filteredList = originalList.filter(function(game) {
             return game.name.toUpperCase().indexOf(keyword.toUpperCase()) != -1;
+        });
+
+        filteredList.sort(function(a, b){
+            if(a['name'] > b['name']){
+                return 1;
+            }else if(a['name'] < b['name']){
+                return -1;
+            }
+            return 0;
         });
 
         component.set('v.filteredList', filteredList);
