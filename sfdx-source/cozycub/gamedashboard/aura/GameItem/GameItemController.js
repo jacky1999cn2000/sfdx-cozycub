@@ -36,7 +36,7 @@
         var selectionEvent = component.getEvent("SelectionEvent");
         if(selectionEvent != null) {
             selectionEvent.setParam("gameId", component.get('v.gameId'));
-            // fire the event
+            selectionEvent.setParam("eventType", 'game');
             selectionEvent.fire();                            
         }
     }

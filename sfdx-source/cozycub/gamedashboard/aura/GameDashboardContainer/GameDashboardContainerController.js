@@ -69,5 +69,14 @@
 
         component.set('v.filteredList', filteredList);
         component.set('v.totalPages', Math.ceil(filteredList.length/12));
+    },
+
+    handleSelectionEvent : function(component, event, helper) {
+        var gameId = event.getParam("gameId");
+        var eventType = event.getParam("eventType");
+
+        if(eventType == 'game'){
+            component.set('v.selectedGameId',gameId);
+        }
     }
 })

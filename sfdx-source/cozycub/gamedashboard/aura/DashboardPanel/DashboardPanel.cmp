@@ -1,4 +1,4 @@
-<aura:component>
+<aura:component description="Dashboard Panel" controller="GameDashboardController">
 
     <div class="slds-grid slds-grid_vertical">
 

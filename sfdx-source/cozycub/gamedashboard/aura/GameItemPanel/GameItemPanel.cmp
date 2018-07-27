@@ -5,8 +5,6 @@
         <aura:attribute name="endIndex" type="Integer"/>
         <aura:attribute name="selectedGameId" type="String"/>
 
-        <aura:handler name="SelectionEvent" event="c:SelectionEvent" action="{!c.handleSelectionEvent}"/>
-
         <div class="slds-grid slds-wrap">
             <aura:iteration items="{!v.gameList}" var="item" indexVar="index">
                 <aura:if isTrue="{!and(index >= v.startIndex, v.endIndex > index)}">
