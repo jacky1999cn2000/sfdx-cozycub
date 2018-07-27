@@ -68,6 +68,8 @@
         });
 
         component.set('v.filteredList', filteredList);
+        component.set('v.startIndex', 0);
+        component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
         component.set('v.totalPages', Math.ceil(filteredList.length/12));
     },
 
