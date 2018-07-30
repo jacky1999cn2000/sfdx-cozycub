@@ -38,4 +38,6 @@
 
 * [Figure out which element you are applying the custom css](https://salesforce.stackexchange.com/questions/147153/lightning-icon-color-is-not-changing-using-the-fill-css)
 
+* [flip image](https://davidwalsh.name/css-flip)
+
 * [lightning container](https://developer.salesforce.com/blogs/2018/04/lightning-container-component-building-components-with-react-angular-and-other-libraries.html)

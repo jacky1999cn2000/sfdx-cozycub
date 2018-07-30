@@ -31,7 +31,7 @@
             <!-- content -->
             <div class="slds-col">
                 <div class="card-container">
-                    <div class="card">
+                    <div class="card" aura:id="card">
                         <div class="side">
                             <c:FrontCard />
                         </div>

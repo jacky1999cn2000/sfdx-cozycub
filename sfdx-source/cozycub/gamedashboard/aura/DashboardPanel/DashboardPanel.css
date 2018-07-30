@@ -30,28 +30,29 @@
 
 .THIS .card {
     height: 100%;
+    width: 100%;
     position: absolute;
     transform-style: preserve-3d;
     transition: all 1s ease-in-out;
-    width: 100%;
 }
 
 
-.THIS .card:hover {
+.THIS .card.flipper {
     transform: rotateY(180deg);
 }
 
-.THIS .card .side {
-    backface-visibility: hidden;
+.THIS .side {
     height: 100%;
+    width: 100%;
+    backface-visibility: hidden;
     position: absolute;
     overflow: hidden;
-    width: 100%;
+    
 
     background: grey;
 }
 
-.THIS .card .back {
+.THIS .back {
     transform: rotateY(180deg);
 
     background: grey;
