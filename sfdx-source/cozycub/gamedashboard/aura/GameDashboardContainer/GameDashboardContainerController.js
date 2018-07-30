@@ -44,9 +44,9 @@
             }
 
             filteredList.sort(function(a, b){
-                if(a['name'] > b['name']){
+                if(a['name'].toUpperCase() > b['name'].toUpperCase()){
                     return 1;
-                }else if(a['name'] < b['name']){
+                }else if(a['name'].toUpperCase() < b['name'].toUpperCase()){
                     return -1;
                 }
                 return 0;
@@ -54,7 +54,8 @@
 
             component.set('v.originalList', originalList);
             component.set('v.filteredList', filteredList);
-            component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
+            component.set('v.startIndex', 0);
+            component.set('v.endIndex', 12);
             component.set('v.totalPages', Math.ceil(filteredList.length/12));
 
         }).catch(function(error) {
@@ -77,9 +78,9 @@
         });
 
         filteredList.sort(function(a, b){
-            if(a['name'] > b['name']){
+            if(a['name'].toUpperCase() > b['name'].toUpperCase()){
                 return 1;
-            }else if(a['name'] < b['name']){
+            }else if(a['name'].toUpperCase() < b['name'].toUpperCase()){
                 return -1;
             }
             return 0;
@@ -87,7 +88,7 @@
 
         component.set('v.filteredList', filteredList);
         component.set('v.startIndex', 0);
-        component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
+        component.set('v.endIndex', 12);
         component.set('v.totalPages', Math.ceil(filteredList.length/12));
     },
 

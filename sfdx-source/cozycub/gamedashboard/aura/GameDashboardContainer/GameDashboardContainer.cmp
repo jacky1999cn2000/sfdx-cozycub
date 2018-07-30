@@ -1,6 +1,6 @@
 <aura:component description="Game Dashboard Container" implements="flexipage:availableForAllPageTypes" access="global" controller="GameDashboardController">
 
-        <aura:attribute name="startIndex" type="Integer" default="0"/>
+        <aura:attribute name="startIndex" type="Integer"/>
         <aura:attribute name="endIndex" type="Integer"/>
         <aura:attribute name="totalPages" type="Integer"/>
     
