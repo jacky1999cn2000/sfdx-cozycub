@@ -44,7 +44,11 @@
 
             <!-- bottom -->
             <div class="slds-col">
-                bottom 
+                <div class="slds-grid slds-grid_align-center">
+                    <div class="slds-col">
+                        <lightning:buttonIcon iconName="utility:fallback" size="large" variant="bare" onclick="{!c.flip}"/>
+                    </div>
+                </div>
             </div>
     
         </div>
