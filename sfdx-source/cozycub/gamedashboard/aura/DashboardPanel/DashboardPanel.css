@@ -8,6 +8,12 @@
     border-color: black;
 }
 
+.THIS .info {
+    font-family: 'customFont';
+    font-size: 18px;
+    color: black;
+}
+
 .THIS .rounds{
     margin-top: 10px;
     margin-bottom: 10px;

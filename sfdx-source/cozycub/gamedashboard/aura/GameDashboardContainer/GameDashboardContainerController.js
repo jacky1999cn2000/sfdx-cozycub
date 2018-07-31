@@ -94,10 +94,16 @@
 
     handleSelectionEvent : function(component, event, helper) {
         var gameId = event.getParam("gameId");
+        var name = event.getParam("name");
+        var round = event.getParam("round");
+        var bet = event.getParam("bet");
         var eventType = event.getParam("eventType");
 
         if(eventType == 'game'){
             component.set('v.selectedGameId',gameId);
+            component.set('v.name',name);
+            component.set('v.round',round);
+            component.set('v.bet',bet);
         }
     }
 })

@@ -7,6 +7,13 @@
         <aura:attribute name="originalGameList" type="List"/>
         <aura:attribute name="filteredGameList" type="List"/>
 
+        <aura:attribute name="originalRoundList" type="List"/>
+        <aura:attribute name="filteredRoundList" type="List"/>
+
+        <aura:attribute name="name" type="String" default="Please select a game..."/>
+        <aura:attribute name="round" type="Integer" default="0"/>
+        <aura:attribute name="bet" type="Decimal" default="0"/>
+
         <aura:attribute name="keyword" type="String"/>
         <aura:attribute name="selectedGameId" type="String" default=""/>
 
@@ -41,7 +48,7 @@
 
             <div class="slds-col slds-size_5-of-12">
 
-                <c:DashboardPanel/>
+                <c:DashboardPanel name="{!v.name}" round="{!v.round}" bet="{!v.bet}"/>
 
             </div>
             

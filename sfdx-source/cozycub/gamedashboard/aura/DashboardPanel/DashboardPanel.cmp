@@ -1,9 +1,26 @@
 <aura:component description="Dashboard Panel" controller="GameDashboardController">
 
+    <aura:attribute name="name" type="String"/>
+    <aura:attribute name="round" type="Integer"/>
+    <aura:attribute name="bet" type="Decimal"/>
+
     <div class="slds-grid slds-grid_vertical">
 
             <!-- header -->
             <div class="slds-col"> 
+                <div class="infos">
+                    <div class="slds-grid slds-grid_align-space">
+                        <div class="slds-col">
+                            <div class="info">{!v.name}</div>
+                        </div>
+                        <div class="slds-col">
+                            <div class="info">{!v.round} rounds</div>
+                        </div>
+                        <div class="slds-col">
+                            <div class="info">${!v.bet} per bet</div>
+                        </div>
+                    </div>
+                </div>
                 <div class="rounds">
                     <div class="slds-grid slds-grid_align-center">
                         <div class="slds-col"> 
