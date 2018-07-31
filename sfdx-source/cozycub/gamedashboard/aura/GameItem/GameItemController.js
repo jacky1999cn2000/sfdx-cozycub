@@ -36,6 +36,9 @@
         var selectionEvent = component.getEvent("SelectionEvent");
         if(selectionEvent != null) {
             selectionEvent.setParam("gameId", component.get('v.gameId'));
+            selectionEvent.setParam("name", component.get('v.name'));
+            selectionEvent.setParam("round", component.get('v.round'));
+            selectionEvent.setParam("bet", component.get('v.bet'));
             selectionEvent.setParam("eventType", 'game');
             selectionEvent.fire();                            
         }

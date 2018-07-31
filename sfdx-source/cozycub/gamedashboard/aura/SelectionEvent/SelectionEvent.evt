@@ -1,5 +1,8 @@
 <aura:event type="COMPONENT">
     <aura:attribute name="gameId" type="String"/>
-    <aura:attribute name="roundNumber" type="Integer"/>
+    <aura:attribute name="name" type="String"/>
+    <aura:attribute name="round" type="Integer"/>
+    <aura:attribute name="bet" type="Decimal"/>
+    <aura:attribute name="selectedRound" type="Integer"/>
     <aura:attribute name="eventType" type="String"/>
 </aura:event>
