@@ -7,8 +7,8 @@
             however, it sometimes seemed not very stable (would stuck) - probably better to use lightning event in real scenario?
         */
 
-       var originalList = [];
-       var filteredList = [];
+       var originalGameList = [];
+       var filteredGameList = [];
 
         var action = component.get('c.getGames');
         action.setParams({'limitValue': 200, 'offsetValue': 0});
@@ -22,13 +22,13 @@
                 var game_array = JSON.parse(result.games);
 
                 for(var i = 0; i < game_array.length; i++){
-                    originalList.push(game_array[i]);
-                    filteredList.push(game_array[i]);
+                    originalGameList.push(game_array[i]);
+                    filteredGameList.push(game_array[i]);
                 }
 
-                component.set('v.originalList', originalList);
-                component.set('v.filteredList', filteredList);
-                component.set('v.endIndex', filteredList.length < 12 ? filteredList.length : 12);
+                component.set('v.originalGameList', originalGameList);
+                component.set('v.filteredGameList', filteredGameList);
+                component.set('v.endIndex', filteredGameList.length < 12 ? filteredGameList.length : 12);
 
                 action.setParams({'limitValue': 200, 'offsetValue': result.offset});
                 return AuraPromise.serverSideCall(action, component);
@@ -39,11 +39,11 @@
             var game_array = JSON.parse(result.games);
 
             for(var i = 0; i < game_array.length; i++){
-                originalList.push(game_array[i]);
-                filteredList.push(game_array[i]);
+                originalGameList.push(game_array[i]);
+                filteredGameList.push(game_array[i]);
             }
 
-            filteredList.sort(function(a, b){
+            filteredGameList.sort(function(a, b){
                 if(a['name'].toUpperCase() > b['name'].toUpperCase()){
                     return 1;
                 }else if(a['name'].toUpperCase() < b['name'].toUpperCase()){
@@ -52,11 +52,11 @@
                 return 0;
             });
 
-            component.set('v.originalList', originalList);
-            component.set('v.filteredList', filteredList);
+            component.set('v.originalGameList', originalGameList);
+            component.set('v.filteredGameList', filteredGameList);
             component.set('v.startIndex', 0);
             component.set('v.endIndex', 12);
-            component.set('v.totalPages', Math.ceil(filteredList.length/12));
+            component.set('v.totalPages', Math.ceil(filteredGameList.length/12));
 
         }).catch(function(error) {
             console.log('Error: ' + error);
@@ -69,15 +69,15 @@
         console.log('keywordChanged');
 
         var keyword = component.get('v.keyword');
-        var originalList = component.get('v.originalList');
+        var originalGameList = component.get('v.originalGameList');
 
         component.set('v.spinning', true);
 
-        var filteredList = originalList.filter(function(game) {
+        var filteredGameList = originalGameList.filter(function(game) {
             return game.name.toUpperCase().indexOf(keyword.toUpperCase()) != -1;
         });
 
-        filteredList.sort(function(a, b){
+        filteredGameList.sort(function(a, b){
             if(a['name'].toUpperCase() > b['name'].toUpperCase()){
                 return 1;
             }else if(a['name'].toUpperCase() < b['name'].toUpperCase()){
@@ -86,10 +86,10 @@
             return 0;
         });
 
-        component.set('v.filteredList', filteredList);
+        component.set('v.filteredGameList', filteredGameList);
         component.set('v.startIndex', 0);
         component.set('v.endIndex', 12);
-        component.set('v.totalPages', Math.ceil(filteredList.length/12));
+        component.set('v.totalPages', Math.ceil(filteredGameList.length/12));
     },
 
     handleSelectionEvent : function(component, event, helper) {

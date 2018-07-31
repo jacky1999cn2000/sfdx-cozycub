@@ -4,8 +4,8 @@
         <aura:attribute name="endIndex" type="Integer"/>
         <aura:attribute name="totalPages" type="Integer"/>
     
-        <aura:attribute name="originalList" type="List"/>
-        <aura:attribute name="filteredList" type="List"/>
+        <aura:attribute name="originalGameList" type="List"/>
+        <aura:attribute name="filteredGameList" type="List"/>
 
         <aura:attribute name="keyword" type="String"/>
         <aura:attribute name="selectedGameId" type="String" default=""/>
@@ -24,10 +24,10 @@
                         <c:ArrowLeft startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" />
                     </div>
                     <div class="slds-col slds-size_10-of-12">
-                        <c:GameItemPanel gameList="{!v.filteredList}" startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" selectedGameId="{!v.selectedGameId}"/>
+                        <c:GameItemPanel gameList="{!v.filteredGameList}" startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" selectedGameId="{!v.selectedGameId}"/>
                     </div>
                     <div class="slds-col slds-size_1-of-12">
-                        <c:ArrowRight startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" totalRecords="{!v.filteredList.length}" />
+                        <c:ArrowRight startIndex="{!v.startIndex}" endIndex="{!v.endIndex}" totalRecords="{!v.filteredGameList.length}" />
                     </div>
                 </div>
                 
