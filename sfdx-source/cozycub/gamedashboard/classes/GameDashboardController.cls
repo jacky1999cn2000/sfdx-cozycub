@@ -47,4 +47,64 @@ public class GameDashboardController {
         public Decimal bet;
         public Decimal round;
     }
+
+    /*
+        Round classes was used to serialize/deserialize data and passed bewteen lightning component and apex classes
+    */
+
+    @AuraEnabled
+    public static Map<String, Object> getRounds(String gameId){
+
+        System.debug('***getRounds');
+
+        Map<String, Object> result = new Map<String, Object>();
+
+        List<cozycub__Round_Dashboard__c> roundObjectList = [SELECT cozycub__Dice__c,cozycub__Game_Name__c,cozycub__Player_Name__c, cozycub__Money__c,cozycub__Round__c FROM cozycub__Round_Dashboard__c WHERE cozycub__Game_Id__c =: gameId];
+
+        System.debug('***roundObjectList '+roundObjectList.size());
+
+        List<Round> roundList = new List<Round>();
+
+        Map<String, Decimal> totalMoneyByPlayer = new Map<String, Decimal>();
+
+        for(cozycub__Round_Dashboard__c round : roundObjectList){
+            Round r = new Round();
+            r.dice = round.cozycub__Dice__c;
+            r.playerName = round.cozycub__Player_Name__c;
+            r.money = round.cozycub__Money__c;
+            r.round = (Integer)round.cozycub__Round__c;
+            roundList.add(r);
+
+            if(totalMoneyByPlayer.get(round.cozycub__Player_Name__c) == null){
+                totalMoneyByPlayer.put(round.cozycub__Player_Name__c, round.cozycub__Money__c);
+            }else{
+                totalMoneyByPlayer.put(round.cozycub__Player_Name__c, totalMoneyByPlayer.get(round.cozycub__Player_Name__c) + round.cozycub__Money__c);
+            }
+        }
+
+        for(String playerName : totalMoneyByPlayer.keySet()){
+            Round r = new Round();
+            r.dice = null;
+            r.playerName = playerName;
+            r.money = totalMoneyByPlayer.get(playerName);
+            r.round = 0;
+            roundList.add(r);
+        }
+
+        String rounds_string = JSON.serialize(roundList);
+        System.debug('***rounds_string '+rounds_string);
+
+        result.put('status','success');
+        result.put('rounds', rounds_string);
+        result.put('errorMessage','');
+
+        return result;
+    }   
+
+    public class Round {
+        public String dice;
+        public String playerName;
+        public Decimal money;
+        public Integer round;
+    }
 }
