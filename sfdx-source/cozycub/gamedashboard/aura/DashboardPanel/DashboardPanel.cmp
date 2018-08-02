@@ -5,7 +5,13 @@
     <aura:attribute name="rounds" type="List"/>
     <aura:attribute name="bet" type="Decimal"/>
 
+    <aura:attribute name="roundList" type="List"/>
+    <aura:attribute name="filteredRoundList" type="List"/>
+
+    <aura:attribute name="selectedRound" type="Integer" default="1"/>
+
     <aura:handler name="change" value="{!v.name}" action="{!c.nameChange}"/>
+    <aura:handler name="change" value="{!v.selectedRound}" action="{!c.selectedRoundChanged}"/>
 
     <div class="slds-grid slds-grid_vertical">
 

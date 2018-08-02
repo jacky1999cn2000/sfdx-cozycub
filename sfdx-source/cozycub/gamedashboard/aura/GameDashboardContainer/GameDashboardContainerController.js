@@ -100,10 +100,31 @@
         var eventType = event.getParam("eventType");
 
         if(eventType == 'game'){
-            component.set('v.round',round);
-            component.set('v.bet',bet);
-            component.set('v.selectedGameId',gameId);
-            component.set('v.name',name);
+            
+            var action = component.get('c.getRounds');
+            action.setParams({'gameId': gameId});
+            AuraPromise.serverSideCall(action, component).then(function(result) {
+                if(result.status == 'success'){
+
+                    var round_array = JSON.parse(result.rounds);
+                    var roundList = [];
+                    
+                    for(var i = 0; i < round_array.length; i++){
+                        roundList.push(round_array[i]);
+                    }
+
+                    component.set('v.roundList', roundList);
+                    component.set('v.round',round);
+                    component.set('v.bet',bet);
+                    component.set('v.selectedGameId',gameId);
+                    component.set('v.name',name);
+        
+                }else{
+                    console.log('Error: ' + result.errorMessage);
+                }
+            }).catch(function(error) {
+                console.log('Error: ' + error);
+            });
         }
     }
 })
