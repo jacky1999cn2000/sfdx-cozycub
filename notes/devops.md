@@ -6,7 +6,11 @@
     * connect CLI to devhub: `sfdx force:auth:web:login -d -a DevHub`
     * create scratch org:
         * `sfdx force:org:create -s -f config/project-scratch-def.json -a CozyCubDev`
-    * [link a namespece to devhub](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_reg_namespace.htm)
+    * link a namespece to devhub
+        * [first, you need to login to your devhub and enable custom domain - may require a relogin after custom domain was enabled](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_reg_namespace.htm)
+        * [second, you need to first login to your packaging org and create namespace while keep devhub open](https://help.salesforce.com/articleView?id=register_namespace_prefix.htm&type=5)
+        * last, follow the instructions to click the button, login to your packaging org in the pop-up, and finish the link
+        
 
 * orgs for this project
     * devhub org
